@@ -2,7 +2,7 @@
 title: Trang chủ
 description: 
 published: true
-date: 2024-11-07T09:02:38.836Z
+date: 2024-11-07T09:03:56.762Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-07T05:13:20.517Z
@@ -10,15 +10,11 @@ dateCreated: 2024-11-07T05:13:20.517Z
 
 # Mu0rs
 
----
-
 | Name | Version | Exp | Drop | Level | Since | Status |
 |:---|:---|:---|:---|:---|:---|
 | Memory   | Version 6.3 custom | High   | High     | Easy      | Open 18/06/2016 | Live | 
 | HardCore | Version 6.3 custom | Medium | Medium   | Very Hard | Open 9/9/2023   | Live |
 | Buffalo  | Version 6.3 custom | Low    | Very Low | Very Hard | Comming soon... | n/a  |
-
----
 
 > Game chỉ là ảo - Nhậu chung mới hay ^^!
 
