@@ -2,7 +2,7 @@
 title: Characters
 description: 
 published: true
-date: 2024-11-07T08:12:40.109Z
+date: 2024-11-07T08:20:42.175Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-07T07:18:33.356Z
