@@ -2,19 +2,39 @@
 title: Dark Night
 description: The Dark Knight is a fearless warrior with high strength and agility. They use their special abilities to deal powerful physical attacks on enemies with sword type weapons.
 published: true
-date: 2024-11-07T06:27:48.230Z
+date: 2024-11-07T09:51:18.753Z
 tags: char, dk
 editor: markdown
 dateCreated: 2024-11-07T06:27:48.230Z
 ---
 
-# Dark Kinght
+# Thông tin cơ bản
 
-## Thông tin cơ bản
+## Strength
+| Base | Max ATK Power | Min ATK Power | ATK Success Rate | AG |
+|:-----|:--------------|:--------------|:-----------------|:---|
+| 28 | x | x | x | x |
 
-## Skill
+## Agility
+| Base | ATK Speed | ATK Success Rate | ATK Success Rate (PVP) | Def | Def Rate | Def Rate (PVP) |
+|:-----|:----------|:-----------------|:-----------------------|:----|:---------|:---------------|
+| 20 | x | x | x | x | x | x |
 
-## Tính năng customize
+---
+
+## Stamina
+| Base | Heath | AG |
+|:-----|:------|:---|
+| 25 | x | x |
+
+## Energy
+| Base | Skill Power | Mana | AG |
+|:-----|:------------|:-----|:---|
+| 10 | x | x | x |
+
+# Skill
+
+# Tính năng customize
 
 STR tăng chính xác
 
