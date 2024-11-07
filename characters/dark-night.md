@@ -1,8 +1,8 @@
 ---
-title: Dark Night
+title: Dark Knight
 description: The Dark Knight is a fearless warrior with high strength and agility. They use their special abilities to deal powerful physical attacks on enemies with sword type weapons.
 published: true
-date: 2024-11-07T09:51:18.753Z
+date: 2024-11-07T09:52:32.869Z
 tags: char, dk
 editor: markdown
 dateCreated: 2024-11-07T06:27:48.230Z
