@@ -2,7 +2,7 @@
 title: Characters
 description: 
 published: true
-date: 2024-11-07T08:20:42.175Z
+date: 2024-11-07T09:53:00.313Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-07T07:18:33.356Z
@@ -10,7 +10,7 @@ dateCreated: 2024-11-07T07:18:33.356Z
 
 # Nhân Vật
 
-- [Dark Night](/vi/characters/dark-night)
+- [Dark Knight](/vi/characters/dark-knight)
 - [Fairy Elf](/vi/characters/fairy-elf)
 - [Dark Wizard](/vi/characters/dark-wizard)
 - [Summoner](/vi/characters/summoner)
