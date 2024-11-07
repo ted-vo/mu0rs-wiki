@@ -2,7 +2,7 @@
 title: Characters
 description: 
 published: true
-date: 2024-11-07T08:00:22.489Z
+date: 2024-11-07T08:05:52.077Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-07T07:18:33.356Z
@@ -13,3 +13,4 @@ dateCreated: 2024-11-07T07:18:33.356Z
 - [Dark Night](/vi/characters/dark-night)
 - [Fairy Elf](/vi/characters/fairy-elf)
 - [Dark Wizard](/vi/characters/dark-wizard)
+- [Summoner](/vi/characters/summoner)
