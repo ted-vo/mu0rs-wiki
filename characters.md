@@ -1,14 +1,12 @@
 ---
-title: Characters
+title: Nhân Vật
 description: 
 published: true
-date: 2024-11-07T09:53:00.313Z
+date: 2024-11-07T10:51:25.651Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-07T07:18:33.356Z
 ---
-
-# Nhân Vật
 
 - [Dark Knight](/vi/characters/dark-knight)
 - [Fairy Elf](/vi/characters/fairy-elf)
