@@ -2,13 +2,23 @@
 title: Trang chủ
 description: 
 published: true
-date: 2024-11-07T05:43:21.344Z
+date: 2024-11-07T09:02:38.836Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-07T05:13:20.517Z
 ---
 
 # Mu0rs
+
+---
+
+| Name | Version | Exp | Drop | Level | Since | Status |
+|:---|:---|:---|:---|:---|:---|
+| Memory   | Version 6.3 custom | High   | High     | Easy      | Open 18/06/2016 | Live | 
+| HardCore | Version 6.3 custom | Medium | Medium   | Very Hard | Open 9/9/2023   | Live |
+| Buffalo  | Version 6.3 custom | Low    | Very Low | Very Hard | Comming soon... | n/a  |
+
+---
 
 > Game chỉ là ảo - Nhậu chung mới hay ^^!
 
@@ -26,12 +36,6 @@ Ngay từ khi thành lập sever MU NON RESET thì phía BQT đã hướng đế
 
 Các anh tự hỏi sever của Mu0rs ổn định không ? Sever MU có mở webshop bán đồ không ? Chơi MU này có tốn tiền không ? Và cái quan trọng là Admin có bán đồ ra ngoài không ? ………… Về phần này các anh có thể tự hỏi các thành viên đang chơi thì sẽ có câu trả lời chính xác nhất 
 
-> Thay mặt toàn thể BQT chúc anh em vui chơi giải trí & nhớ giữ gìn sức khỏe
 
-| Server Memory  | Server HardCore |
-|---|---|
-| Version 6.3 custom | Version 6.3 custom |
-| High Exp | Medium Exp |
-| High Drop  | Medium Drop |
-| Base Server | Very Hard |
-| Open 18/06/2016 | Open 9/9/2023 |
+> Thay mặt toàn thể BQT chúc anh em vui chơi giải trí & nhớ giữ gìn sức khỏe
+{.is-info}
