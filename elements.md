@@ -2,7 +2,7 @@
 title: Elements
 description: 
 published: true
-date: 2024-11-08T13:10:41.214Z
+date: 2024-11-08T13:20:41.770Z
 tags: ele, posion, lighting, fire, ice, element
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
@@ -39,9 +39,8 @@ dateCreated: 2024-11-07T08:25:00.416Z
 ![ele-ice-spec.gif](/ele-ice-spec.gif)
 
 ## Lighting Element
-[![](http://img.youtube.com/vi/oJ7jYE5iwwE/0.jpg)](https://www.youtube.com/watch?v=oJ7jYE5iwwE)
+![ele-lighting-spec.gif](/ele-lighting-spec.gif)
 
 ## Posion Element
 
-[![](http://img.youtube.com/vi/zrUPW3ucWsk/0.jpg)](https://www.youtube.com/watch?v=zrUPW3ucWsk)
-
+![ele-posion-spec.gif](/ele-posion-spec.gif)
