@@ -2,7 +2,7 @@
 title: Elements
 description: 
 published: true
-date: 2024-11-08T10:57:20.393Z
+date: 2024-11-08T11:43:54.957Z
 tags: ele, posion, lighting, fire, ice, element
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
@@ -32,7 +32,7 @@ dateCreated: 2024-11-07T08:25:00.416Z
 | [Ice](#ice-element)           | Nguyên tố băng | 0 | | |
 
 ## Fire Element!
-![fire-ele-special.gif](/fire-ele-special.gif)
+![ele-fire-spec.gif](/ele-fire-spec.gif)
 
 ## Ice Element
 
