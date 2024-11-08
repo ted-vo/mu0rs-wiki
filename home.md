@@ -2,7 +2,7 @@
 title: Trang chủ
 description: 
 published: true
-date: 2024-11-07T09:04:42.082Z
+date: 2024-11-08T02:27:09.329Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-07T05:13:20.517Z
@@ -12,8 +12,8 @@ dateCreated: 2024-11-07T05:13:20.517Z
 
 | Name | Version | Exp | Drop | Level | Since | Status |
 |:---|:---|:---|:---|:---|:---|:---|
-| Memory   | Version 6.3 custom | High   | High     | Easy      | Open 18/06/2016 | Live | 
-| HardCore | Version 6.3 custom | Medium | Medium   | Very Hard | Open 9/9/2023   | Live |
+| Memory   | Version 6.3 custom | High   | High     | Easy      | Open 18/06/2016 | [![](https://img.shields.io/badge/play-LIVE-green.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+)](https://mu0rs.com) | 
+| HardCore | Version 6.3 custom | Medium | Medium   | Very Hard | Open 9/9/2023   | ![](https://img.shields.io/badge/play-LIVE-green.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+) |
 | Buffalo  | Version 6.3 custom | Low    | Very Low | Very Hard | Comming soon... | n/a  |
 
 > Game chỉ là ảo - Nhậu chung mới hay ^^!
