@@ -2,7 +2,7 @@
 title: Elements
 description: 
 published: true
-date: 2024-11-08T12:29:40.642Z
+date: 2024-11-08T12:29:58.437Z
 tags: ele, posion, lighting, fire, ice, element
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
@@ -27,9 +27,9 @@ dateCreated: 2024-11-07T08:25:00.416Z
 | Element | Mô Tả | Số lượng tính năng (op) | Hiệu ứng | Tác dụng đặc biệt | Ví dụ |
 |:--------|:------|:------------------------|:---------|:------------------|:------|
 | [Fire](#fire-element)         | Nguyên tố lửa | 0 | [Đốt cháy](https://youtu.be/DIOkvO-GxsM?feature=shared)   | - Gây sát thương đốt máu liên tục. Sát thương đốt cháy dựa vào sát thương gây ra cuối cùng. <br>- Giảm giáp đối phương <br>- Giảm hồi máu đối phương (giống hiệu ứng `Vết Thương Sâu` của LOL hay hiệu ứng của `Eye of Skadi` bên DotA 2  | - Phù hợp kiểu build có dame kết thúc lớn. <br>- Phù hợp khi đối đầu với đối thủ nhiều máu <br>- vân vân mây mây |
-| [Lighting](#lighting-element) | Nguyên tố sét | 0 | Làm choáng | - Choáng 1s <br> - Bỏ phòng thủ 30% <br> - Giảm 100% né tránh của đối phương <br> - Giảm  Trong 5s hưởng được hiệu ứng này 5s (ign def của nạn nhân  ||
-| [Posion](#posion-element)     | Nguyên tố độc  | 0 | | ||
-| [Ice](#ice-element)           | Nguyên tố băng | 0 | | ||
+| [Lighting](#lighting-element) | Nguyên tố sét | 0 | Làm choáng | - Choáng 1s <br> - Bỏ phòng thủ 30% <br> - Giảm 100% né tránh của đối phương <br> - Giảm  Trong 5s hưởng được hiệu ứng này 5s (ign def của nạn nhân  | |
+| [Posion](#posion-element)     | Nguyên tố độc  | 0 | | | |
+| [Ice](#ice-element)           | Nguyên tố băng | 0 | | | |
 
 ## Fire Element!
 ![ele-fire-spec.gif](/ele-fire-spec.gif)
