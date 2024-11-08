@@ -1,14 +1,12 @@
 ---
-title: Trang chủ
+title: Thông tin máy chủ
 description: 
 published: true
-date: 2024-11-08T02:27:44.584Z
+date: 2024-11-08T09:38:48.907Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-07T05:13:20.517Z
 ---
-
-# Mu0rs
 
 | Name | Version | Exp | Drop | Level | Since | Status |
 |:---|:---|:---|:---|:---|:---|:---|
