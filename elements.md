@@ -2,8 +2,8 @@
 title: Elements
 description: 
 published: true
-date: 2024-11-08T10:21:52.722Z
-tags: ele, posion, lighting, fire, ice
+date: 2024-11-08T10:32:34.459Z
+tags: ele, posion, lighting, fire, ice, element
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
 ---
@@ -24,15 +24,16 @@ dateCreated: 2024-11-07T08:25:00.416Z
 >
 > Tôi khẳng định, đây là 1 tính năng custom hay và độc quyền của server mu0rs.com. Chúng tôi viết và dựa trên cái có sẳn mà webzen để lại, chúng tôi thừa hưởng nó từ đàn anh webzen để viết ra, chứ ko phải tự sáng chế ra 100%. Ngoài ra, còn ăn cắp thêm 1 số ý tưởng từ game tôi yêu thích PoE (path of exile). Tuy nhiên.... có 1 số thứ vẫn chưa hoạt động đúng, hoạt động lỗi, hoặc quá mạnh, quá yếu so với quy định. Và trong quá trình phát triển của Mu0rs.com, sẽ có cập nhật, thay đổi, chỉnh sửa, nhằm giúp cho cân bằng hơn, balance hơn (nói về balance, sv clbmu,mu0rs gần như config khá tốt, chấp nhận được, ko hoàn hảo nhưng đở hơn các sv của anh em khác). Và những lần chỉnh sửa này, ảnh hưởng ít nhiều đến cách build, cách lên đồ của các bạn.....Cái này, thật sự rất khó nói, vì trước khi ra tính năng này, chúng tôi đã từng nói, nó sẽ ko ổn định, thậm chí rất khó để cân balance... Nên sẽ có các cập nhật thay đổi phù hợp theo từng giai đoạn phát triển của server v.v.... Việc này, sẽ làm mất lòng , mất tiền, mất time của 1 số anh em. Mong anh em chấp nhận cùng chúng tôi. Ai mà muốn đi chỉnh tới chỉnh lui hoài cơ chứ... Nhưng nó quá bá hoặc quá yếu thì phải tăng giảm ....
 
-| Element | Mô Tả | Số lượng tính năng (op) | Hiệu ứng | Tác dụng đặc biệt |
-|:--------|:------|:------------------------|:---------|:------------------|
-| [Fire](#fire-element)         | Nguyên tố lửa | 0 | Đốt cháy   | - Giảm giáp đối phương <br> - Giảm hồi máu đối phương (giống hiệu ứng `Vết Thương Sâu` của LOL hay hiệu ứng của `Eye of Skadi` bên DotA 2  |
-| [Lighting](#lighting-element) | Nguyên tố sét | 0 | Gây choáng | - Choáng 1s <br> - Bỏ phòng thủ 30% <br> - Giảm 100% né tránh của đối phương <br> - Giảm  Trong 5s hưởng được hiệu ứng này 5s (ign def của nạn nhân  |
-| [Posion](#posion-element)     | Nguyên tố độc  | 0 |
-| [Ice](#ice-element)           | Nguyên tố băng | 0 |
+| Element | Mô Tả | Số lượng tính năng (op) | Hiệu ứng | Tác dụng đặc biệt | Ví dụ |
+|:--------|:------|:------------------------|:---------|:------------------|:------|
+| [Fire](#fire-element)         | Nguyên tố lửa | 0 | [Đốt cháy](https://youtu.be/DIOkvO-GxsM?feature=shared)   | - Gây sát thương đốt máu liên tục. Sát thương đốt cháy dựa vào sát thương gây ra cuối cùng. <br>- Giảm giáp đối phương <br>- Giảm hồi máu đối phương (giống hiệu ứng `Vết Thương Sâu` của LOL hay hiệu ứng của `Eye of Skadi` bên DotA 2  | - Phù hợp kiểu build có dame kết thúc lớn. <br>- Phù hợp khi đối đầu với đối thủ nhiều máu <br>- vân vân mây mây |
+| [Lighting](#lighting-element) | Nguyên tố sét | 0 | Làm choáng | - Choáng 1s <br> - Bỏ phòng thủ 30% <br> - Giảm 100% né tránh của đối phương <br> - Giảm  Trong 5s hưởng được hiệu ứng này 5s (ign def của nạn nhân  |
+| [Posion](#posion-element)     | Nguyên tố độc  | 0 | | |
+| [Ice](#ice-element)           | Nguyên tố băng | 0 | | |
 
 
 ## Fire Element
+[![](http://img.youtube.com/vi/DIOkvO-GxsM/0.jpg)](https://www.youtube.com/watch?v=DIOkvO-GxsM)
 
 ## Lighting Element
 
