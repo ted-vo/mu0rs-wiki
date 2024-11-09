@@ -2,7 +2,7 @@
 title: Nguyên Tố Băng
 description: 
 published: true
-date: 2024-11-09T18:35:11.207Z
+date: 2024-11-09T18:37:29.536Z
 tags: ele, ice, special
 editor: markdown
 dateCreated: 2024-11-09T18:30:18.858Z
@@ -18,7 +18,7 @@ dateCreated: 2024-11-09T18:30:18.858Z
 
 # Tất cả Op
 
----
+# Liên quan
 - [Elements](/vi/elements)
 - [Fire](/vi/elements/fire)
 - [Lighting](/vi/elements/lighting)
