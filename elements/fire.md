@@ -2,7 +2,7 @@
 title: Nguyên Tố Lửa
 description: 
 published: true
-date: 2024-11-09T18:34:33.262Z
+date: 2024-11-09T18:38:02.123Z
 tags: ele, fire, special
 editor: markdown
 dateCreated: 2024-11-09T18:24:29.011Z
@@ -18,7 +18,6 @@ dateCreated: 2024-11-09T18:24:29.011Z
 
 # Tất cả Op
 
----
 # Liên quan
 - [Elements](/vi/elements)
 - [Ice](/vi/elements/ice)
