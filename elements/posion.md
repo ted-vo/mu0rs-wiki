@@ -2,7 +2,7 @@
 title: Nguyên Tố Độc
 description: 
 published: true
-date: 2024-11-09T18:39:09.408Z
+date: 2024-11-09T19:17:49.326Z
 tags: ele, posion, special
 editor: markdown
 dateCreated: 2024-11-09T18:39:09.408Z
@@ -10,7 +10,7 @@ dateCreated: 2024-11-09T18:39:09.408Z
 
 # Hiệu ứng đặt biệt
 
-![ele-fire-spec.gif](/ele-posion-spec.gif)
+![ele-posion-spec.gif](/assets/ele-posion-spec.gif){.align-center}
 
 # Op tấn công
 
