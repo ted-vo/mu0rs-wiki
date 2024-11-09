@@ -2,7 +2,7 @@
 title: Elements
 description: 
 published: true
-date: 2024-11-09T19:15:48.153Z
+date: 2024-11-09T19:25:18.118Z
 tags: ele, posion, lighting, fire, ice, element
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
@@ -26,7 +26,7 @@ dateCreated: 2024-11-07T08:25:00.416Z
 
 | Element | Mô Tả | Số lượng tính năng (op) | Hiệu ứng | Tác dụng đặc biệt | Ví dụ tham khảo |
 |:--------|:------|:------------------------|:---------|:------------------|:------|
-| [Fire](/elements/fire) | Nguyên tố lửa | 0 | ![ele-fire-spec.gif](/assets/ele-fire-spec.gif) | - `Đốt cháy` đối phương.<br>- Gây sát thương đốt máu liên tục. Sát thương đốt cháy dựa vào sát thương gây ra cuối cùng của đòn đánh (kỹ năng).<br>- Giảm giáp đối phương. | Phù hợp kiểu build có dame kết thúc lớn. |
-| [Ice](/elements/ice) | Nguyên tố băng | 0 | ![ele-ice-spec.gif](/assets/ele-ice-spec.gif) | - `Đóng băng` đối phương `0.5s` sau đó `làm chậm` trong `7s`. <br>- Khi bị `đóng băng` giảm `100%` khả năng `né tránh` và `100%` khả năng `block` đòn đánh của đối phương.<br>- Sát thương bị gây khi đối phương trong trạng thái `làm chậm`, sẽ tăng thêm `50%` tỉ lệ xuất hiện sát thương hoàn hảo. | Phù hợp với các build gây sát thương liên tục thật nhanh, hoặc cần phá block ( đỡ đòn từ khiên ), phá né của đối phương |
-| [Lighting](/elements/lighting) | Nguyên tố sét | 0 | ![ele-lighting-spec.gif](/assets/ele-lighting-spec.gif) | - `Choáng` đối phương trong `1s`.<br> - Khi bị `choáng` giảm `100%` khả năng `né tránh` và `100%` khả năng `block` đòn đánh của đối phương.<br>- Trong 5s hưởng hiệu ứng `30%` bỏ qua phòng thủ đối phương.<br>- Khi đối phương bị `crit dmg` từ nguyên tố này, sẽ bị knock back (đẩy lùi) 2-3 ô gì đó | Phù hợp với build có số hit đánh ra nhanh và nhiều |
-| [Posion](/elements/posion) | Nguyên tố độc | 0 | ![ele-posion-spec.gif](/assets/ele-posion-spec.gif) | - Dính `độc`, rút máu.<br>- Giảm né của đối phương 30%. <br>- Giảm hồi máu đối phương 50% (giống hiệu ứng `Vết Thương Sâu` của LOL hay hiệu ứng của `Eye of Skadi` bên DotA 2  | Phù hợp khi đối đầu với đối thủ nhiều máu. |
+| [Fire](/elements/fire) | Nguyên tố lửa | 0 | ![ele-fire-spec.gif](/assets/elements/ele-fire-spec.gif) | - `Đốt cháy` đối phương.<br>- Gây sát thương đốt máu liên tục. Sát thương đốt cháy dựa vào sát thương gây ra cuối cùng của đòn đánh (kỹ năng).<br>- Giảm giáp đối phương. | Phù hợp kiểu build có dame kết thúc lớn. |
+| [Ice](/elements/ice) | Nguyên tố băng | 0 | ![ele-ice-spec.gif](/assets/elements/ele-ice-spec.gif) | - `Đóng băng` đối phương `0.5s` sau đó `làm chậm` trong `7s`. <br>- Khi bị `đóng băng` giảm `100%` khả năng `né tránh` và `100%` khả năng `block` đòn đánh của đối phương.<br>- Sát thương bị gây khi đối phương trong trạng thái `làm chậm`, sẽ tăng thêm `50%` tỉ lệ xuất hiện sát thương hoàn hảo. | Phù hợp với các build gây sát thương liên tục thật nhanh, hoặc cần phá block ( đỡ đòn từ khiên ), phá né của đối phương |
+| [Lighting](/elements/lighting) | Nguyên tố sét | 0 | ![ele-lighting-spec.gif](/assets/elements/ele-lighting-spec.gif) | - `Choáng` đối phương trong `1s`.<br> - Khi bị `choáng` giảm `100%` khả năng `né tránh` và `100%` khả năng `block` đòn đánh của đối phương.<br>- Trong 5s hưởng hiệu ứng `30%` bỏ qua phòng thủ đối phương.<br>- Khi đối phương bị `crit dmg` từ nguyên tố này, sẽ bị knock back (đẩy lùi) 2-3 ô gì đó | Phù hợp với build có số hit đánh ra nhanh và nhiều |
+| [Posion](/elements/posion) | Nguyên tố độc | 0 | ![ele-posion-spec.gif](/assets/elements/ele-posion-spec.gif) | - Dính `độc`, rút máu.<br>- Giảm né của đối phương 30%. <br>- Giảm hồi máu đối phương 50% (giống hiệu ứng `Vết Thương Sâu` của LOL hay hiệu ứng của `Eye of Skadi` bên DotA 2  | Phù hợp khi đối đầu với đối thủ nhiều máu. |
