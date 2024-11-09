@@ -2,7 +2,7 @@
 title: Nguyên Tố Băng
 description: 
 published: true
-date: 2024-11-09T19:17:00.941Z
+date: 2024-11-09T19:24:17.449Z
 tags: ele, ice, special
 editor: markdown
 dateCreated: 2024-11-09T18:30:18.858Z
@@ -10,7 +10,7 @@ dateCreated: 2024-11-09T18:30:18.858Z
 
 # Hiệu ứng đặt biệt
 
-![ele-ice-spec.gif](/assets/ele-ice-spec.gif){.align-center}
+![ele-ice-spec.gif](/assets/elements/ele-ice-spec.gif){.align-center}
 
 # Op tấn công
 
