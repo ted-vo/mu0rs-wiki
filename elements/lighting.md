@@ -2,7 +2,7 @@
 title: Nguyên Tố Sét
 description: 
 published: true
-date: 2024-11-09T19:17:27.358Z
+date: 2024-11-09T19:23:56.617Z
 tags: ele, lighting
 editor: markdown
 dateCreated: 2024-11-09T18:27:32.779Z
@@ -10,7 +10,7 @@ dateCreated: 2024-11-09T18:27:32.779Z
 
 # Hiệu ứng đặt biệt
 
-![ele-lighting-spec.gif](/assets/ele-lighting-spec.gif){.align-center}
+![ele-lighting-spec.gif](/assets/elements/ele-lighting-spec.gif){.align-center}
 
 # Op tấn công
 
