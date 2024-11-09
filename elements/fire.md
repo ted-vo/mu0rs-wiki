@@ -2,7 +2,7 @@
 title: Nguyên Tố Lửa
 description: 
 published: true
-date: 2024-11-09T19:16:21.136Z
+date: 2024-11-09T19:24:52.980Z
 tags: ele, fire, special
 editor: markdown
 dateCreated: 2024-11-09T18:24:29.011Z
@@ -10,7 +10,7 @@ dateCreated: 2024-11-09T18:24:29.011Z
 
 # Hiệu ứng đặt biệt
 
-![ele-fire-spec.gif](/assets/ele-fire-spec.gif){.align-center}
+![ele-fire-spec.gif](/assets/elements/ele-fire-spec.gif){.align-center}
 
 # Op tấn công
 
