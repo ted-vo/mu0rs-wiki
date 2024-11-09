@@ -2,7 +2,7 @@
 title: Elements
 description: 
 published: true
-date: 2024-11-09T18:24:58.339Z
+date: 2024-11-09T18:29:27.327Z
 tags: ele, posion, lighting, fire, ice, element
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
@@ -27,9 +27,9 @@ dateCreated: 2024-11-07T08:25:00.416Z
 | Element | Mô Tả | Số lượng tính năng (op) | Hiệu ứng | Tác dụng đặc biệt | Ví dụ |
 |:--------|:------|:------------------------|:---------|:------------------|:------|
 | [Fire](/elements/fire)         | Nguyên tố lửa | 0 | ![ele-fire-spec.gif](/ele-fire-spec.gif) | - `Đốt cháy`<br>- Gây sát thương đốt máu liên tục. Sát thương đốt cháy dựa vào sát thương gây ra cuối cùng của đòn đánh (kỹ năng). <br>- Giảm giáp đối phương. <br>- Giảm hồi máu đối phương (giống hiệu ứng `Vết Thương Sâu` của LOL hay hiệu ứng của `Eye of Skadi` bên DotA 2  | - Phù hợp kiểu build có dame kết thúc lớn. <br>- Phù hợp khi đối đầu với đối thủ nhiều máu. <br>- vân vân mây mây. |
-| [Ice](#ice-element)           | Nguyên tố băng | 0 | ![ele-ice-spec.gif](/ele-ice-spec.gif) | - `Đóng băng` đối phương `0.5s` sau đó `làm chậm` trong `7s`. <br>- Khi bị `đóng băng` giảm `100%` khả năng `né tránh` và `100%` khả năng `block` đòn đánh của đối phương. <br>- Sát thương bị gây khi đối phương trong trạng thái `làm chậm`, sẽ tăng thêm 50% tỉ lệ xuất hiện sát thương hoàn hảo. | |
-| [Lighting](#lighting-element) | Nguyên tố sét | 0 | ![ele-lighting-spec.gif](/ele-lighting-spec.gif) | - `Choáng` trong `1s` <br> - Giảm phòng thủ đối phương `30%`. <br> - Giảm `100%` khả năng `né tránh` của đối phương. <br>- Trong 5s hưởng hiệu ứng bỏ qua phòng thủ đối phương | |
-| [Posion](#posion-element)     | Nguyên tố độc  | 0 | ![ele-posion-spec.gif](/ele-posion-spec.gif) | | |
+| [Ice](/elements/ice)           | Nguyên tố băng | 0 | ![ele-ice-spec.gif](/ele-ice-spec.gif) | - `Đóng băng` đối phương `0.5s` sau đó `làm chậm` trong `7s`. <br>- Khi bị `đóng băng` giảm `100%` khả năng `né tránh` và `100%` khả năng `block` đòn đánh của đối phương. <br>- Sát thương bị gây khi đối phương trong trạng thái `làm chậm`, sẽ tăng thêm 50% tỉ lệ xuất hiện sát thương hoàn hảo. | |
+| [Lighting](/elements/lighting) | Nguyên tố sét | 0 | ![ele-lighting-spec.gif](/ele-lighting-spec.gif) | - `Choáng` trong `1s` <br> - Giảm phòng thủ đối phương `30%`. <br> - Giảm `100%` khả năng `né tránh` của đối phương. <br>- Trong 5s hưởng hiệu ứng bỏ qua phòng thủ đối phương | |
+| [Posion](/elements/posion)     | Nguyên tố độc  | 0 | ![ele-posion-spec.gif](/ele-posion-spec.gif) | | |
 
 
 ## Ice Element
