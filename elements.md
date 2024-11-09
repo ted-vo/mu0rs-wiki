@@ -2,7 +2,7 @@
 title: Elements
 description: 
 published: true
-date: 2024-11-09T18:29:27.327Z
+date: 2024-11-09T18:37:06.253Z
 tags: ele, posion, lighting, fire, ice, element
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
@@ -30,15 +30,3 @@ dateCreated: 2024-11-07T08:25:00.416Z
 | [Ice](/elements/ice)           | Nguyên tố băng | 0 | ![ele-ice-spec.gif](/ele-ice-spec.gif) | - `Đóng băng` đối phương `0.5s` sau đó `làm chậm` trong `7s`. <br>- Khi bị `đóng băng` giảm `100%` khả năng `né tránh` và `100%` khả năng `block` đòn đánh của đối phương. <br>- Sát thương bị gây khi đối phương trong trạng thái `làm chậm`, sẽ tăng thêm 50% tỉ lệ xuất hiện sát thương hoàn hảo. | |
 | [Lighting](/elements/lighting) | Nguyên tố sét | 0 | ![ele-lighting-spec.gif](/ele-lighting-spec.gif) | - `Choáng` trong `1s` <br> - Giảm phòng thủ đối phương `30%`. <br> - Giảm `100%` khả năng `né tránh` của đối phương. <br>- Trong 5s hưởng hiệu ứng bỏ qua phòng thủ đối phương | |
 | [Posion](/elements/posion)     | Nguyên tố độc  | 0 | ![ele-posion-spec.gif](/ele-posion-spec.gif) | | |
-
-
-## Ice Element
-
-![ele-ice-spec.gif](/ele-ice-spec.gif)
-
-## Lighting Element
-![ele-lighting-spec.gif](/ele-lighting-spec.gif)
-
-## Posion Element
-
-![ele-posion-spec.gif](/ele-posion-spec.gif)
