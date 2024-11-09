@@ -2,13 +2,12 @@
 title: Elements
 description: 
 published: true
-date: 2024-11-09T19:25:18.118Z
+date: 2024-11-09T19:41:22.783Z
 tags: ele, posion, lighting, fire, ice, element
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
 ---
 
-# Elements
 
 > Element  (Thuộc tính, nguyên tố) là gì ?
 >
@@ -24,9 +23,21 @@ dateCreated: 2024-11-07T08:25:00.416Z
 >
 > Tôi khẳng định, đây là 1 tính năng custom hay và độc quyền của server mu0rs.com. Chúng tôi viết và dựa trên cái có sẳn mà webzen để lại, chúng tôi thừa hưởng nó từ đàn anh webzen để viết ra, chứ ko phải tự sáng chế ra 100%. Ngoài ra, còn ăn cắp thêm 1 số ý tưởng từ game tôi yêu thích PoE (path of exile). Tuy nhiên.... có 1 số thứ vẫn chưa hoạt động đúng, hoạt động lỗi, hoặc quá mạnh, quá yếu so với quy định. Và trong quá trình phát triển của Mu0rs.com, sẽ có cập nhật, thay đổi, chỉnh sửa, nhằm giúp cho cân bằng hơn, balance hơn (nói về balance, sv clbmu,mu0rs gần như config khá tốt, chấp nhận được, ko hoàn hảo nhưng đở hơn các sv của anh em khác). Và những lần chỉnh sửa này, ảnh hưởng ít nhiều đến cách build, cách lên đồ của các bạn.....Cái này, thật sự rất khó nói, vì trước khi ra tính năng này, chúng tôi đã từng nói, nó sẽ ko ổn định, thậm chí rất khó để cân balance... Nên sẽ có các cập nhật thay đổi phù hợp theo từng giai đoạn phát triển của server v.v.... Việc này, sẽ làm mất lòng , mất tiền, mất time của 1 số anh em. Mong anh em chấp nhận cùng chúng tôi. Ai mà muốn đi chỉnh tới chỉnh lui hoài cơ chứ... Nhưng nó quá bá hoặc quá yếu thì phải tăng giảm ....
 
+# Nguyên Tố
 | Element | Mô Tả | Số lượng tính năng (op) | Hiệu ứng | Tác dụng đặc biệt | Ví dụ tham khảo |
 |:--------|:------|:------------------------|:---------|:------------------|:------|
 | [Fire](/elements/fire) | Nguyên tố lửa | 0 | ![ele-fire-spec.gif](/assets/elements/ele-fire-spec.gif) | - `Đốt cháy` đối phương.<br>- Gây sát thương đốt máu liên tục. Sát thương đốt cháy dựa vào sát thương gây ra cuối cùng của đòn đánh (kỹ năng).<br>- Giảm giáp đối phương. | Phù hợp kiểu build có dame kết thúc lớn. |
 | [Ice](/elements/ice) | Nguyên tố băng | 0 | ![ele-ice-spec.gif](/assets/elements/ele-ice-spec.gif) | - `Đóng băng` đối phương `0.5s` sau đó `làm chậm` trong `7s`. <br>- Khi bị `đóng băng` giảm `100%` khả năng `né tránh` và `100%` khả năng `block` đòn đánh của đối phương.<br>- Sát thương bị gây khi đối phương trong trạng thái `làm chậm`, sẽ tăng thêm `50%` tỉ lệ xuất hiện sát thương hoàn hảo. | Phù hợp với các build gây sát thương liên tục thật nhanh, hoặc cần phá block ( đỡ đòn từ khiên ), phá né của đối phương |
 | [Lighting](/elements/lighting) | Nguyên tố sét | 0 | ![ele-lighting-spec.gif](/assets/elements/ele-lighting-spec.gif) | - `Choáng` đối phương trong `1s`.<br> - Khi bị `choáng` giảm `100%` khả năng `né tránh` và `100%` khả năng `block` đòn đánh của đối phương.<br>- Trong 5s hưởng hiệu ứng `30%` bỏ qua phòng thủ đối phương.<br>- Khi đối phương bị `crit dmg` từ nguyên tố này, sẽ bị knock back (đẩy lùi) 2-3 ô gì đó | Phù hợp với build có số hit đánh ra nhanh và nhiều |
 | [Posion](/elements/posion) | Nguyên tố độc | 0 | ![ele-posion-spec.gif](/assets/elements/ele-posion-spec.gif) | - Dính `độc`, rút máu.<br>- Giảm né của đối phương 30%. <br>- Giảm hồi máu đối phương 50% (giống hiệu ứng `Vết Thương Sâu` của LOL hay hiệu ứng của `Eye of Skadi` bên DotA 2  | Phù hợp khi đối đầu với đối thủ nhiều máu. |
+
+# Ngọc Nguyên Tố
+| Tên | Mô Tả | Tác Dụng | Sử dụng cho | Rớt |
+|:----|:------|:---------|:------------|:----|
+| Jewel of Transmutation | ![](/assets/jewels/jewel-of-transmutation.gif) | - | - [Mũ]().<br>- [Áo]().<br>- [Quần]().<br>- [Găng Tay]().<br>- [Giày]().<br>- [Nhẫn]().<br>- [Vòng cổ](). | Có |
+| Jewel of Alteration | ![](/assets/jewels/jewel-of-alteration.gif) | - | Như Trên | Có |
+| Jewel of Augmentation | ![](/assets/jewels/jewel-of-augmentation.gif) | - | Như Trên | Có |
+| Jewel of Divine | ![](/assets/jewels/jewel-of-divine.gif) | - | Như Trên | Có |
+| Jewel of Scouring | ![](/assets/jewels/jewel-of-scouring.gif) | - | Như Trên | Có |
+| Jewel of Annulment | ![](/assets/jewels/jewel-of-annulment.gif) | - | Như Trên | [Ghép](/assemble/jewel-of-annulment) |
+| Jewel of Exalted | ![](/assets/jewels/jewel-of-exalted.gif) | - | [Cánh]() | [Ghép](/assemble/jewel-of-exalted) |
