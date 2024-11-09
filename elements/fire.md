@@ -2,19 +2,24 @@
 title: Nguyên Tố Lửa
 description: 
 published: true
-date: 2024-11-09T18:32:54.016Z
+date: 2024-11-09T18:34:33.262Z
 tags: ele, fire, special
 editor: markdown
 dateCreated: 2024-11-09T18:24:29.011Z
 ---
 
-
-Hiệu ứng trong xuất hiện
+# Hiệu ứng đặt biệt
 
 ![ele-fire-spec.gif](/ele-fire-spec.gif)
 
+# Op tấn công
+
+# Op phòng thủ
+
+# Tất cả Op
+
 ---
-Liên quan
+# Liên quan
 - [Elements](/vi/elements)
 - [Ice](/vi/elements/ice)
 - [Lighting](/vi/elements/lighting)
