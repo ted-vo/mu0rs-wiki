@@ -2,7 +2,7 @@
 title: Elements
 description: 
 published: true
-date: 2024-11-10T15:06:21.705Z
+date: 2024-11-10T15:10:53.322Z
 tags: ele, posion, lighting, fire, ice, element
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
@@ -43,7 +43,7 @@ dateCreated: 2024-11-07T08:25:00.416Z
 
 Mỗi trang bị có thể có 2 `opt thuộc tính` và 1 `opt đặc biệt`.
 
-> Chi Tiết các loại [E1](), [E2](), [E3]() ở [đây](/elements/e1-e2-e3)
+> Chi Tiết các loại [E1](), [E2](), [E3]() ở [đây](/elements/detail)
 
 ## Opt thuộc tính (E1,E2)
 
