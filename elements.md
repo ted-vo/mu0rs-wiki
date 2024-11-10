@@ -2,7 +2,7 @@
 title: Elements
 description: 
 published: true
-date: 2024-11-10T07:25:46.681Z
+date: 2024-11-10T14:50:09.467Z
 tags: ele, posion, lighting, fire, ice, element
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
@@ -43,44 +43,117 @@ dateCreated: 2024-11-07T08:25:00.416Z
 
 Mỗi trang bị có thể có 2 `opt thuộc tính` và 1 `opt đặc biệt`.
 
+> Chi Tiết các loại [E1](), [E2](), [E3]() ở [đây](/elements/e1-e2-e3)
+
 ## Opt thuộc tính (E1,E2)
 
 Mình sẽ chia làm 2 loại: `Công` và `Thủ`
 
-Những opt `công` (<span class="mdi mdi-sword"></span>) gây sát thương thuộc tinh / giảm thủ thuộc tính đôi phương và hiệu ứng thuộc tinh.
-Những opt `thủ` (<span class="mdi mdi-shield"></span>) giảm / kháng / né sát thương thuộc tinh và hiệu ứng thuộc tinh.
+- opt `công` (<span class="mdi mdi-sword"></span>) gây sát thương thuộc tinh / giảm thủ thuộc tính đôi phương và hiệu ứng thuộc tinh.
+- opt `thủ` (<span class="mdi mdi-shield"></span>) giảm / kháng / né sát thương thuộc tinh và hiệu ứng thuộc tinh.
 
-Ví du: Với `X-ELE` bao gồm cái thuôc tính: `FIRE`, `ICE`, `LIGHTING`, `POSION`.
+Sẽ có những opt [E1](), [E2]() tổng hợp nhanh như sau:
 
 | Opt thuộc tinh | Loại | Min X/Y | Max X/Y |
 |:---------------|:-----:|:----|:----|
-| Add `X-ELE` element damage `X - Y` | <span class="mdi mdi-sword"></span> | 1 - 2 | 45 - 60 |
-| Increase `X-ELE` element damage `X`% | <span class="mdi mdi-sword"></span> | 3% | 15% |
-| Decrease target `X-ELE` element defense `X` | <span class="mdi mdi-sword"></span> | 10 | 50 |
-| Decrease target FIRE element absorb `X`% | <span class="mdi mdi-sword"></span> | | |
-| Increase `X-ELE` element critical rate `X`% | <span class="mdi mdi-sword"></span> | 5% | 15% |
-| Increase `X-ELE` element double rate `X`% | <span class="mdi mdi-sword"></span> | | |
-| Increase `X_ELE` element ignore rate `X`% | <span class="mdi mdi-sword"></span> | | |
-| Increase `X_ELE` element effect time `X`% | <span class="mdi mdi-sword"></span> | | |
-| Increase `X_ELE` element special rate `X`% | <span class="mdi mdi-sword"></span> | | |
-| Add `X_ELE` defense `X` | <span class="mdi mdi-shield"></span> | | |
-| Absorb `X_ELE` element damage `X`% | <span class="mdi mdi-shield"></span> | | |
-| Increase `X_ELE` element defense `X`% | <span class="mdi mdi-shield"></span> | | |
-| Resist `X_ELE` element effect `X`% | <span class="mdi mdi-shield"></span> | | |
-| Absorb `X_ELE` element damage to HP `X`% | <span class="mdi mdi-shield"></span> | | |
-| Max Resist `X_ELE` element `X`% | <span class="mdi mdi-shield"></span> | | |
-| Max Dodge `X_ELE` element damage `X`% | <span class="mdi mdi-shield"></span> | | | 
-| Decrease `X_ELE` effect time `X`% | <span class="mdi mdi-shield"></span> | | |
-| Dodge `X_ELE` element damage` X`% | <span class="mdi mdi-shield"></span> | | |
+| Add `FIRE` / `ICE` / `LIGHTING` / `POSION` element damage `x` - `y` | <span class="mdi mdi-sword"/> | - | - |
+| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` element damage `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Decrease target `FIRE` / `ICE` / `LIGHTING` / `POSION` element defense `x` | <span class="mdi mdi-sword"/> | - | - |
+| Decrease target `FIRE` / `ICE` / `LIGHTING` / `POSION` element absorb `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` element critical rate `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` element double rate `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` element ignore rate `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` element effect time `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` element special rate `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Add `FIRE` / `ICE` / `LIGHTING` / `POSION` defense `x` | <span class="mdi mdi-shield"/> | - | - |
+| Absorb `FIRE` / `ICE` / `LIGHTING` / `POSION` element damage `x`% | <span class="mdi mdi-shield"/> | - | - |
+| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` element defense `x`% | <span class="mdi mdi-shield"/> | - | - |
+| Resist `FIRE` / `ICE` / `LIGHTING` / `POSION` element effect `x`% | <span class="mdi mdi-shield"/> | - | - |
+| Absorb `FIRE` / `ICE` / `LIGHTING` / `POSION` element damage to HP `x`% | <span class="mdi mdi-shield"/> | - | - |
+| Max Resist `FIRE` / `ICE` / `LIGHTING` / `POSION` element `x`% | <span class="mdi mdi-shield"/> | - | - |
+| Max Dodge `FIRE` / `ICE` / `LIGHTING` / `POSION` element damage `x`% | <span class="mdi mdi-shield"/> | - | - |
+| Decrease `FIRE` / `ICE` / `LIGHTING` / `POSION` effect time `x`% | <span class="mdi mdi-shield"/> | - | - |
+| Dodge `FIRE` / `ICE` / `LIGHTING` / `POSION` element damage `x`% | <span class="mdi mdi-shield"/> | - | - |
 
 ## Opt đặc biệt (E3)
 
-Một món đồ có max là 2 opt ele (E1, E2) và 1 opt đặc biệt (E3).
-E1-E2 là các opt có khả năng gây ra dmg và hiệu ứng thuộc tính
-E3 là các opt đặc biệt tăng các chỉ số cho nhân vật như tăng dmg, tăng x2, tăng exc rate v.v... trên các trang bị vũ khí, tay, dây chuyền và các chỉ số như tăng giáp, tăng máu, tăng né, giảm lsd, block v.v.... trên giáp trụ , nhẫn, khiên.
-Các opt ele được sử dụng trên các loại đồ nào ?
+Mình sẽ chia làm 3 loại: `Công` (<span class="mdi mdi-sword"/>), `Thủ` (<span class="mdi mdi-shield"/>) và `Hỗ Trợ` (<span class="mdi mdi-shield-cross-outline"/>)
 
-Riêng các loại giáp trụ socket thì ko có ele. Nhưng vũ khí socket thì có ele ẩn theo từng vũ khí. Ngoài ra 1 số vũ khí rồng cũng có ele ẩn, khi cầm lên đã có sẳn ele. Nếu đập ele thêm trên các vk này, thì ele đập vào sẽ được + dồn nếu cùng loại, còn nếu khác loại sẽ tính và lấy theo giá trị cao của loại có giá trị cao hơn.
+- opt `Công` (<span class="mdi mdi-sword"/>) gây sát thương, hiệu ứng, giảm giáp / block / SD, bỏ qua SD..vv
+- opt `Thủ` (<span class="mdi mdi-shield"/>) giảm sát thương, hiệu ứng. Tăng giáp, khả năng block..vv
+- opt `Hỗ Trợ` (<span class="mdi mdi-shield-cross-outline"/>) tăng điểm stat, HP, MP, AG, SD. Khả năng hồi phục...vv 
+
+Sẽ có những opt [E3]() tổng hợp nhanh như sau:
+
+| Opt thuộc tinh | Loại | Min X/Y | Max X/Y |
+|:---------------|:----:|:--------|:--------|
+| Add `Strength` / `Dexterity` / `Vitality` / `Energy` / `LeadherShip` / `all Stat` + `x` point | <span class="mdi mdi-shield-cross-outline"/> | - | - |
+| Add `SD` / `Mana` / `HP` `x` | <span class="mdi mdi-shield-cross-outline"/> | - | - |
+| Increase `Strength` / `Dexterity` / `Vitality` / `Energy` / `LeadherShip` / `All Stat` + `x`% | <span class="mdi mdi-shield-cross-outline"/> | - | - |
+| Add AG `x` | <span class="mdi mdi-shield-cross-outline"/> | - | - |
+| Increase `SD` / `Mana` / `HP` / `Regen SD` / `Regen Mana` / `Regen HP` x`%` | <span class="mdi mdi-shield-cross-outline"/> | - | - |
+| Increase AG `x`% | <span class="mdi mdi-shield-cross-outline"/> | - | - |
+| Increase `Defense` / ` Defense Rate PvP` `x`% | <span class="mdi mdi-shield"/> | - | - |
+| Increase Defense Rate `x` | <span class="mdi mdi-shield"/> | - | - |
+| Increase `Def` / `Def Rate` with Shield `x`% | <span class="mdi mdi-shield"/> | - | - |
+| Add Def with `Shield` / `Shield PvP` `x` | <span class="mdi mdi-shield"/> | - | - |
+| Add Def Rate with Shield `x` | <span class="mdi mdi-shield"/> | - | - |
+| Add `Defense` / `PvP Defense` | <span class="mdi mdi-shield"/> | - | - |
+| Add `Reflect` / `Resist Reflect` / `Resist Stun` / `Resist Ice` / `Resist Poison` / `Resist Sleep` `x`% | <span class="mdi mdi-shield"/> | - | - |
+| Add `physical` / `spell` / `curserd` / `skill` damage `x` | <span class="mdi mdi-sword"/> | - | - |
+| Add attack `rating` / `rating PvP` + `x` | <span class="mdi mdi-sword"/> | - | - |
+| Add `Critical` / `Excellent` / `Ignore` / `Double` damage Rate `x`% | <span class="mdi mdi-sword"/> | - | - | 
+| Add `Decrease` / `Ignore Decrease` SD Rate `x`% | <span class="mdi mdi-sword"/> | - | - | 
+| Add `Interrupt` / `Stun` / `Bleeding` Rate `x`% | <span class="mdi mdi-sword"/> | - | - | 
+| Increase `physical` / `magical` / `cursed` damge %.2f%%%% | <span class="mdi mdi-sword"/> | - | - |
+| Increase attack `rating` / `rating Pvp` `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Increase damage with `Sword(Claw)` / `Axe` / `Mace(Scepter)` / `Spear` / `Bow` / `Xbow` `x` (dmg) / `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Increase `Spell` / `Cursed` damage with `Staff` / `Book` + `x` (dmg) / `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Increase `Critical` / `Excellent` / `Ignore` / `Double` damage `x` (dmg) / `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Increase `Bypass SD` Rate `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Decrease target Defense `x` / `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Decrease `damage Reduction` / `Shield Block` Rate `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Reflect dmg chance stun when horse riding `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Raven `Double` / `Ignore` damage Rate `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Reduce `Critical` / `Excellent` / `Ignore` / `Double`  Dmg Rate `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Reduce Dmg From `DW` / `DK` / `ELF` / `MG` / `DL` / `SM` / `RF` `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Add Shield Block Rate `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Add Resist Bypass SD  `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Mana Shield `x`% | <span class="mdi mdi-sword"/> | - | - |
+
+## Opt chỉ có trên Cánh (Wings)
+
+Hut mau theo  %.2f%%%% dmg
+Hut mana theo  %.2f%%%% dmg
+Hoi phuc full SD khi tan cong  %.2f%%%%
+Tang  %.2f%%%% co hoi ra x2
+Tang  %.2f%%%% co hoi ra ign def
+Tang them %.2f%%%% khi dung Dai Quy(Soi Tinh)
+%.2f%%%% Tang 20%% dmg trong 5s
+%.2f%%%% Xuat hien MNL 20% trong 5s
+Giam %.2f%%%% HP de tang 20%% dmg
+Giam %.2f%%%% DEF de tang 20%% dmg
+Tang  %.2f%%%% kha nang roi do Exc
+Tang  %.2f%%%% kha nang roi do Than
+Tang  %.2f%%%% kha nang rot do ngon
+Minions damage rate %.2f%%%%
+LSD %.2f%%%%
+Co %.2f%%%% pha het MANA doi phuong
+Co %.2f%%%% pha het AG doi phuong
+Co %.2f%%%% tang 30%% final dmg 8s khi mau duoi 60%%
+Co %.2f%%%% danh ko miss trong 5s
+Tang  %.2f%%%% STR
+Tang  %.2f%%%% DEX
+Tang  %.2f%%%% VIT
+Tang  %.2f%%%% ENE
+Tang  %.2f%%%% CMD
+Co %.2f%%%% giam 50%% chinh xac ke dich 5s
+Co %.2f%%%% khoa skill ke dich trong 3s
+Co %.2f%%%% giam toc do cua ke dich 3s
+Co %.2f%%%% bien char khac thanh tho 3s
+Co %.2f%%%% supper ign
+
+> Chi Tiết các loại [E1](), [E2](), [E3]() ở [đây](/elements/e1-e2-e3)
 
 # Ngọc Thuộc Tính
 | Tên | Mô Tả | Công Dụng | Sử dụng cho | Nguồn |
