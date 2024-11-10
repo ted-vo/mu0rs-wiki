@@ -2,7 +2,7 @@
 title: Elements
 description: 
 published: true
-date: 2024-11-10T14:50:09.467Z
+date: 2024-11-10T15:06:21.705Z
 tags: ele, posion, lighting, fire, ice, element
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
@@ -52,7 +52,7 @@ Mình sẽ chia làm 2 loại: `Công` và `Thủ`
 - opt `công` (<span class="mdi mdi-sword"></span>) gây sát thương thuộc tinh / giảm thủ thuộc tính đôi phương và hiệu ứng thuộc tinh.
 - opt `thủ` (<span class="mdi mdi-shield"></span>) giảm / kháng / né sát thương thuộc tinh và hiệu ứng thuộc tinh.
 
-Sẽ có những opt [E1](), [E2]() tổng hợp nhanh như sau:
+Tổng hợp nhanh sẽ có những opt [E1](), [E2]() như sau (`/` nghĩa là hoặc): 
 
 | Opt thuộc tinh | Loại | Min X/Y | Max X/Y |
 |:---------------|:-----:|:----|:----|
@@ -75,6 +75,8 @@ Sẽ có những opt [E1](), [E2]() tổng hợp nhanh như sau:
 | Decrease `FIRE` / `ICE` / `LIGHTING` / `POSION` effect time `x`% | <span class="mdi mdi-shield"/> | - | - |
 | Dodge `FIRE` / `ICE` / `LIGHTING` / `POSION` element damage `x`% | <span class="mdi mdi-shield"/> | - | - |
 
+> Chi Tiết các loại [E1](), [E2](), [E3]() ở [đây](/elements/detail)
+
 ## Opt đặc biệt (E3)
 
 Mình sẽ chia làm 3 loại: `Công` (<span class="mdi mdi-sword"/>), `Thủ` (<span class="mdi mdi-shield"/>) và `Hỗ Trợ` (<span class="mdi mdi-shield-cross-outline"/>)
@@ -83,7 +85,7 @@ Mình sẽ chia làm 3 loại: `Công` (<span class="mdi mdi-sword"/>), `Thủ` 
 - opt `Thủ` (<span class="mdi mdi-shield"/>) giảm sát thương, hiệu ứng. Tăng giáp, khả năng block..vv
 - opt `Hỗ Trợ` (<span class="mdi mdi-shield-cross-outline"/>) tăng điểm stat, HP, MP, AG, SD. Khả năng hồi phục...vv 
 
-Sẽ có những opt [E3]() tổng hợp nhanh như sau:
+Tổng hợp nhanh sẽ có những opt [E3]() như sau (`/` nghĩa là hoặc):
 
 | Opt thuộc tinh | Loại | Min X/Y | Max X/Y |
 |:---------------|:----:|:--------|:--------|
@@ -121,39 +123,38 @@ Sẽ có những opt [E3]() tổng hợp nhanh như sau:
 | Add Resist Bypass SD  `x`% | <span class="mdi mdi-sword"/> | - | - |
 | Mana Shield `x`% | <span class="mdi mdi-sword"/> | - | - |
 
-## Opt chỉ có trên Cánh (Wings)
+> Chi Tiết các loại [E1](), [E2](), [E3]() ở [đây](/elements/detail)
 
-Hut mau theo  %.2f%%%% dmg
-Hut mana theo  %.2f%%%% dmg
-Hoi phuc full SD khi tan cong  %.2f%%%%
-Tang  %.2f%%%% co hoi ra x2
-Tang  %.2f%%%% co hoi ra ign def
-Tang them %.2f%%%% khi dung Dai Quy(Soi Tinh)
-%.2f%%%% Tang 20%% dmg trong 5s
-%.2f%%%% Xuat hien MNL 20% trong 5s
-Giam %.2f%%%% HP de tang 20%% dmg
-Giam %.2f%%%% DEF de tang 20%% dmg
-Tang  %.2f%%%% kha nang roi do Exc
-Tang  %.2f%%%% kha nang roi do Than
-Tang  %.2f%%%% kha nang rot do ngon
-Minions damage rate %.2f%%%%
-LSD %.2f%%%%
-Co %.2f%%%% pha het MANA doi phuong
-Co %.2f%%%% pha het AG doi phuong
-Co %.2f%%%% tang 30%% final dmg 8s khi mau duoi 60%%
-Co %.2f%%%% danh ko miss trong 5s
-Tang  %.2f%%%% STR
-Tang  %.2f%%%% DEX
-Tang  %.2f%%%% VIT
-Tang  %.2f%%%% ENE
-Tang  %.2f%%%% CMD
-Co %.2f%%%% giam 50%% chinh xac ke dich 5s
-Co %.2f%%%% khoa skill ke dich trong 3s
-Co %.2f%%%% giam toc do cua ke dich 3s
-Co %.2f%%%% bien char khac thanh tho 3s
-Co %.2f%%%% supper ign
+## Opt đặc biệt chỉ có trên Cánh (Wings)
 
-> Chi Tiết các loại [E1](), [E2](), [E3]() ở [đây](/elements/e1-e2-e3)
+Tổng hợp nhanh sẽ có những opt như sau (`/` nghĩa là hoặc):
+
+| Opt thuộc tinh | Loại | Min x | Max x|
+|:---------------|:----:|:------|:-----|
+| Hut `mau` / `mana` theo  `x`% dmg | <span class="mdi mdi-shield-cross-outline"/> | - | - |
+| Hoi phuc full SD khi tan cong `x`% | <span class="mdi mdi-shield"/>  | - | - |
+| Tang `x`% co hoi ra `x2` / `ign def` | <span class="mdi mdi-sword"/> | - | - |
+| Tang them `x`% khi dung Dai Quy(Soi Tinh) | <span class="mdi mdi-sword"/> | - | - |
+| `x`% Tang 20% dmg trong 5s | <span class="mdi mdi-sword"/> | - | - |
+| `x`% Xuat hien MNL 20% trong 5s | <span class="mdi mdi-sword"/> | - | - |
+| Giam `x`% `HP` / `DEF` de tang 20% dmg | <span class="mdi mdi-sword"/> | - | - |
+| Giam`x`% de tang 20% dmg | <span class="mdi mdi-sword"/> | - | - |
+| Tang x`%` kha nang roi do Exc | <span class="mdi mdi-shield-cross-outline"/> | - | - |
+| Tang `x`% kha nang roi do Than | <span class="mdi mdi-shield-cross-outline"/> | - | - |
+| Tang `x`% kha nang rot do ngon | <span class="mdi mdi-shield-cross-outline"/> | - | - |
+| Minions damage rate `x`% | <span class="mdi mdi-sword"/> | - | - |
+| LSD `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Co `x`%  pha het `MANA` / `AG` doi phuong | <span class="mdi mdi-sword"/> | - | - |
+| Co `x`% tang 30%% final dmg 8s khi mau duoi 60% | <span class="mdi mdi-sword"/> | - | - |
+| Co`x`% danh ko miss trong 5s | <span class="mdi mdi-sword"/> | - | - |
+| Tang `x`% `STR` / `DEX` / `VIT` / `ENE` / `CMD` | <span class="mdi mdi-sword"/> | - | - |
+| Co `x`% giam 50%% chinh xac ke dich 5s | <span class="mdi mdi-sword"/> | - | - |
+| Co `x`% khoa skill ke dich trong 3s | <span class="mdi mdi-sword"/> | - | - |
+| Co `x`% giam toc do cua ke dich 3s | <span class="mdi mdi-sword"/> | - | - |
+| Co`x`% bien char khac thanh tho 3s | <span class="mdi mdi-sword"/> | - | - |
+| Co `x`% supper ign | <span class="mdi mdi-sword"/> | - | - |
+
+> Chi Tiết các loại [E1](), [E2](), [E3]() ở [đây](/elements/detail)
 
 # Ngọc Thuộc Tính
 | Tên | Mô Tả | Công Dụng | Sử dụng cho | Nguồn |
