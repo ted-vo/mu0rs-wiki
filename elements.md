@@ -2,7 +2,7 @@
 title: Elements
 description: 
 published: true
-date: 2024-11-10T06:18:54.383Z
+date: 2024-11-10T07:25:46.681Z
 tags: ele, posion, lighting, fire, ice, element
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
@@ -43,20 +43,37 @@ dateCreated: 2024-11-07T08:25:00.416Z
 
 Mỗi trang bị có thể có 2 `opt thuộc tính` và 1 `opt đặc biệt`.
 
-`Opt thuộc tính` mình sẽ chia làm 2 loại: `Công` và `Thủ`
+## Opt thuộc tính (E1,E2)
 
-Những opt `công`  gây sát thương thuộc tinh / giảm thủ thuộc tính đôi phương và hiệu ứng thuộc tinh.
-Những opt `thủ`   giảm / kháng / né sát thương thuộc tinh và hiệu ứng thuộc tinh.
+Mình sẽ chia làm 2 loại: `Công` và `Thủ`
 
-Ví du:
+Những opt `công` (<span class="mdi mdi-sword"></span>) gây sát thương thuộc tinh / giảm thủ thuộc tính đôi phương và hiệu ứng thuộc tinh.
+Những opt `thủ` (<span class="mdi mdi-shield"></span>) giảm / kháng / né sát thương thuộc tinh và hiệu ứng thuộc tinh.
 
-| Opt thuộc tinh | Loại | X-ELE | Min X/Y | Max X/Y |
-|:---------------|:-----|:----|:----|
-| Add `X-ELE` element damage `X - Y` | `Công` | - FIRE<br>- ICE<br>- LIGHTING<br>- POSION | 1 - 2 | 45 - 60 |
-| Increase `X-ELE` element damage `X`% | `Công` | - FIRE<br>- ICE<br>- LIGHTING<br>- POSION | 3% | 15% |
-| Decrease target `X-ELE` element defense `X` | `Công` | - FIRE<br>- ICE<br>- LIGHTING<br>- POSION | 10 | 50 |
-| Increase `X-ELE` element critical rate `X`% | `Công` | - FIRE<br>- ICE<br>- LIGHTING<br>- POSION | 5% | 15% |
-| Increase `X-ELE` element double rate `X`% | `Công` | | | |
+Ví du: Với `X-ELE` bao gồm cái thuôc tính: `FIRE`, `ICE`, `LIGHTING`, `POSION`.
+
+| Opt thuộc tinh | Loại | Min X/Y | Max X/Y |
+|:---------------|:-----:|:----|:----|
+| Add `X-ELE` element damage `X - Y` | <span class="mdi mdi-sword"></span> | 1 - 2 | 45 - 60 |
+| Increase `X-ELE` element damage `X`% | <span class="mdi mdi-sword"></span> | 3% | 15% |
+| Decrease target `X-ELE` element defense `X` | <span class="mdi mdi-sword"></span> | 10 | 50 |
+| Decrease target FIRE element absorb `X`% | <span class="mdi mdi-sword"></span> | | |
+| Increase `X-ELE` element critical rate `X`% | <span class="mdi mdi-sword"></span> | 5% | 15% |
+| Increase `X-ELE` element double rate `X`% | <span class="mdi mdi-sword"></span> | | |
+| Increase `X_ELE` element ignore rate `X`% | <span class="mdi mdi-sword"></span> | | |
+| Increase `X_ELE` element effect time `X`% | <span class="mdi mdi-sword"></span> | | |
+| Increase `X_ELE` element special rate `X`% | <span class="mdi mdi-sword"></span> | | |
+| Add `X_ELE` defense `X` | <span class="mdi mdi-shield"></span> | | |
+| Absorb `X_ELE` element damage `X`% | <span class="mdi mdi-shield"></span> | | |
+| Increase `X_ELE` element defense `X`% | <span class="mdi mdi-shield"></span> | | |
+| Resist `X_ELE` element effect `X`% | <span class="mdi mdi-shield"></span> | | |
+| Absorb `X_ELE` element damage to HP `X`% | <span class="mdi mdi-shield"></span> | | |
+| Max Resist `X_ELE` element `X`% | <span class="mdi mdi-shield"></span> | | |
+| Max Dodge `X_ELE` element damage `X`% | <span class="mdi mdi-shield"></span> | | | 
+| Decrease `X_ELE` effect time `X`% | <span class="mdi mdi-shield"></span> | | |
+| Dodge `X_ELE` element damage` X`% | <span class="mdi mdi-shield"></span> | | |
+
+## Opt đặc biệt (E3)
 
 Một món đồ có max là 2 opt ele (E1, E2) và 1 opt đặc biệt (E3).
 E1-E2 là các opt có khả năng gây ra dmg và hiệu ứng thuộc tính
