@@ -2,7 +2,7 @@
 title: Elements
 description: 
 published: true
-date: 2024-11-10T15:10:53.322Z
+date: 2024-11-12T05:35:00.215Z
 tags: ele, posion, lighting, fire, ice, element
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
@@ -160,9 +160,9 @@ Tổng hợp nhanh sẽ có những opt như sau (`/` nghĩa là hoặc):
 | Tên | Mô Tả | Công Dụng | Sử dụng cho | Nguồn |
 |:----|:------|:---------|:------------|:----|
 | Jewel of Transmutation | ![](/assets/jewels/jewel-of-transmutation.gif) | - Đập vào đồ để tạo opt thuộc tính nguyên tô.<br>- Mặc định sẽ xuât hiện thuộc tinh [E1](). Ngoài ra có xác suất xuất hiện thêm opt thuộc tính [E2](), [E3]()<br>- Không sử dụng được cho trang bị đã có [E3]() | - [Mũ]().<br>- [Áo]().<br>- [Quần]().<br>- [Găng Tay]().<br>- [Giày]().<br>- [Nhẫn]().<br>- [Vòng cổ](). | Đánh quái rớt |
-| Jewel of Alteration | ![](/assets/jewels/jewel-of-alteration.gif) | - Dùng để đổi ngẫu nhiên các opt thuộc tinh [E1](), [E2]().<br>- Không sử dụng được cho trang bị đã có [E3]() | Như Trên | Đánh quái rớt |
-| Jewel of Augmentation | ![](/assets/jewels/jewel-of-augmentation.gif) | - Tăng thêm 1 opt thuộc tính.<br>- Không sử dụng được cho trang bị đã có [E3]() | Như Trên | Đánh quái rớt |
+| Jewel of Alteration | ![](/assets/jewels/jewel-of-alteration.gif) | - Dùng để đổi ngẫu nhiên các opt thuộc tinh [E1, E2](#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2).<br>- Không sử dụng được cho trang bị đã có [E3]() | Như Trên | Đánh quái rớt |
+| Jewel of Augmentation | ![](/assets/jewels/jewel-of-augmentation.gif) | - Tăng thêm 1 opt thuộc tính.<br>- Không sử dụng được cho trang bị đã có `E3` | Như Trên | Đánh quái rớt |
 | Jewel of Divine | ![](/assets/jewels/jewel-of-divine.gif) | Thay đổi ngẫu nhiên giá trị của các opt thuộc tính. | Như Trên | Đánh quái rớt |
 | Jewel of Scouring | ![](/assets/jewels/jewel-of-scouring.gif) | Xóa tất cả opt thuộc tính. | Như Trên | Đánh quái rớt |
-| Jewel of Annulment | ![](/assets/jewels/jewel-of-annulment.gif) | Xóa ngẫu nhiên 1 trong 3 opt thuộc tính [[E1](), [E2](), [E3]()] | Như Trên | [Ghép](/craft/jewel-of-annulment) |
-| Jewel of Exalted | ![](/assets/jewels/jewel-of-exalted.gif) | [Nâng cấp](/craft/ele-wings) opt thuộc tính cho [Cánh]() | [Cánh]() | [Ghép](/craft/jewel-of-exalted) |
+| Jewel of Annulment | ![](/assets/jewels/jewel-of-annulment.gif) | Xóa ngẫu nhiên 1 trong 3 opt thuộc tính [[E1](/elements/), [E2](), [E3]()] | Như Trên | [Ghép](/craft/jewel-of-annulment) |
+| Jewel of Exalted | ![](/assets/jewels/jewel-of-exalted.gif) | [Nâng cấp](/craft/ele-wings) opt thuộc tính cho [Cánh](/items/wings) | [Cánh](/items/wings) | [Ghép](/craft/jewel-of-exalted) |
