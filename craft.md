@@ -2,7 +2,7 @@
 title: Máy Ghép Chaos
 description: Tổng hợp các công thức nấu / ghép / nâng cấp trang bị
 published: true
-date: 2024-11-12T15:42:39.671Z
+date: 2024-11-12T15:48:44.192Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-12T04:25:34.711Z
@@ -11,6 +11,7 @@ dateCreated: 2024-11-12T04:25:34.711Z
 # Nâng cấp trang bị
 
 - [Tách ngọc từ đồ Excellent +9](/vi/craft/get-back-jewel-from-ex9)
+- [Kết hợp đồ Excellent rác thành Box of Kundun](/vi/craft/trash-excellent)
 
 # Nâng cấp thuộc tính
 
