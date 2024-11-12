@@ -2,7 +2,7 @@
 title: Ngọc Thuộc Tính
 description: Ghép ngọc thuộc tính
 published: true
-date: 2024-11-12T16:28:45.563Z
+date: 2024-11-12T16:29:31.077Z
 tags: craft, jewel of element
 editor: markdown
 dateCreated: 2024-11-12T16:28:45.563Z
@@ -28,8 +28,6 @@ dateCreated: 2024-11-12T16:28:45.563Z
 | Nguyên liệu | Mô Tả | Yêu Cầu | Số lượng |
 |:------------|:----:|:--------:|:---------:|
 | Wings | ![](https://mu0rs.com/item_images/12/0.gif) ![](https://mu0rs.com/item_images/12/1.gif) ![](https://mu0rs.com/item_images/12/2.gif) ![](https://mu0rs.com/item_images/12/41.gif) | Cấp 1 | 1 |
-
-|  Small Wings | | | |
 | Jewel of Chaos | ![](https://mu0rs.com/item_images/12/15.gif) | - | 3 |
 | Jewel of Harmony | ![](https://mu0rs.com/item_images/14/42.gif) | - | 1 |
 | Higher Refining Stone | ![](https://mu0rs.com/item_images/14/44.gif) | - | 3 |
