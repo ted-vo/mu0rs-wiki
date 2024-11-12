@@ -2,7 +2,7 @@
 title: Máy Ghép Chaos
 description: Tổng hợp các công thức nấu / ghép / nâng cấp trang bị
 published: true
-date: 2024-11-12T15:48:44.192Z
+date: 2024-11-12T16:32:11.263Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-12T04:25:34.711Z
@@ -15,6 +15,7 @@ dateCreated: 2024-11-12T04:25:34.711Z
 
 # Nâng cấp thuộc tính
 
+- [Ngọc thuộc tính](/vi/craft/jewel-of-elements)
 - [Nâng cấp Opt thuộc tính cho Wings](/vi/craft/ele-wings)
 - [Jewel of Exalted](/vi/craft/jewel-of-exalted)
 - [Jewel of Annulment](/vi/craft/jewel-of-annulment)
