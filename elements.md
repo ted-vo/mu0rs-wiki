@@ -2,7 +2,7 @@
 title: Elements
 description: 
 published: true
-date: 2024-11-12T05:58:25.146Z
+date: 2024-11-12T06:03:38.543Z
 tags: ele, posion, lighting, fire, ice, element, jewel element
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
@@ -166,3 +166,10 @@ Tổng hợp nhanh sẽ có những opt như sau (`/` nghĩa là hoặc):
 | Jewel of Scouring | ![](/assets/jewels/jewel-of-scouring.gif) | Xóa tất cả opt thuộc tính. | Như Trên | Đánh quái rớt |
 | Jewel of Annulment | ![](/assets/jewels/jewel-of-annulment.gif) | Xóa ngẫu nhiên 1 trong 3 opt thuộc tính [[E1](/elements/), [E2](), [E3](#opt-%C4%91%E1%BA%B7c-bi%E1%BB%87t-e3)] | Như Trên | [Ghép](/craft/jewel-of-annulment) |
 | Jewel of Exalted | ![](/assets/jewels/jewel-of-exalted.gif) | [Nâng cấp](/craft/ele-wings) opt thuộc tính cho [Cánh](/items/wings) | [Cánh](/items/wings) | [Ghép](/craft/jewel-of-exalted) |
+
+# Liên quan
+
+- [Fire Element](/vi/elements/fire)
+- [Fire Ice](/vi/elements/ice)
+- [Fire Lighting](/vi/elements/lighting)
+- [Fire Posion](/vi/elements/posion)
