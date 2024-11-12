@@ -2,7 +2,7 @@
 title: Elements
 description: 
 published: true
-date: 2024-11-12T06:03:38.543Z
+date: 2024-11-12T06:06:58.828Z
 tags: ele, posion, lighting, fire, ice, element, jewel element
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
@@ -173,3 +173,4 @@ Tổng hợp nhanh sẽ có những opt như sau (`/` nghĩa là hoặc):
 - [Fire Ice](/vi/elements/ice)
 - [Fire Lighting](/vi/elements/lighting)
 - [Fire Posion](/vi/elements/posion)
+- [Nén Ngọc Thuộc Tính](/vi/commands/zip-jewel-of-elements)
