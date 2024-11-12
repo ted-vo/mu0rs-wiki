@@ -2,7 +2,7 @@
 title: Danh sách item
 description: 
 published: true
-date: 2024-11-12T05:47:30.325Z
+date: 2024-11-12T15:13:28.546Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-12T05:15:32.327Z
@@ -10,7 +10,7 @@ dateCreated: 2024-11-12T05:15:32.327Z
 
 
 | Item | Image | Code (/td x y) |
-|:-----|:------|:---------------|
+|:-----|:------:|:--------------:|
 | Jewel of Chaos | ![](https://mu0rs.com/item_images/12/15.gif) | 12 15 |
 | Jewel of Soul | ![](https://mu0rs.com/item_images/14/14.gif) | 14 14 |
 | Bundle of Jewel of Soul | ![](https://mu0rs.com/item_images/12/31.gif) | 12 31 |
@@ -24,3 +24,4 @@ dateCreated: 2024-11-12T05:15:32.327Z
 | Wings of Life | ![](https://mu0rs.com/item_images/12/183.gif) | 12 183 |
 | Cloak of Death | ![](https://mu0rs.com/item_images/12/180.gif) | 12 180 |
 | Zen | ![](https://mu0rs.com/item_images/14/15.gif) | 14 15 |
+| Gamble Card | ![](https://mu0rs.com/item_images/14/147.gif) | 14 147 |
