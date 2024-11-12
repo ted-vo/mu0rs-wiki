@@ -1,9 +1,9 @@
 ---
-title: Items
-description: 
+title: Trang Bị
+description: Tổng hợp tất cả trang bị có ở Mu0rs
 published: true
-date: 2024-11-12T05:56:52.616Z
-tags: 
+date: 2024-11-12T08:22:49.232Z
+tags: items
 editor: markdown
 dateCreated: 2024-11-07T08:23:13.273Z
 ---
