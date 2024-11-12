@@ -2,8 +2,8 @@
 title: Elements
 description: 
 published: true
-date: 2024-11-12T05:41:27.739Z
-tags: ele, posion, lighting, fire, ice, element
+date: 2024-11-12T05:58:25.146Z
+tags: ele, posion, lighting, fire, ice, element, jewel element
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
 ---
