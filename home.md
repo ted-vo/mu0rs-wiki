@@ -2,7 +2,7 @@
 title: Thông tin máy chủ
 description: 
 published: true
-date: 2024-11-12T16:36:25.389Z
+date: 2024-11-12T16:40:12.695Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-07T05:13:20.517Z
