@@ -2,7 +2,7 @@
 title: Lệnh mua HP/MANA/SD
 description: 
 published: true
-date: 2024-11-12T17:09:44.651Z
+date: 2024-11-12T17:10:03.501Z
 tags: cmd, command, hp, mana, auto buy, sd
 editor: markdown
 dateCreated: 2024-11-12T06:37:01.222Z
@@ -10,14 +10,17 @@ dateCreated: 2024-11-12T06:37:01.222Z
 
 # Lệnh
 
+## HP
 ```
 /mhp x
 ```
 
+## Mana
 ```
 /mmana x y(có hoặc ko)
 ```
 
+## SD
 ```
 /msd x
 ```
