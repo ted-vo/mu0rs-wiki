@@ -2,7 +2,7 @@
 title: Tách ngọc từ đồ Excellent +9
 description: Ăn mày quá khứ
 published: true
-date: 2024-11-12T15:41:20.060Z
+date: 2024-11-12T17:05:13.176Z
 tags: craft, get back jewel
 editor: markdown
 dateCreated: 2024-11-12T15:41:20.060Z
@@ -22,4 +22,5 @@ Sẽ cho ra 1 box ngọc. Khi quăng ra sẽ có `50`% ra Jewel of Bless (![](ht
 
 # Tỉ lệ
 
-Thành công: `100`%.
+> `100%` Thành công
+{.is-success}
