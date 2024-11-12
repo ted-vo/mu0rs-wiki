@@ -2,13 +2,15 @@
 title: Máy Ghép Chaos
 description: Tổng hợp các công thức nấu / ghép / nâng cấp trang bị
 published: true
-date: 2024-11-12T15:25:54.003Z
+date: 2024-11-12T15:42:39.671Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-12T04:25:34.711Z
 ---
 
 # Nâng cấp trang bị
+
+- [Tách ngọc từ đồ Excellent +9](/vi/craft/get-back-jewel-from-ex9)
 
 # Nâng cấp thuộc tính
 
