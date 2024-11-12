@@ -2,7 +2,7 @@
 title: Ghép Jewel of Exalted
 description: Nguyên liệu nâng cấp thuộc tính
 published: true
-date: 2024-11-12T05:26:49.356Z
+date: 2024-11-12T05:28:55.276Z
 tags: jewel, exalted
 editor: markdown
 dateCreated: 2024-11-12T04:12:50.163Z
@@ -11,6 +11,8 @@ dateCreated: 2024-11-12T04:12:50.163Z
 > Xoay tại máy chaos.
 
 ![](https://mu0rs.com/item_images/14/190.gif)
+
+Dùng để nâng cấp opt mới cho wings.
 
 # Nguyên liệu
 
