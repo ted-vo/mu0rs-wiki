@@ -2,7 +2,7 @@
 title: Ghép Jewel of Annulment
 description: 
 published: true
-date: 2024-11-12T16:23:46.209Z
+date: 2024-11-12T16:27:26.091Z
 tags: craft jewel of annulment, craft annulment
 editor: markdown
 dateCreated: 2024-11-12T05:16:49.253Z
@@ -12,7 +12,8 @@ dateCreated: 2024-11-12T05:16:49.253Z
 
 # Giới thiệu
 
-![jewel-of-annulment.gif](/assets/jewels/jewel-of-annulment.gif)
+![jewel-of-annulment.gif](/assets/jewels/jewel-of-annulment.png)
+
 
 Có tính năng xóa random 1 trong 3 opt ele. Cách dùng như B,S đập trực tiếp vào đồ.
 
