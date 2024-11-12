@@ -2,7 +2,7 @@
 title: Gamble Card
 description: Thẻ nhân phẩm
 published: true
-date: 2024-11-12T15:18:32.489Z
+date: 2024-11-12T15:22:22.904Z
 tags: gamble, card, craft
 editor: markdown
 dateCreated: 2024-11-12T15:13:47.290Z
@@ -15,7 +15,7 @@ dateCreated: 2024-11-12T15:13:47.290Z
 | Nguyên liệu | Mô Tả | Yêu Cầu | Số lượng |
 |:------------|:----:|:--------:|:---------:|
 | Gameble Card | ![](https://mu0rs.com/item_images/14/147.gif) | - | 10 |
-| Chaos | ![](https://mu0rs.com/item_images/12/15.gif) | - | 1 |
+| Jewel of Chaos | ![](https://mu0rs.com/item_images/12/15.gif) | - | 1 |
 | Zen | ![zen.png](https://mu0rs.com/item_images/14/15.gif) | - | 1.000.000 |
 
 Dùng 10 cái để xoay ra 1 vật phẩm ngẫu nhiên.
