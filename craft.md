@@ -2,7 +2,7 @@
 title: Máy Ghép Chaos
 description: Tổng hợp các công thức nấu / ghép / nâng cấp trang bị
 published: true
-date: 2024-11-12T08:20:26.704Z
+date: 2024-11-12T08:49:09.225Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-12T04:25:34.711Z
@@ -19,3 +19,7 @@ dateCreated: 2024-11-12T04:25:34.711Z
 # Nâng cấp socket
 
 # Nâng cấp pet
+
+# Khác
+
+- [Nâng cấp box Kundun](/vi/craft/box-kundun)
