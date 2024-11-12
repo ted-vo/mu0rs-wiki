@@ -2,7 +2,7 @@
 title: Ghép Jewel of Annulment
 description: 
 published: true
-date: 2024-11-12T16:31:22.537Z
+date: 2024-11-12T16:31:50.666Z
 tags: craft jewel of annulment, craft annulment
 editor: markdown
 dateCreated: 2024-11-12T05:16:49.253Z
@@ -10,10 +10,7 @@ dateCreated: 2024-11-12T05:16:49.253Z
 
 > Xoay tại máy chaos.
 
-# Giới thiệu
-
 ![jewel-of-annulment](/assets/jewels/jewel-of-annulment.png)
-
 
 Có tính năng xóa random 1 trong 3 opt ele. Cách dùng như B,S đập trực tiếp vào đồ.
 
@@ -31,6 +28,8 @@ Có tính năng xóa random 1 trong 3 opt ele. Cách dùng như B,S đập trự
 | Jewel of Scouring | ![jewel-of-scouring.gif](/assets/jewels/jewel-of-scouring.gif) | - | 2 |
 | Ngọc Tẩy | ![](/assets/jewels/ngoc-tay.png) | - | 2 |
 | Zen | ![zen.png](/assets/zen.png) | - | 2.000.000 |
+
+
 
 # Tỉ lệ
 
