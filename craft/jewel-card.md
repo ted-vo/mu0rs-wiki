@@ -2,8 +2,8 @@
 title: Jewel Card
 description: Thẻ nhân phẩm
 published: true
-date: 2024-11-12T15:17:06.917Z
-tags: jewel, gamble, card, lucky
+date: 2024-11-12T15:18:09.201Z
+tags: jewel, gamble, card, lucky, craft
 editor: markdown
 dateCreated: 2024-11-12T15:17:06.917Z
 ---
