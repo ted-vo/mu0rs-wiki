@@ -2,7 +2,7 @@
 title: Danh sách item
 description: 
 published: true
-date: 2024-11-12T15:31:22.329Z
+date: 2024-11-12T15:58:39.931Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-12T05:15:32.327Z
@@ -19,6 +19,7 @@ dateCreated: 2024-11-12T05:15:32.327Z
 | Jewel of Life | ![](https://mu0rs.com/item_images/14/16.gif) | 14 16 |
 | Bundle of Jewel of Life | ![](https://mu0rs.com/item_images/12/136.gif) | 12 136 |
 | Jewel of Exalted | ![](https://mu0rs.com/item_images/14/190.gif) | 14 190 |
+| Higher Refining Stone | ![](https://mu0rs.com/item_images/14/44.gif) | 14 44 |
 | Wings of Chaos | ![](https://mu0rs.com/item_images/12/181.gif) | 12 181 |
 | Wings of Magic | ![](https://mu0rs.com/item_images/12/182.gif) | 12 182 |
 | Wings of Life | ![](https://mu0rs.com/item_images/12/183.gif) | 12 183 |
