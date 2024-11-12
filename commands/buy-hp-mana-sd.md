@@ -2,7 +2,7 @@
 title: Lệnh mua HP/MANA/SD
 description: 
 published: true
-date: 2024-11-12T17:09:20.661Z
+date: 2024-11-12T17:09:44.651Z
 tags: cmd, command, hp, mana, auto buy, sd
 editor: markdown
 dateCreated: 2024-11-12T06:37:01.222Z
@@ -51,7 +51,10 @@ Mua 10 bình mana nhỏ
 /mmana 10 1
 ```
 
-Tương tự với mana.
+Mua 10 bình sd
+```
+/msd 10
+```
 
 ---
 
