@@ -2,7 +2,7 @@
 title: Nâng cấp Opt thuộc tính cho Cánh
 description: 
 published: true
-date: 2024-11-12T04:43:13.026Z
+date: 2024-11-12T05:47:56.308Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-12T04:43:13.026Z
@@ -21,7 +21,7 @@ dateCreated: 2024-11-12T04:43:13.026Z
 | Jewel of Alteration | ![jewel-of-alteration.gif](/assets/jewels/jewel-of-alteration.gif) | - | 1 |
 | Jewel of Augmentation | ![jewel-of-augmentation.gif](/assets/jewels/jewel-of-augmentation.gif) | - | 1 |
 | Jewel of Divine | ![jewel-of-divine.gif](/assets/jewels/jewel-of-divine.gif) | - | 1 |
-| Zen | ![zen.png](/assets/zen.png) | - | 2.000.000 |
+| Zen | ![zen.png](https://mu0rs.com/item_images/14/15.gif) | - | 2.000.000 |
 
 # Tỉ lệ
 
