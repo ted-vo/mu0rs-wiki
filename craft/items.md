@@ -2,7 +2,7 @@
 title: Danh sách item
 description: 
 published: true
-date: 2024-11-12T15:13:28.546Z
+date: 2024-11-12T15:31:22.329Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-12T05:15:32.327Z
@@ -25,3 +25,5 @@ dateCreated: 2024-11-12T05:15:32.327Z
 | Cloak of Death | ![](https://mu0rs.com/item_images/12/180.gif) | 12 180 |
 | Zen | ![](https://mu0rs.com/item_images/14/15.gif) | 14 15 |
 | Gamble Card | ![](https://mu0rs.com/item_images/14/147.gif) | 14 147 |
+| Jewel Card | ![](https://mu0rs.com/item_images/14/146.gif) | 14 146 |
+| Acient Card | ![](https://mu0rs.com/item_images/14/145.gif) | 14 145 |
