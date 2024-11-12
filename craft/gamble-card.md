@@ -2,8 +2,8 @@
 title: Gamble Card
 description: Thẻ nhân phẩm
 published: true
-date: 2024-11-12T15:13:47.290Z
-tags: gamble, card
+date: 2024-11-12T15:18:32.489Z
+tags: gamble, card, craft
 editor: markdown
 dateCreated: 2024-11-12T15:13:47.290Z
 ---
