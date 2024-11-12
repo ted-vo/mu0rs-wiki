@@ -2,7 +2,7 @@
 title: Elements
 description: 
 published: true
-date: 2024-11-12T05:35:00.215Z
+date: 2024-11-12T05:41:27.739Z
 tags: ele, posion, lighting, fire, ice, element
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
@@ -43,7 +43,7 @@ dateCreated: 2024-11-07T08:25:00.416Z
 
 Mỗi trang bị có thể có 2 `opt thuộc tính` và 1 `opt đặc biệt`.
 
-> Chi Tiết các loại [E1](), [E2](), [E3]() ở [đây](/elements/detail)
+> Chi Tiết các loại [E1](#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2), [E2](#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2), [E3](#opt-%C4%91%E1%BA%B7c-bi%E1%BB%87t-e3) ở [đây](/elements/detail)
 
 ## Opt thuộc tính (E1,E2)
 
@@ -52,7 +52,7 @@ Mình sẽ chia làm 2 loại: `Công` và `Thủ`
 - opt `công` (<span class="mdi mdi-sword"></span>) gây sát thương thuộc tinh / giảm thủ thuộc tính đôi phương và hiệu ứng thuộc tinh.
 - opt `thủ` (<span class="mdi mdi-shield"></span>) giảm / kháng / né sát thương thuộc tinh và hiệu ứng thuộc tinh.
 
-Tổng hợp nhanh sẽ có những opt [E1](), [E2]() như sau (`/` nghĩa là hoặc): 
+Tổng hợp nhanh sẽ có những opt [E1, E2](#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2) như sau (`/` nghĩa là hoặc): 
 
 | Opt thuộc tinh | Loại | Min X/Y | Max X/Y |
 |:---------------|:-----:|:----|:----|
@@ -75,7 +75,7 @@ Tổng hợp nhanh sẽ có những opt [E1](), [E2]() như sau (`/` nghĩa là 
 | Decrease `FIRE` / `ICE` / `LIGHTING` / `POSION` effect time `x`% | <span class="mdi mdi-shield"/> | - | - |
 | Dodge `FIRE` / `ICE` / `LIGHTING` / `POSION` element damage `x`% | <span class="mdi mdi-shield"/> | - | - |
 
-> Chi Tiết các loại [E1](), [E2](), [E3]() ở [đây](/elements/detail)
+> Chi Tiết các loại [E1](#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2), [E2](#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2), [E3](#opt-%C4%91%E1%BA%B7c-bi%E1%BB%87t-e3) ở [đây](/elements/detail)
 
 ## Opt đặc biệt (E3)
 
@@ -85,7 +85,7 @@ Mình sẽ chia làm 3 loại: `Công` (<span class="mdi mdi-sword"/>), `Thủ` 
 - opt `Thủ` (<span class="mdi mdi-shield"/>) giảm sát thương, hiệu ứng. Tăng giáp, khả năng block..vv
 - opt `Hỗ Trợ` (<span class="mdi mdi-shield-cross-outline"/>) tăng điểm stat, HP, MP, AG, SD. Khả năng hồi phục...vv 
 
-Tổng hợp nhanh sẽ có những opt [E3]() như sau (`/` nghĩa là hoặc):
+Tổng hợp nhanh sẽ có những opt [E3](#opt-%C4%91%E1%BA%B7c-bi%E1%BB%87t-e3) như sau (`/` nghĩa là hoặc):
 
 | Opt thuộc tinh | Loại | Min X/Y | Max X/Y |
 |:---------------|:----:|:--------|:--------|
@@ -123,7 +123,7 @@ Tổng hợp nhanh sẽ có những opt [E3]() như sau (`/` nghĩa là hoặc):
 | Add Resist Bypass SD  `x`% | <span class="mdi mdi-sword"/> | - | - |
 | Mana Shield `x`% | <span class="mdi mdi-sword"/> | - | - |
 
-> Chi Tiết các loại [E1](), [E2](), [E3]() ở [đây](/elements/detail)
+> Chi Tiết các loại [E1](#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2), [E2](#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2), [E3](#opt-%C4%91%E1%BA%B7c-bi%E1%BB%87t-e3) ở [đây](/elements/detail)
 
 ## Opt đặc biệt chỉ có trên Cánh (Wings)
 
@@ -154,15 +154,15 @@ Tổng hợp nhanh sẽ có những opt như sau (`/` nghĩa là hoặc):
 | Co`x`% bien char khac thanh tho 3s | <span class="mdi mdi-sword"/> | - | - |
 | Co `x`% supper ign | <span class="mdi mdi-sword"/> | - | - |
 
-> Chi Tiết các loại [E1](), [E2](), [E3]() ở [đây](/elements/detail)
+> Chi Tiết các loại [E1](#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2), [E2](#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2), [E3](#opt-%C4%91%E1%BA%B7c-bi%E1%BB%87t-e3) ở [đây](/elements/detail)
 
 # Ngọc Thuộc Tính
 | Tên | Mô Tả | Công Dụng | Sử dụng cho | Nguồn |
 |:----|:------|:---------|:------------|:----|
-| Jewel of Transmutation | ![](/assets/jewels/jewel-of-transmutation.gif) | - Đập vào đồ để tạo opt thuộc tính nguyên tô.<br>- Mặc định sẽ xuât hiện thuộc tinh [E1](). Ngoài ra có xác suất xuất hiện thêm opt thuộc tính [E2](), [E3]()<br>- Không sử dụng được cho trang bị đã có [E3]() | - [Mũ]().<br>- [Áo]().<br>- [Quần]().<br>- [Găng Tay]().<br>- [Giày]().<br>- [Nhẫn]().<br>- [Vòng cổ](). | Đánh quái rớt |
-| Jewel of Alteration | ![](/assets/jewels/jewel-of-alteration.gif) | - Dùng để đổi ngẫu nhiên các opt thuộc tinh [E1, E2](#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2).<br>- Không sử dụng được cho trang bị đã có [E3]() | Như Trên | Đánh quái rớt |
-| Jewel of Augmentation | ![](/assets/jewels/jewel-of-augmentation.gif) | - Tăng thêm 1 opt thuộc tính.<br>- Không sử dụng được cho trang bị đã có `E3` | Như Trên | Đánh quái rớt |
+| Jewel of Transmutation | ![](/assets/jewels/jewel-of-transmutation.gif) | - Đập vào đồ để tạo opt thuộc tính nguyên tô.<br>- Mặc định sẽ xuât hiện thuộc tinh [E1](#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2). Ngoài ra có xác suất xuất hiện thêm opt thuộc tính [E2](#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2), [E3](#opt-%C4%91%E1%BA%B7c-bi%E1%BB%87t-e3)<br>- Không sử dụng được cho trang bị đã có [E3](#opt-%C4%91%E1%BA%B7c-bi%E1%BB%87t-e3) | - [Mũ]().<br>- [Áo]().<br>- [Quần]().<br>- [Găng Tay]().<br>- [Giày]().<br>- [Nhẫn]().<br>- [Vòng cổ](). | Đánh quái rớt |
+| Jewel of Alteration | ![](/assets/jewels/jewel-of-alteration.gif) | - Dùng để đổi ngẫu nhiên các opt thuộc tinh [E1, E2](#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2).<br>- Không sử dụng được cho trang bị đã có [E3](#opt-%C4%91%E1%BA%B7c-bi%E1%BB%87t-e3) | Như Trên | Đánh quái rớt |
+| Jewel of Augmentation | ![](/assets/jewels/jewel-of-augmentation.gif) | - Tăng thêm 1 opt thuộc tính.<br>- Không sử dụng được cho trang bị đã có [E3](#opt-%C4%91%E1%BA%B7c-bi%E1%BB%87t-e3) | Như Trên | Đánh quái rớt |
 | Jewel of Divine | ![](/assets/jewels/jewel-of-divine.gif) | Thay đổi ngẫu nhiên giá trị của các opt thuộc tính. | Như Trên | Đánh quái rớt |
 | Jewel of Scouring | ![](/assets/jewels/jewel-of-scouring.gif) | Xóa tất cả opt thuộc tính. | Như Trên | Đánh quái rớt |
-| Jewel of Annulment | ![](/assets/jewels/jewel-of-annulment.gif) | Xóa ngẫu nhiên 1 trong 3 opt thuộc tính [[E1](/elements/), [E2](), [E3]()] | Như Trên | [Ghép](/craft/jewel-of-annulment) |
+| Jewel of Annulment | ![](/assets/jewels/jewel-of-annulment.gif) | Xóa ngẫu nhiên 1 trong 3 opt thuộc tính [[E1](/elements/), [E2](), [E3](#opt-%C4%91%E1%BA%B7c-bi%E1%BB%87t-e3)] | Như Trên | [Ghép](/craft/jewel-of-annulment) |
 | Jewel of Exalted | ![](/assets/jewels/jewel-of-exalted.gif) | [Nâng cấp](/craft/ele-wings) opt thuộc tính cho [Cánh](/items/wings) | [Cánh](/items/wings) | [Ghép](/craft/jewel-of-exalted) |
