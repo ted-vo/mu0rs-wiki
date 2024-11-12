@@ -1,14 +1,12 @@
 ---
 title: Trang Chủ
-description: 
+description: Game chỉ là ảo - Nhậu chung mới hay ^^!
 published: true
-date: 2024-11-12T16:42:06.644Z
+date: 2024-11-12T16:44:12.677Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-12T16:41:40.358Z
 ---
-
-> Game chỉ là ảo - Nhậu chung mới hay ^^!
 
 Chắc hẳn không một người chơi game online nào thời 8x,9x thậm chí là 7x hay 6x lại không biết đến MU Online, Nó đã từng làm mưa làm gió 1 thời gian rất dài ở trong nước và cả nước ngoài. Trong thời kỳ hoàng kim của mình thì MU Online đã gần như chiếm thế độc tôn trong thị trường game online đó và bạn có thể tìm thấy MU Online ở bất kì phòng game nào.
 
@@ -22,7 +20,9 @@ Mu0rs.Com ngày nay đã được thành lập từ khá lâu. Ban đầu chỉ 
 
 Ngay từ khi thành lập sever MU NON RESET thì phía BQT đã hướng đến một sever ko hút máu (gần như sever MU miễn phí) và cho đến nay cũng thế.
 
-Các anh tự hỏi sever của Mu0rs ổn định không ? Sever MU có mở webshop bán đồ không ? Chơi MU này có tốn tiền không ? Và cái quan trọng là Admin có bán đồ ra ngoài không ? ………… Về phần này các anh có thể tự hỏi các thành viên đang chơi thì sẽ có câu trả lời chính xác nhất 
+Các anh tự hỏi sever của Mu0rs ổn định không ? Sever MU có mở webshop bán đồ không ? Chơi MU này có tốn tiền không ? Và cái quan trọng là Admin có bán đồ ra ngoài không ?
+
+Về phần này các anh có thể tự hỏi các thành viên đang chơi thì sẽ có câu trả lời chính xác nhất.
 
 
 > Thay mặt toàn thể BQT chúc anh em vui chơi giải trí & nhớ giữ gìn sức khỏe
