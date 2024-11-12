@@ -1,9 +1,9 @@
 ---
-title: Lệnh chat từ Discord vào Game
-description: 
+title: Discord Chat
+description: Lệnh chat từ Discord vào Game
 published: true
-date: 2024-11-12T08:11:09.437Z
-tags: post, discord
+date: 2024-11-12T08:18:46.766Z
+tags: post, discord, chat
 editor: markdown
 dateCreated: 2024-11-12T08:11:09.437Z
 ---
