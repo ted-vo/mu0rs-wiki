@@ -2,7 +2,7 @@
 title: Ghép Jewel of Annulment
 description: 
 published: true
-date: 2024-11-12T16:27:26.091Z
+date: 2024-11-12T16:31:22.537Z
 tags: craft jewel of annulment, craft annulment
 editor: markdown
 dateCreated: 2024-11-12T05:16:49.253Z
@@ -12,12 +12,12 @@ dateCreated: 2024-11-12T05:16:49.253Z
 
 # Giới thiệu
 
-![jewel-of-annulment.gif](/assets/jewels/jewel-of-annulment.png)
+![jewel-of-annulment](/assets/jewels/jewel-of-annulment.png)
 
 
 Có tính năng xóa random 1 trong 3 opt ele. Cách dùng như B,S đập trực tiếp vào đồ.
 
-> Sau khi đập ![jewel-of-annulment.gif](/assets/jewels/jewel-of-annulment.gif) => đập tiếp ![jewel-of-augmentation.gif](/assets/jewels/jewel-of-augmentation.gif) để xuất hiện Opt mới.
+> Sau khi đập ![jewel-of-annulment](/assets/jewels/jewel-of-annulment.png) => đập tiếp ![jewel-of-augmentation.gif](/assets/jewels/jewel-of-augmentation.gif) để xuất hiện Opt mới.
 {.is-info}
 
 # Nguyên liệu
@@ -34,5 +34,8 @@ Có tính năng xóa random 1 trong 3 opt ele. Cách dùng như B,S đập trự
 
 # Tỉ lệ
 
-Thành công: `80`%.
-Thất bại: `20`%. => Xịt mất hết.
+> `80%` Thành công
+{.is-success}
+
+> `20%` Thất bại => Xịt mất hết.
+{.is-danger}
