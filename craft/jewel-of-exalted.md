@@ -2,13 +2,15 @@
 title: Ghép Jewel of Exalted
 description: Nguyên liệu nâng cấp thuộc tính
 published: true
-date: 2024-11-12T04:44:49.636Z
+date: 2024-11-12T05:26:49.356Z
 tags: jewel, exalted
 editor: markdown
 dateCreated: 2024-11-12T04:12:50.163Z
 ---
 
 > Xoay tại máy chaos.
+
+![](https://mu0rs.com/item_images/14/190.gif)
 
 # Nguyên liệu
 
