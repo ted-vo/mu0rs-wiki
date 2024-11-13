@@ -2,7 +2,7 @@
 title: Lệnh nén ngọc thuộc tính
 description: 
 published: true
-date: 2024-11-13T07:07:07.673Z
+date: 2024-11-13T07:07:22.887Z
 tags: cmd, command, cmd zip ele, zip
 editor: markdown
 dateCreated: 2024-11-12T06:15:40.180Z
@@ -11,10 +11,10 @@ dateCreated: 2024-11-12T06:15:40.180Z
 # Lệnh
 
 ```
-/nenele X
+/nenele x
 ```
 
-| Ngọc | X | Bundle 30 |
+| Ngọc | x | Bundle 30 |
 |:-----|:--|:---------:|
 | Jewel of Transmutation | 1 | ![bundle-jewel-of-transmutation.png](/assets/jewels/bundle-jewel-of-transmutation.png) |
 | Jewel of Alteration | 2 | ![bundle-jewel-of-alteration.png](/assets/jewels/bundle-jewel-of-alteration.png) |
