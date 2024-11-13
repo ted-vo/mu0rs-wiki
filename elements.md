@@ -2,8 +2,8 @@
 title: Hệ Thống Thuộc Tính
 description: Hệ thống thuộc tính là một tính năng customize có một không hai của Mu0rs.com
 published: true
-date: 2024-11-13T06:57:25.523Z
-tags: ele, posion, lighting, fire, ice, element, jewel element
+date: 2024-11-13T08:38:10.706Z
+tags: ele, posion, lighting, fire, ice, element, jewel element, độc, sét, lửa, băng, ngọc thuộc tính
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
 ---
