@@ -2,7 +2,7 @@
 title: Máy Chủ Buffalo
 description: Máy chủ siêu khó mới
 published: true
-date: 2024-11-15T10:55:00.280Z
+date: 2024-11-15T10:55:57.599Z
 tags: server, info, new, buffalo, máy chủ mới, hardcore, khó
 editor: markdown
 dateCreated: 2024-11-12T16:38:01.765Z
@@ -10,7 +10,8 @@ dateCreated: 2024-11-12T16:38:01.765Z
 
 # Thông tin
 
-<center>
+<div align="center"/>
+
 | Chủ Đề | Nội Dung |
 |:-------|:---------|
 | Exp  | `x10`: 1 < Level < 220<br>`x1`: Level > 220 |
@@ -30,7 +31,6 @@ dateCreated: 2024-11-12T16:38:01.765Z
 | Box ò Heaven | 10K Zen hoặc đồ thường (random +0 -> +4). |
 | Các loại [Card Nhân Phẩm](https://wiki.mu0rs.com/vi/craft#xoay-th%E1%BA%BB-nh%C3%A2n-ph%E1%BA%A9m) | Giảm tỷ lệ drop cũng như tỷ lệ xoay ra đồ ngon |
 | Blue / Pink / Red Chocolate Box | Chỉ rớt khi săn các Boss |
-</center>
 
 # Event
 | Event | Nôi dung |
