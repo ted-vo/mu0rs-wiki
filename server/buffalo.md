@@ -2,7 +2,7 @@
 title: Máy Chủ Buffalo
 description: Hoài niệm Mu Online. Máy chủ cày cuốc siêu khó mới !!!
 published: true
-date: 2024-11-15T11:14:07.497Z
+date: 2024-11-15T11:18:42.847Z
 tags: server, info, new, buffalo, máy chủ mới, hardcore, khó
 editor: markdown
 dateCreated: 2024-11-12T16:38:01.765Z
@@ -18,6 +18,7 @@ dateCreated: 2024-11-12T16:38:01.765Z
 | Exp  | `x10`: 1 < Level < 220<br>`x1`: Level > 220 |
 | Drop | `x1` |
 | Nhân Vật | [Dark Knight](/vi/characters/dark-knight)<br>[Fairy Elf](/vi/characters/fairy-elf)<br>[Dark Wizard](/vi/characters/dark-wizard)<br>[Summoner](/vi/characters/summoner)<br>[Magic Gladiator](/vi/characters/magic-gladiator)<br>[Dark Lord](/vi/characters/dark-lord) (cần level 180)<br>[Rage Fighter](/vi/characters/rage-fighter) (cần level 120) |
+| [Hệ Thống Thuộc Tính](/vi/elements) | Có |
 | Ngọc / Sách Skill | Không bán => Tự nhặt |
 | Nhiệm vụ nhân vật | Q1 (Level 170) và Q2 (Level 220) hệ thống tự động làm.<br>Q3 (400) => Tự làm |
 | Max Level | `500` |
@@ -56,3 +57,15 @@ dateCreated: 2024-11-12T16:38:01.765Z
 | [Event Gà](/vi/events/chicken) | Ko |
 | [Event King](/vi/events/king) | Random 1-10 viên ngọc các loại |
 | [Sinh Tồn](/vi/events/survale) | Các loại box [Ngọc Thuộc Tính](/vi/craft/jewel-of-elements) |
+
+<div align="left"/>
+
+
+> Tặng Mu0rs [Ly Cà Phê](https://mu0rs.com/ung-ho-mu-ko-reset)
+
+# Liên quan
+- [Sự Kiện](/vi/events)
+- [Nhân Vật](/vi/characters)
+- [Trang Bị](/vi/items)
+- [Hệ Thống Thuộc Tính](/vi/elements)
+- [Máu Ghép Chaos](/vi/craft)
