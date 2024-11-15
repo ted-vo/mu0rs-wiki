@@ -2,7 +2,7 @@
 title: Máy Chủ Buffalo
 description: Máy chủ siêu khó mới
 published: true
-date: 2024-11-15T10:56:59.443Z
+date: 2024-11-15T11:07:11.423Z
 tags: server, info, new, buffalo, máy chủ mới, hardcore, khó
 editor: markdown
 dateCreated: 2024-11-12T16:38:01.765Z
@@ -11,12 +11,14 @@ dateCreated: 2024-11-12T16:38:01.765Z
 <div align="center"/>
 
 # Thông tin chung
-
 | Chủ Đề | Nội Dung |
 |:-------|:---------|
+| Phiên bản | `v6.3` Custom |
 | Exp  | `x10`: 1 < Level < 220<br>`x1`: Level > 220 |
 | Drop | `x1` |
+| Nhân Vật | [Dark Knight](/vi/characters/dark-knight)<br>[Fairy Elf](/vi/characters/fairy-elf)<br>[Dark Wizard](/vi/characters/dark-wizard)<br>[Summoner](/vi/characters/summoner)<br>[Magic Gladiator](/vi/characters/magic-gladiator)<br>[Dark Lord](/vi/characters/dark-lord) (cần level 180)<br>[Rage Fighter](/vi/characters/rage-fighter) (cần level 120) |
 | Ngọc / Sách Skill | Không bán => Tự nhặt |
+| Nhiệm vụ nhân vật | Q1 (Level 170) và Q2 (Level 220) hệ thống tự động làm.<br>Q3 (400) => Tự làm |
 | Max Level | `500` |
 | Master Point | `200` |
 | [Skill Tree](/vi/skill-tree) | Có |
