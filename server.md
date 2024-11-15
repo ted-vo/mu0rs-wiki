@@ -2,13 +2,14 @@
 title: Thông tin máy chủ
 description: 
 published: true
-date: 2024-11-12T16:43:07.884Z
+date: 2024-11-15T11:19:35.037Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-07T05:13:20.517Z
 ---
 
-> Game chỉ là ảo - Nhậu chung mới hay ^^!
+> Tặng Mu0rs [Ly Cà Phê](https://mu0rs.com/ung-ho-mu-ko-reset)
+
 
 | Server | Phiên bản | Điểm Kinh Nghiệm | Tỉ lệ rơi vật phẩm | Độ Khó | Ngày Open | Thông Tin | Trạng Thái |
 |:-------|:----------|:-----------------|:-------------------|:-------|:----------|:----------|:-----------|
