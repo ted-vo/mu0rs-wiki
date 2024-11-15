@@ -2,15 +2,15 @@
 title: Máy Chủ Buffalo
 description: Máy chủ siêu khó mới
 published: true
-date: 2024-11-15T10:55:57.599Z
+date: 2024-11-15T10:56:59.443Z
 tags: server, info, new, buffalo, máy chủ mới, hardcore, khó
 editor: markdown
 dateCreated: 2024-11-12T16:38:01.765Z
 ---
 
-# Thông tin
-
 <div align="center"/>
+
+# Thông tin chung
 
 | Chủ Đề | Nội Dung |
 |:-------|:---------|
@@ -32,7 +32,7 @@ dateCreated: 2024-11-12T16:38:01.765Z
 | Các loại [Card Nhân Phẩm](https://wiki.mu0rs.com/vi/craft#xoay-th%E1%BA%BB-nh%C3%A2n-ph%E1%BA%A9m) | Giảm tỷ lệ drop cũng như tỷ lệ xoay ra đồ ngon |
 | Blue / Pink / Red Chocolate Box | Chỉ rớt khi săn các Boss |
 
-# Event
+# Event trong game
 | Event | Nôi dung |
 |:------|:---------|
 | Binh đoàn Xương | Ko |
