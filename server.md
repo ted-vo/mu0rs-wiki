@@ -2,7 +2,7 @@
 title: Thông tin máy chủ
 description: 
 published: true
-date: 2024-11-15T11:19:35.037Z
+date: 2024-11-16T11:28:54.571Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-07T05:13:20.517Z
@@ -19,5 +19,5 @@ dateCreated: 2024-11-07T05:13:20.517Z
 
 [![](https://custom-icon-badges.demolab.com/badge/Chiến_Ngay-Tải_Game-green.svg?logo=download)](https://drive.google.com/drive/folders/13z3-HCiic7ukbfJdUlQoxB8DFiMD6-jR)
 
-> Thay mặt toàn thể BQT chúc anh em vui chơi giải trí & nhớ giữ gìn sức khỏe
+> Thay mặt toàn thể BQT chúc anh em vui chơi giải trí & nhớ giữ gìn sức khỏe.
 {.is-info}
