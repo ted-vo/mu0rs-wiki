@@ -2,7 +2,7 @@
 title: Event Schedules
 description: 
 published: true
-date: 2024-11-12T17:03:25.933Z
+date: 2024-11-16T10:54:09.311Z
 tags: event, schedules
 editor: markdown
 dateCreated: 2024-11-12T17:03:25.933Z
@@ -32,3 +32,7 @@ dateCreated: 2024-11-12T17:03:25.933Z
 | Hide and Seek with Kundun 2 |	22:18:7 |	SinhTon (Silent Map) | Jewels |
 | Gift Drop 1 |	12:48:7 |	Lorencia |	Jewels,Box KD |
 | Gift Drop 2 | 19:48:7 | Lorencia |	Jewels,Box KD |
+
+## ad {.blue-text .bigger}
+
+This is blue and bigger
