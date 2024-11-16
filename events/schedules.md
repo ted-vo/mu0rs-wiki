@@ -2,7 +2,7 @@
 title: Event Schedules
 description: 
 published: true
-date: 2024-11-16T10:54:09.311Z
+date: 2024-11-16T10:56:18.254Z
 tags: event, schedules
 editor: markdown
 dateCreated: 2024-11-12T17:03:25.933Z
@@ -33,6 +33,3 @@ dateCreated: 2024-11-12T17:03:25.933Z
 | Gift Drop 1 |	12:48:7 |	Lorencia |	Jewels,Box KD |
 | Gift Drop 2 | 19:48:7 | Lorencia |	Jewels,Box KD |
 
-## ad {.blue-text .bigger}
-
-This is blue and bigger
