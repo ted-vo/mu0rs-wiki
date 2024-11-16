@@ -2,7 +2,7 @@
 title: Event Schedules
 description: 
 published: true
-date: 2024-11-16T11:24:09.182Z
+date: 2024-11-16T11:25:49.857Z
 tags: event, schedules
 editor: markdown
 dateCreated: 2024-11-12T17:03:25.933Z
