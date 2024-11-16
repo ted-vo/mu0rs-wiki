@@ -2,7 +2,7 @@
 title: Event Schedules
 description: 
 published: true
-date: 2024-11-16T10:56:18.254Z
+date: 2024-11-16T11:24:09.182Z
 tags: event, schedules
 editor: markdown
 dateCreated: 2024-11-12T17:03:25.933Z
@@ -11,7 +11,7 @@ dateCreated: 2024-11-12T17:03:25.933Z
 
 | Event |h:m:s	| Location | Drop |
 |:------|:------|:---------|:-----|
-| Blood Castle | 0:33:7 |	Lorencia |	Jewels, Chocolate, Loch's Feather |
+| Blood Castle | <span id="bcTimer"/> |	Lorencia |	Jewels, Chocolate, Loch's Feather |
 | Devil Square | 1:3:7 | Lorencia	Jewels, Chocolate |
 | Chaos Castle | 0:3:7 | Chaos Castle | Map	Jewels, Ancient Item |
 | White Wizard | 0:4:7 | Lorencia |	Jewels |
