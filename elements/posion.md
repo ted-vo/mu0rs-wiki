@@ -2,7 +2,7 @@
 title: Nguyên Tố Độc
 description: 
 published: true
-date: 2024-11-17T16:27:13.091Z
+date: 2024-11-17T16:27:42.680Z
 tags: ele, posion, special
 editor: markdown
 dateCreated: 2024-11-09T18:39:09.408Z
@@ -52,6 +52,7 @@ Hai điều kiện để xuất hiện hiệu ứng đặc biệt `Dính độc`
 
 # Liên quan
 - [Elements](/vi/elements)
-- [Fire](/vi/elements/fire)
-- [Ice](/vi/elements/ice)
-- [Lighting](/vi/elements/lighting)
+- [Fire Element](/vi/elements/fire)
+- [Ice Element](/vi/elements/ice)
+- [Lighting Element](/vi/elements/lighting)
+{.links-list}
