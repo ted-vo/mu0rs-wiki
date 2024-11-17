@@ -2,7 +2,7 @@
 title: Nguyên Tố Lửa
 description: 
 published: true
-date: 2024-11-17T11:51:54.807Z
+date: 2024-11-17T11:52:51.556Z
 tags: ele, fire, special
 editor: markdown
 dateCreated: 2024-11-09T18:24:29.011Z
@@ -27,7 +27,7 @@ dateCreated: 2024-11-09T18:24:29.011Z
 | Opt thuộc tinh | Loại | Min x | Max y | Chi Tiết |
 |:---------------|:----:|:------|:------|:---------|
 | Add `FIRE` element damage `x` - `y` | <span class="mdi mdi-sword"/> | - | - | Khi gây sát thương sẽ có thêm `x` - `y` sát thương `NTL` lên đối phương. |
-| Increase `FIRE` element special rate `x%` | <span class="mdi mdi-sword"/> | - | 15 | Khi gây sát thương `NTL` có `x%` xuất hiện hiệu ứng đặt biệt: `Đốt Cháy` |
+| Increase `FIRE` element special rate `x%` | <span class="mdi mdi-sword"/> | - | - | Khi gây sát thương `NTL` có `x%` xuất hiện hiệu ứng đặt biệt: `Đốt Cháy` |
 | Increase `FIRE` element damage `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng thêm sát thương `NTL` `x%` |
 | Increase `FIRE` element critical rate `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng tỉ lệ sát thương `NTL` chí mạng `x%` |
 | Increase `FIRE` element double rate `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng tỉ lệ x2 sát thương `NTL` `x%` |
