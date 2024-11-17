@@ -2,7 +2,7 @@
 title: Hệ Thống Thuộc Tính
 description: Hệ thống thuộc tính là một tính năng customize có một không hai của Mu0rs.com
 published: true
-date: 2024-11-17T11:47:07.435Z
+date: 2024-11-17T11:53:46.681Z
 tags: ele, posion, lighting, fire, ice, element, jewel element, độc, sét, lửa, băng, ngọc thuộc tính
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
@@ -54,25 +54,31 @@ Tổng hợp nhanh sẽ có những opt [E1, E2](#opt-thu%E1%BB%99c-t%C3%ADnh-e1
 | Opt thuộc tinh | Loại | Min X/Y | Max X/Y |
 |:---------------|:-----:|:----|:----|
 | Add `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element damage `x` - `y` | <span class="mdi mdi-sword"/> | - | - |
-| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element special rate `x`% | <span class="mdi mdi-sword"/> | - | - |
-| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element damage `x`% | <span class="mdi mdi-sword"/> | - | - |
-| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element critical rate `x`% | <span class="mdi mdi-sword"/> | - | - |
-| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element double rate `x`% | <span class="mdi mdi-sword"/> | - | - |
-| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element ignore rate `x`% | <span class="mdi mdi-sword"/> | - | - |
-| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element effect time `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element special rate `x%` | <span class="mdi mdi-sword"/> | - | - |
+| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element damage `x%` | <span class="mdi mdi-sword"/> | - | - |
+| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element critical rate `x%` | <span class="mdi mdi-sword"/> | - | - |
+| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element double rate `x%` | <span class="mdi mdi-sword"/> | - | - |
+| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element ignore rate `x%` | <span class="mdi mdi-sword"/> | - | - |
+| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element effect time `x%` | <span class="mdi mdi-sword"/> | - | - |
 | Decrease target `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element defense `x` | <span class="mdi mdi-sword"/> | - | - |
-| Decrease target `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element absorb `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Decrease target `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element absorb `x%` | <span class="mdi mdi-sword"/> | - | - |
 | Add `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` defense `x` | <span class="mdi mdi-shield"/> | - | - |
-| Absorb `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element damage `x`% | <span class="mdi mdi-shield"/> | - | - |
-| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element defense `x`% | <span class="mdi mdi-shield"/> | - | - |
-| Resist `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element effect `x`% | <span class="mdi mdi-shield"/> | - | - |
+| Absorb `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element damage `x%` | <span class="mdi mdi-shield"/> | - | - |
+| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element defense `x%` | <span class="mdi mdi-shield"/> | - | - |
+| Resist `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element effect `x%` | <span class="mdi mdi-shield"/> | - | - |
 | Absorb `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element damage to HP `x`% | <span class="mdi mdi-shield"/> | - | - |
-| Max Resist `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element `x`% | <span class="mdi mdi-shield"/> | - | - |
+| Max Resist `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element `x%` | <span class="mdi mdi-shield"/> | - | - |
 | Max Dodge `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element damage `x`% | <span class="mdi mdi-shield"/> | - | - |
-| Decrease `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` effect time `x`% | <span class="mdi mdi-shield"/> | - | - |
-| Dodge `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element damage `x`% | <span class="mdi mdi-shield"/> | - | - |
+| Decrease `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` effect time `x%` | <span class="mdi mdi-shield"/> | - | - |
+| Dodge `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element damage `x%` | <span class="mdi mdi-shield"/> | - | - |
 
 >Các op `ALL element` mặc định sẽ là `FIRE`.
+{.is-info}
+
+> Opt "Dodge `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element damage`x%`" => được giới hạn max 80%. Nhiều hơn cũng chỉ tính 80%
+{.is-info}
+
+> Opt "Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element special rate `x%` => được giới hạn max 15%.
 {.is-info}
 
 > Nếu có hơn 1 opt nguyên tố, thì sẽ tính theo opt nguyên tố nào có giá trị cao nhất.
