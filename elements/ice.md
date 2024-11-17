@@ -2,7 +2,7 @@
 title: Nguyên Tố Băng
 description: 
 published: true
-date: 2024-11-17T11:40:29.743Z
+date: 2024-11-17T11:52:17.983Z
 tags: ele, ice, special
 editor: markdown
 dateCreated: 2024-11-09T18:30:18.858Z
@@ -31,7 +31,7 @@ Hai điều kiện để xuất hiện hiệu ứng đặc biệt `Đóng băng`
 | Increase `ICE` element damage `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng thêm sát thương `NTB` `x%` |
 | Increase `ICE` element critical rate `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng tỉ lệ sát thương `NTB` chí mạng `x%` |
 | Increase `ICE` element double rate `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng tỉ lệ x2 sát thương `NTB` `x%` |
-| Increase `ICE` element ignore rate `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng tỉ lệ bỏ qua phòng ngự `NTB` `x%` |
+| Increase `ICE` element ignore rate `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng tỉ lệ bỏ qua phòng ngự `NTB` `x%` .Bao gồm:<br>- Kháng (Resist) `NTB`.<br>- Phòng thủ(Defense) `NTB`.<br>- Né tránh (Dodge) `NTB`. ||
 | Increase `ICE` element effect time `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng thời gian tác dụng của hiệu ứng `Đóng băng` `x%` |
 | Decrease target `ICE` element defense `x` | <span class="mdi mdi-sword"/> | - | - | Giảm `x` phòng thủ `NTB` |
 | Decrease target `ICE` element absorb `x%` | <span class="mdi mdi-sword"/> | - | - | Giảm `x%` hấp thụ sát thương `NTB` |
