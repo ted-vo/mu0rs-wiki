@@ -2,7 +2,7 @@
 title: Hệ Thống Thuộc Tính
 description: Hệ thống thuộc tính là một tính năng customize có một không hai của Mu0rs.com
 published: true
-date: 2024-11-17T11:32:00.398Z
+date: 2024-11-17T11:47:07.435Z
 tags: ele, posion, lighting, fire, ice, element, jewel element, độc, sét, lửa, băng, ngọc thuộc tính
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
@@ -31,7 +31,6 @@ dateCreated: 2024-11-07T08:25:00.416Z
 | [Lighting](/elements/lighting) | Nguyên tố sét | 0 | ![ele-lighting-spec.gif](/assets/elements/ele-lighting-spec.gif) | - `Choáng` đối phương trong `1s`.<br> - Khi bị `choáng` giảm `100%` khả năng `né tránh` và `100%` khả năng `block` đòn đánh của đối phương.<br>- Trong 5s hưởng hiệu ứng `30%` bỏ qua phòng thủ đối phương.<br>- Khi đối phương bị `crit dmg` từ nguyên tố này, sẽ bị knock back (đẩy lùi) 2-3 ô gì đó | Phù hợp với build có số hit đánh ra nhanh và nhiều |
 | [Posion](/elements/posion) | Nguyên tố độc | 0 | ![ele-posion-spec.gif](/assets/elements/ele-posion-spec.gif) | - Dính `độc`, rút máu.<br>- Giảm né của đối phương 30%. <br>- Giảm hồi máu đối phương 50% (giống hiệu ứng `Vết Thương Sâu` của LOL hay hiệu ứng của `Eye of Skadi` bên DotA 2  | Phù hợp khi đối đầu với đối thủ nhiều máu. |
 
-
 # Trang bị có thể nâng cấp
 
 - Đồ thường
@@ -42,8 +41,6 @@ dateCreated: 2024-11-07T08:25:00.416Z
 # Cách các thuộc tính hoạt động
 
 Mỗi trang bị có thể có 2 `opt thuộc tính` và 1 `opt đặc biệt`.
-
-> Chi Tiết các loại [E1](#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2), [E2](#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2), [E3](#opt-%C4%91%E1%BA%B7c-bi%E1%BB%87t-e3) ở [đây](/elements/detail)
 
 ## Opt thuộc tính (E1,E2)
 
@@ -56,26 +53,30 @@ Tổng hợp nhanh sẽ có những opt [E1, E2](#opt-thu%E1%BB%99c-t%C3%ADnh-e1
 
 | Opt thuộc tinh | Loại | Min X/Y | Max X/Y |
 |:---------------|:-----:|:----|:----|
-| Add `FIRE` / `ICE` / `LIGHTING` / `POSION` element damage `x` - `y` | <span class="mdi mdi-sword"/> | - | - |
-| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` element special rate `x`% | <span class="mdi mdi-sword"/> | - | - |
-| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` element damage `x`% | <span class="mdi mdi-sword"/> | - | - |
-| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` element critical rate `x`% | <span class="mdi mdi-sword"/> | - | - |
-| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` element double rate `x`% | <span class="mdi mdi-sword"/> | - | - |
-| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` element ignore rate `x`% | <span class="mdi mdi-sword"/> | - | - |
-| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` element effect time `x`% | <span class="mdi mdi-sword"/> | - | - |
-| Decrease target `FIRE` / `ICE` / `LIGHTING` / `POSION` element defense `x` | <span class="mdi mdi-sword"/> | - | - |
-| Decrease target `FIRE` / `ICE` / `LIGHTING` / `POSION` element absorb `x`% | <span class="mdi mdi-sword"/> | - | - |
-| Add `FIRE` / `ICE` / `LIGHTING` / `POSION` defense `x` | <span class="mdi mdi-shield"/> | - | - |
-| Absorb `FIRE` / `ICE` / `LIGHTING` / `POSION` element damage `x`% | <span class="mdi mdi-shield"/> | - | - |
-| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` element defense `x`% | <span class="mdi mdi-shield"/> | - | - |
-| Resist `FIRE` / `ICE` / `LIGHTING` / `POSION` element effect `x`% | <span class="mdi mdi-shield"/> | - | - |
-| Absorb `FIRE` / `ICE` / `LIGHTING` / `POSION` element damage to HP `x`% | <span class="mdi mdi-shield"/> | - | - |
-| Max Resist `FIRE` / `ICE` / `LIGHTING` / `POSION` element `x`% | <span class="mdi mdi-shield"/> | - | - |
-| Max Dodge `FIRE` / `ICE` / `LIGHTING` / `POSION` element damage `x`% | <span class="mdi mdi-shield"/> | - | - |
-| Decrease `FIRE` / `ICE` / `LIGHTING` / `POSION` effect time `x`% | <span class="mdi mdi-shield"/> | - | - |
-| Dodge `FIRE` / `ICE` / `LIGHTING` / `POSION` element damage `x`% | <span class="mdi mdi-shield"/> | - | - |
+| Add `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element damage `x` - `y` | <span class="mdi mdi-sword"/> | - | - |
+| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element special rate `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element damage `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element critical rate `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element double rate `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element ignore rate `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element effect time `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Decrease target `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element defense `x` | <span class="mdi mdi-sword"/> | - | - |
+| Decrease target `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element absorb `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Add `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` defense `x` | <span class="mdi mdi-shield"/> | - | - |
+| Absorb `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element damage `x`% | <span class="mdi mdi-shield"/> | - | - |
+| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element defense `x`% | <span class="mdi mdi-shield"/> | - | - |
+| Resist `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element effect `x`% | <span class="mdi mdi-shield"/> | - | - |
+| Absorb `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element damage to HP `x`% | <span class="mdi mdi-shield"/> | - | - |
+| Max Resist `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element `x`% | <span class="mdi mdi-shield"/> | - | - |
+| Max Dodge `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element damage `x`% | <span class="mdi mdi-shield"/> | - | - |
+| Decrease `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` effect time `x`% | <span class="mdi mdi-shield"/> | - | - |
+| Dodge `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element damage `x`% | <span class="mdi mdi-shield"/> | - | - |
 
-> Chi Tiết các loại [E1](#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2), [E2](#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2), [E3](#opt-%C4%91%E1%BA%B7c-bi%E1%BB%87t-e3) ở [đây](/elements/detail)
+>Các op `ALL element` mặc định sẽ là `FIRE`.
+{.is-info}
+
+> Nếu có hơn 1 opt nguyên tố, thì sẽ tính theo opt nguyên tố nào có giá trị cao nhất.
+{.is-info}
 
 ## Opt đặc biệt (E3)
 
@@ -123,8 +124,6 @@ Tổng hợp nhanh sẽ có những opt [E3](#opt-%C4%91%E1%BA%B7c-bi%E1%BB%87t-
 | Add Resist Bypass SD  `x%` | <span class="mdi mdi-sword"/> | - | - |
 | Mana Shield `x%` | <span class="mdi mdi-sword"/> | - | - |
 
-> Chi Tiết các loại [E1](#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2), [E2](#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2), [E3](#opt-%C4%91%E1%BA%B7c-bi%E1%BB%87t-e3) ở [đây](/elements/detail)
-
 ## Opt đặc biệt chỉ có trên Cánh (Wings)
 
 Tổng hợp nhanh sẽ có những opt như sau (`/` nghĩa là hoặc):
@@ -171,8 +170,6 @@ Tổng hợp nhanh sẽ có những opt như sau (`/` nghĩa là hoặc):
 | Berserker giam tru HP,DEF,AG va tang DMG `x%` | <span class="mdi mdi-sword"/> | - | - |
 | Drain Life hut SD `x%` cua so mau hut dc | <span class="mdi mdi-sword"/> | - | - |
 | Gigantic Storm gay stun va xuat hien ign dmg theo ENE / `x` | <span class="mdi mdi-sword"/> | - | - |
-
-> Chi Tiết các loại [E1](#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2), [E2](#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2), [E3](#opt-%C4%91%E1%BA%B7c-bi%E1%BB%87t-e3) ở [đây](/elements/detail)
 
 # Ngọc Thuộc Tính
 | Tên | Mô Tả | Công Dụng | Sử dụng cho | Nguồn |
