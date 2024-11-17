@@ -1,9 +1,9 @@
 ---
-title: Nguyên Tố Băng
+title: Nguyên Tố Bănglà
 description: 
 published: true
-date: 2024-11-17T11:55:42.377Z
-tags: ele, ice, special, băng, nguyên tố băng, hiệu ứng đặc biệt
+date: 2024-11-17T11:56:08.092Z
+tags: ele, ice, special, băng, nguyên tố băng, hiệu ứng đặc biệt, đóng băng, làm chậm
 editor: markdown
 dateCreated: 2024-11-09T18:30:18.858Z
 ---
