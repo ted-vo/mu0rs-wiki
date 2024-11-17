@@ -2,7 +2,7 @@
 title: Nguyên Tố Sét
 description: 
 published: true
-date: 2024-11-17T16:23:18.632Z
+date: 2024-11-17T16:27:55.444Z
 tags: ele, lighting
 editor: markdown
 dateCreated: 2024-11-09T18:27:32.779Z
@@ -51,7 +51,7 @@ Hai điều kiện để xuất hiện hiệu ứng đặc biệt `Choáng` là 
 
 # Liên quan
 - [Elements](/vi/elements)
-- [Fire](/vi/elements/fire)
-- [Ice](/vi/elements/ice)
-- [Posion](/vi/elements/posion)
+- [Fire Element](/vi/elements/fire)
+- [Ice Element](/vi/elements/ice)
+- [Posion Element](/vi/elements/posion)
 {.links-list}
