@@ -2,7 +2,7 @@
 title: Hệ Thống Thuộc Tính
 description: Hệ thống thuộc tính là một tính năng customize có một không hai của Mu0rs.com
 published: true
-date: 2024-11-17T11:53:46.681Z
+date: 2024-11-17T13:54:38.026Z
 tags: ele, posion, lighting, fire, ice, element, jewel element, độc, sét, lửa, băng, ngọc thuộc tính
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
@@ -66,9 +66,9 @@ Tổng hợp nhanh sẽ có những opt [E1, E2](#opt-thu%E1%BB%99c-t%C3%ADnh-e1
 | Absorb `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element damage `x%` | <span class="mdi mdi-shield"/> | - | - |
 | Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element defense `x%` | <span class="mdi mdi-shield"/> | - | - |
 | Resist `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element effect `x%` | <span class="mdi mdi-shield"/> | - | - |
-| Absorb `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element damage to HP `x`% | <span class="mdi mdi-shield"/> | - | - |
+| Absorb `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element damage to HP `x%` | <span class="mdi mdi-shield"/> | - | - |
 | Max Resist `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element `x%` | <span class="mdi mdi-shield"/> | - | - |
-| Max Dodge `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element damage `x`% | <span class="mdi mdi-shield"/> | - | - |
+| Max Dodge `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element damage `x%` | <span class="mdi mdi-shield"/> | - | - |
 | Decrease `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` effect time `x%` | <span class="mdi mdi-shield"/> | - | - |
 | Dodge `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element damage `x%` | <span class="mdi mdi-shield"/> | - | - |
 
@@ -98,30 +98,30 @@ Tổng hợp nhanh sẽ có những opt [E3](#opt-%C4%91%E1%BA%B7c-bi%E1%BB%87t-
 |:---------------|:----:|:--------|:--------|
 | Add `Strength` / `Dexterity` / `Vitality` / `Energy` / `LeadherShip` / `all Stat` + `x` point | <span class="mdi mdi-shield-cross-outline"/> | - | - |
 | Add `SD` / `Mana` / `HP` `x` | <span class="mdi mdi-shield-cross-outline"/> | - | - |
-| Increase `Strength` / `Dexterity` / `Vitality` / `Energy` / `LeadherShip` / `All Stat` + `x`% | <span class="mdi mdi-shield-cross-outline"/> | - | - |
+| Increase `Strength` / `Dexterity` / `Vitality` / `Energy` / `LeadherShip` / `All Stat` + `x%` | <span class="mdi mdi-shield-cross-outline"/> | - | - |
 | Add AG `x` | <span class="mdi mdi-shield-cross-outline"/> | - | - |
-| Increase `SD` / `Mana` / `HP` / `Regen SD` / `Regen Mana` / `Regen HP` x`%` | <span class="mdi mdi-shield-cross-outline"/> | - | - |
+| Increase `SD` / `Mana` / `HP` / `Regen SD` / `Regen Mana` / `Regen HP` `x%` | <span class="mdi mdi-shield-cross-outline"/> | - | - |
 | Increase AG `x`% | <span class="mdi mdi-shield-cross-outline"/> | - | - |
-| Increase `Defense` / ` Defense Rate PvP` `x`% | <span class="mdi mdi-shield"/> | - | - |
+| Increase `Defense` / ` Defense Rate PvP` `x%` | <span class="mdi mdi-shield"/> | - | - |
 | Increase Defense Rate `x` | <span class="mdi mdi-shield"/> | - | - |
-| Increase `Def` / `Def Rate` with Shield `x`% | <span class="mdi mdi-shield"/> | - | - |
+| Increase `Def` / `Def Rate` with Shield `x%` | <span class="mdi mdi-shield"/> | - | - |
 | Add Def with `Shield` / `Shield PvP` `x` | <span class="mdi mdi-shield"/> | - | - |
 | Add Def Rate with Shield `x` | <span class="mdi mdi-shield"/> | - | - |
 | Add `Defense` / `PvP Defense` | <span class="mdi mdi-shield"/> | - | - |
-| Add `Reflect` / `Resist Reflect` / `Resist Stun` / `Resist Ice` / `Resist Poison` / `Resist Sleep` `x`% | <span class="mdi mdi-shield"/> | - | - |
+| Add `Reflect` / `Resist Reflect` / `Resist Stun` / `Resist Ice` / `Resist Poison` / `Resist Sleep` `x%` | <span class="mdi mdi-shield"/> | - | - |
 | Add `physical` / `spell` / `curserd` / `skill` damage `x` | <span class="mdi mdi-sword"/> | - | - |
 | Add attack `rating` / `rating PvP` + `x` | <span class="mdi mdi-sword"/> | - | - |
-| Add `Critical` / `Excellent` / `Ignore` / `Double` damage Rate `x`% | <span class="mdi mdi-sword"/> | - | - | 
-| Add `Decrease` / `Ignore Decrease` SD Rate `x`% | <span class="mdi mdi-sword"/> | - | - | 
-| Add `Interrupt` / `Stun` / `Bleeding` Rate `x`% | <span class="mdi mdi-sword"/> | - | - | 
+| Add `Critical` / `Excellent` / `Ignore` / `Double` damage Rate `x%` | <span class="mdi mdi-sword"/> | - | - | 
+| Add `Decrease` / `Ignore Decrease` SD Rate `x%` | <span class="mdi mdi-sword"/> | - | - | 
+| Add `Interrupt` / `Stun` / `Bleeding` Rate `x%` | <span class="mdi mdi-sword"/> | - | - | 
 | Increase `physical` / `magical` / `cursed` damge %.2f%%%% | <span class="mdi mdi-sword"/> | - | - |
-| Increase attack `rating` / `rating Pvp` `x`% | <span class="mdi mdi-sword"/> | - | - |
-| Increase damage with `Sword(Claw)` / `Axe` / `Mace(Scepter)` / `Spear` / `Bow` / `Xbow` `x` (dmg) / `x`% | <span class="mdi mdi-sword"/> | - | - |
-| Increase `Spell` / `Cursed` damage with `Staff` / `Book` + `x` (dmg) / `x`% | <span class="mdi mdi-sword"/> | - | - |
-| Increase `Critical` / `Excellent` / `Ignore` / `Double` damage `x` (dmg) / `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Increase attack `rating` / `rating Pvp` `x%` | <span class="mdi mdi-sword"/> | - | - |
+| Increase damage with `Sword(Claw)` / `Axe` / `Mace(Scepter)` / `Spear` / `Bow` / `Xbow` `x` (dmg) / `x%` | <span class="mdi mdi-sword"/> | - | - |
+| Increase `Spell` / `Cursed` damage with `Staff` / `Book` + `x` (dmg) / `x%` | <span class="mdi mdi-sword"/> | - | - |
+| Increase `Critical` / `Excellent` / `Ignore` / `Double` damage `x` (dmg) / `x%` | <span class="mdi mdi-sword"/> | - | - |
 | Increase `Bypass SD` Rate `x`% | <span class="mdi mdi-sword"/> | - | - |
 | Decrease target Defense `x` / `x`% | <span class="mdi mdi-sword"/> | - | - |
-| Decrease `damage Reduction` / `Shield Block` Rate `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Decrease `damage Reduction` / `Shield Block` Rate `x%` | <span class="mdi mdi-sword"/> | - | - |
 | Reflect dmg chance stun when horse riding `x%` | <span class="mdi mdi-sword"/> | - | - |
 | Raven `Double` / `Ignore` damage Rate `x%` | <span class="mdi mdi-sword"/> | - | - |
 | Reduce `Critical` / `Excellent` / `Ignore` / `Double`  Dmg Rate `x%` | <span class="mdi mdi-sword"/> | - | - |
@@ -147,7 +147,7 @@ Tổng hợp nhanh sẽ có những opt như sau (`/` nghĩa là hoặc):
 | Tang `x%` kha nang roi do Exc | <span class="mdi mdi-shield-cross-outline"/> | - | - |
 | Tang `x%` kha nang roi do Than | <span class="mdi mdi-shield-cross-outline"/> | - | - |
 | Tang `x%` kha nang rot do ngon | <span class="mdi mdi-shield-cross-outline"/> | - | - |
-| Minions damage rate `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Minions damage rate `x%` | <span class="mdi mdi-sword"/> | - | - |
 | LSD `x%` | <span class="mdi mdi-sword"/> | - | - |
 | Co `x%`  pha het `MANA` / `AG` doi phuong | <span class="mdi mdi-sword"/> | - | - |
 | Co `x%` tang 30%% final dmg 8s khi mau duoi 60% | <span class="mdi mdi-sword"/> | - | - |
