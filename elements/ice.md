@@ -2,7 +2,7 @@
 title: Nguyên Tố Băng
 description: 
 published: true
-date: 2024-11-17T11:38:07.225Z
+date: 2024-11-17T11:39:08.727Z
 tags: ele, ice, special
 editor: markdown
 dateCreated: 2024-11-09T18:30:18.858Z
@@ -14,7 +14,7 @@ dateCreated: 2024-11-09T18:30:18.858Z
 |:---------|:------------------|:------|
 | ![ele-ice-spec.gif](/assets/elements/ele-ice-spec.gif) | - `Đóng băng` đối phương `0.5s` sau đó `làm chậm` trong `7s`. <br>- Khi bị `đóng băng` giảm `100%` khả năng `né tránh` và `100%` khả năng `block` đòn đánh của đối phương.<br>- Sát thương bị gây khi đối phương trong trạng thái `làm chậm`, sẽ tăng thêm `50%` tỉ lệ xuất hiện sát thương hoàn hảo. | Phù hợp với các build gây sát thương liên tục thật nhanh, hoặc cần phá block ( đỡ đòn từ khiên ), phá né của đối phương. |
 
-Điều Kiện cần để xuất hiện hiệu ứng đặc biệt `Đóng băng` là phải có cái Opt thuộc tính sau: 
+Hai điều kiện để xuất hiện hiệu ứng đặc biệt `Đóng băng` là phải có 2 opt thuộc tính sau: 
 - [Add `ICE` element damage `x` (min) - `y` (max) *Khi gây sát thương sẽ có thêm `x` - `y` sát thương `NTB` lên đối phương.*](https://wiki.mu0rs.com/vi/elements#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2)
 - [Increase `ICE` special rate `x%`*Khi gây sát thương `NTB` có `x%` xuất hiện hiệu ứng đặt biệt: `Đóng băng`*](https://wiki.mu0rs.com/vi/elements#opt-%C4%91%E1%BA%B7c-bi%E1%BB%87t-e3)
 {.links-list}
@@ -26,7 +26,7 @@ dateCreated: 2024-11-09T18:30:18.858Z
 
 | Opt thuộc tinh | Loại | Min x | Max y | Chi Tiết |
 |:---------------|:----:|:------|:------|:---------|
-| Add `ICE` element damage `x` - `y` | <span class="mdi mdi-sword"/> | - | - | Khi gây sát thương sẽ có thêm `x` - `y` sát thương `NTB` lên đối phương.<br>Opt này là điều kiện cần để kích hoạt khả năng xuất hiện hiệu ứng đặc biệt `Đóng băng` của `NTB`. |
+| Add `ICE` element damage `x` - `y` | <span class="mdi mdi-sword"/> | - | - | Khi gây sát thương sẽ có thêm `x` - `y` sát thương `NTB` lên đối phương. |
 | Increase `ICE` element special rate `x%` | <span class="mdi mdi-sword"/> | - | 15 | Khi gây sát thương `NTB` có `x%` xuất hiện hiệu ứng đặt biệt: `Đóng băng` |
 | Increase `ICE` element damage `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng thêm sát thương `NTB` `x%` |
 | Increase `ICE` element critical rate `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng tỉ lệ sát thương `NTB` chí mạng `x%` |
