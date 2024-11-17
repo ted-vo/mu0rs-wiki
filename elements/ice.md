@@ -2,7 +2,7 @@
 title: Nguyên Tố Băng
 description: 
 published: true
-date: 2024-11-17T11:37:04.684Z
+date: 2024-11-17T11:38:07.225Z
 tags: ele, ice, special
 editor: markdown
 dateCreated: 2024-11-09T18:30:18.858Z
@@ -26,8 +26,8 @@ dateCreated: 2024-11-09T18:30:18.858Z
 
 | Opt thuộc tinh | Loại | Min x | Max y | Chi Tiết |
 |:---------------|:----:|:------|:------|:---------|
-| Add `ICE` element damage `x` - `y` | <span class="mdi mdi-sword"/> | - | - | Khi gây sát thương sẽ có thêm `x` - `y` sát thương thuộc tính `Lửa` lên đối phương.<br>Opt này là điều kiện cần để kích hoạt khả năng xuất hiện hiệu ứng đặc biệt `Đốt Cháy` của `NTB`. |
-| Increase `ICE` element special rate `x%` | <span class="mdi mdi-sword"/> | - | 15 | Khi gây sát thương `NTB` có `x%` xuất hiện hiệu ứng đặt biệt: `Đốt Cháy` |
+| Add `ICE` element damage `x` - `y` | <span class="mdi mdi-sword"/> | - | - | Khi gây sát thương sẽ có thêm `x` - `y` sát thương `NTB` lên đối phương.<br>Opt này là điều kiện cần để kích hoạt khả năng xuất hiện hiệu ứng đặc biệt `Đóng băng` của `NTB`. |
+| Increase `ICE` element special rate `x%` | <span class="mdi mdi-sword"/> | - | 15 | Khi gây sát thương `NTB` có `x%` xuất hiện hiệu ứng đặt biệt: `Đóng băng` |
 | Increase `ICE` element damage `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng thêm sát thương `NTB` `x%` |
 | Increase `ICE` element critical rate `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng tỉ lệ sát thương `NTB` chí mạng `x%` |
 | Increase `ICE` element double rate `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng tỉ lệ x2 sát thương `NTB` `x%` |
