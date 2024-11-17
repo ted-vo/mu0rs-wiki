@@ -2,8 +2,8 @@
 title: Nguyên Tố Băng
 description: 
 published: true
-date: 2024-11-17T11:52:56.588Z
-tags: ele, ice, special
+date: 2024-11-17T11:55:42.377Z
+tags: ele, ice, special, băng, nguyên tố băng, hiệu ứng đặc biệt
 editor: markdown
 dateCreated: 2024-11-09T18:30:18.858Z
 ---
