@@ -2,7 +2,7 @@
 title: Hệ Thống Thuộc Tính
 description: Hệ thống thuộc tính là một tính năng customize có một không hai của Mu0rs.com
 published: true
-date: 2024-11-16T17:58:17.987Z
+date: 2024-11-17T08:47:20.863Z
 tags: ele, posion, lighting, fire, ice, element, jewel element, độc, sét, lửa, băng, ngọc thuộc tính
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
@@ -115,13 +115,13 @@ Tổng hợp nhanh sẽ có những opt [E3](#opt-%C4%91%E1%BA%B7c-bi%E1%BB%87t-
 | Increase `Bypass SD` Rate `x`% | <span class="mdi mdi-sword"/> | - | - |
 | Decrease target Defense `x` / `x`% | <span class="mdi mdi-sword"/> | - | - |
 | Decrease `damage Reduction` / `Shield Block` Rate `x`% | <span class="mdi mdi-sword"/> | - | - |
-| Reflect dmg chance stun when horse riding `x`% | <span class="mdi mdi-sword"/> | - | - |
-| Raven `Double` / `Ignore` damage Rate `x`% | <span class="mdi mdi-sword"/> | - | - |
-| Reduce `Critical` / `Excellent` / `Ignore` / `Double`  Dmg Rate `x`% | <span class="mdi mdi-sword"/> | - | - |
-| Reduce Dmg From `DW` / `DK` / `ELF` / `MG` / `DL` / `SM` / `RF` `x`% | <span class="mdi mdi-sword"/> | - | - |
-| Add Shield Block Rate `x`% | <span class="mdi mdi-sword"/> | - | - |
-| Add Resist Bypass SD  `x`% | <span class="mdi mdi-sword"/> | - | - |
-| Mana Shield `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Reflect dmg chance stun when horse riding `x%` | <span class="mdi mdi-sword"/> | - | - |
+| Raven `Double` / `Ignore` damage Rate `x%` | <span class="mdi mdi-sword"/> | - | - |
+| Reduce `Critical` / `Excellent` / `Ignore` / `Double`  Dmg Rate `x%` | <span class="mdi mdi-sword"/> | - | - |
+| Reduce Dmg From `DW` / `DK` / `ELF` / `MG` / `DL` / `SM` / `RF` `x%` | <span class="mdi mdi-sword"/> | - | - |
+| Add Shield Block Rate `x%` | <span class="mdi mdi-sword"/> | - | - |
+| Add Resist Bypass SD  `x%` | <span class="mdi mdi-sword"/> | - | - |
+| Mana Shield `x%` | <span class="mdi mdi-sword"/> | - | - |
 
 > Chi Tiết các loại [E1](#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2), [E2](#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2), [E3](#opt-%C4%91%E1%BA%B7c-bi%E1%BB%87t-e3) ở [đây](/elements/detail)
 
@@ -131,28 +131,46 @@ Tổng hợp nhanh sẽ có những opt như sau (`/` nghĩa là hoặc):
 
 | Opt thuộc tinh | Loại | Min x | Max x|
 |:---------------|:----:|:------|:-----|
-| Hut `mau` / `mana` theo  `x`% dmg | <span class="mdi mdi-shield-cross-outline"/> | - | - |
-| Hoi phuc full SD khi tan cong `x`% | <span class="mdi mdi-shield"/>  | - | - |
-| Tang `x`% co hoi ra `x2` / `ign def` | <span class="mdi mdi-sword"/> | - | - |
-| Tang them `x`% khi dung Dai Quy(Soi Tinh) | <span class="mdi mdi-sword"/> | - | - |
-| `x`% Tang 20% dmg trong 5s | <span class="mdi mdi-sword"/> | - | - |
-| `x`% Xuat hien MNL 20% trong 5s | <span class="mdi mdi-sword"/> | - | - |
-| Giam `x`% `HP` / `DEF` de tang 20% dmg | <span class="mdi mdi-sword"/> | - | - |
-| Giam`x`% de tang 20% dmg | <span class="mdi mdi-sword"/> | - | - |
-| Tang x`%` kha nang roi do Exc | <span class="mdi mdi-shield-cross-outline"/> | - | - |
-| Tang `x`% kha nang roi do Than | <span class="mdi mdi-shield-cross-outline"/> | - | - |
-| Tang `x`% kha nang rot do ngon | <span class="mdi mdi-shield-cross-outline"/> | - | - |
+| Hut `mau` / `mana` theo  `x%` dmg | <span class="mdi mdi-shield-cross-outline"/> | - | - |
+| Hoi phuc full SD khi tan cong `x%` | <span class="mdi mdi-shield"/>  | - | - |
+| Tang `x%` co hoi ra `x2` / `ign def` | <span class="mdi mdi-sword"/> | - | - |
+| Tang them `x%` khi dung Dai Quy(Soi Tinh) | <span class="mdi mdi-sword"/> | - | - |
+| `x%` Tang 20% dmg trong 5s | <span class="mdi mdi-sword"/> | - | - |
+| `x%` Xuat hien MNL 20% trong 5s | <span class="mdi mdi-sword"/> | - | - |
+| Giam `x%` `HP` / `DEF` de tang 20% dmg | <span class="mdi mdi-sword"/> | - | - |
+| Giam`x%` de tang 20% dmg | <span class="mdi mdi-sword"/> | - | - |
+| Tang `x%` kha nang roi do Exc | <span class="mdi mdi-shield-cross-outline"/> | - | - |
+| Tang `x%` kha nang roi do Than | <span class="mdi mdi-shield-cross-outline"/> | - | - |
+| Tang `x%` kha nang rot do ngon | <span class="mdi mdi-shield-cross-outline"/> | - | - |
 | Minions damage rate `x`% | <span class="mdi mdi-sword"/> | - | - |
-| LSD `x`% | <span class="mdi mdi-sword"/> | - | - |
-| Co `x`%  pha het `MANA` / `AG` doi phuong | <span class="mdi mdi-sword"/> | - | - |
-| Co `x`% tang 30%% final dmg 8s khi mau duoi 60% | <span class="mdi mdi-sword"/> | - | - |
-| Co`x`% danh ko miss trong 5s | <span class="mdi mdi-sword"/> | - | - |
-| Tang `x`% `STR` / `DEX` / `VIT` / `ENE` / `CMD` | <span class="mdi mdi-sword"/> | - | - |
-| Co `x`% giam 50%% chinh xac ke dich 5s | <span class="mdi mdi-sword"/> | - | - |
-| Co `x`% khoa skill ke dich trong 3s | <span class="mdi mdi-sword"/> | - | - |
-| Co `x`% giam toc do cua ke dich 3s | <span class="mdi mdi-sword"/> | - | - |
-| Co`x`% bien char khac thanh tho 3s | <span class="mdi mdi-sword"/> | - | - |
-| Co `x`% supper ign | <span class="mdi mdi-sword"/> | - | - |
+| LSD `x%` | <span class="mdi mdi-sword"/> | - | - |
+| Co `x%`  pha het `MANA` / `AG` doi phuong | <span class="mdi mdi-sword"/> | - | - |
+| Co `x%` tang 30%% final dmg 8s khi mau duoi 60% | <span class="mdi mdi-sword"/> | - | - |
+| Co`x%` danh ko miss trong 5s | <span class="mdi mdi-sword"/> | - | - |
+| Tang `x%` `STR` / `DEX` / `VIT` / `ENE` / `CMD` | <span class="mdi mdi-sword"/> | - | - |
+| Co `x%` giam 50%% chinh xac ke dich 5s | <span class="mdi mdi-sword"/> | - | - |
+| Co `x%` khoa skill ke dich trong 3s | <span class="mdi mdi-sword"/> | - | - |
+| Co `x%` giam toc do cua ke dich 3s | <span class="mdi mdi-sword"/> | - | - |
+| Co`x%` bien char khac thanh tho 3s | <span class="mdi mdi-sword"/> | - | - |
+| Co `x%` supper ign | <span class="mdi mdi-sword"/> | - | - |
+| Dam gio gay stun `x%` | <span class="mdi mdi-sword"/> | - | - |
+| Combo DK pha het SD `x%` | <span class="mdi mdi-sword"/> | - | - |
+| Mui ten bang xuyen khang bang `x%` | <span class="mdi mdi-sword"/> | - | - |
+| XTT xuyen giap `x%` | <span class="mdi mdi-sword"/> | - | - |
+| Ngu tien gay stun va knocback `x%` | <span class="mdi mdi-sword"/> | - | - |
+| Tang effect buff def `x%` | <span class="mdi mdi-shield"/> | - | - |
+| Tang effect buff attack `x%` | <span class="mdi mdi-sword"/> | - | - |
+| EletricSpike tang dmg va ign rate dua theo STR / `x` | <span class="mdi mdi-sword"/> | - | - |
+| Giam dat giam delay 5s va stun `x%` | <span class="mdi mdi-sword"/> | - | - |
+| Khi Tele co `x%` mien sat thuong cua qua tinh | <span class="mdi mdi-shield"/> | - | - |
+| Nova duoc bonus tu ENE `x%` | <span class="mdi mdi-sword"/> | - | - |
+| Decay xuyen khang doc `x%` | <span class="mdi mdi-sword"/> | - | - |
+| Hoi tho rong huy SD,AG,Mana theo ENE / `x` | <span class="mdi mdi-sword"/> | - | - |
+| Gam thet hut SD theo `x%` dmg | <span class="mdi mdi-sword"/> | - | - |
+| Chem lua tru giap cong them va xuyen khang lua `x%` | <span class="mdi mdi-sword"/> | - | - |
+| Berserker giam tru HP,DEF,AG va tang DMG `x%` | <span class="mdi mdi-sword"/> | - | - |
+| Drain Life hut SD `x%` cua so mau hut dc | <span class="mdi mdi-sword"/> | - | - |
+| Gigantic Storm gay stun va xuat hien ign dmg theo ENE / `x` | <span class="mdi mdi-sword"/> | - | - |
 
 > Chi Tiết các loại [E1](#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2), [E2](#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2), [E3](#opt-%C4%91%E1%BA%B7c-bi%E1%BB%87t-e3) ở [đây](/elements/detail)
 
