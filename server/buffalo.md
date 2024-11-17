@@ -2,7 +2,7 @@
 title: Máy Chủ Buffalo
 description: Hoài niệm Mu Online. Máy chủ cày cuốc siêu khó mới !!!
 published: true
-date: 2024-11-17T17:24:20.435Z
+date: 2024-11-17T17:24:42.638Z
 tags: server, info, new, buffalo, máy chủ mới, hardcore, khó
 editor: markdown
 dateCreated: 2024-11-12T16:38:01.765Z
@@ -58,7 +58,7 @@ dateCreated: 2024-11-12T16:38:01.765Z
 | [Boom](/vi/events/boom) | Rớt Ngọc (`5%`) và Zen (`95%`) |
 | [Event Gà](/vi/events/chicken) | Ko |
 | [Event King](/vi/events/king) | Random 1-10 viên ngọc các loại |
-| [Sinh Tồn](/vi/events/survale) | Các loại box [Ngọc Thuộc Tính](/vi/craft/jewel-of-elements) |
+| [Sinh Tồn](/vi/events/survival) | Các loại box [Ngọc Thuộc Tính](/vi/craft/jewel-of-elements) |
 
 <div align="left"/>
 
