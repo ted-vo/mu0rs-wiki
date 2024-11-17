@@ -2,7 +2,7 @@
 title: Máy Chủ Buffalo
 description: Hoài niệm Mu Online. Máy chủ cày cuốc siêu khó mới !!!
 published: true
-date: 2024-11-16T11:31:37.684Z
+date: 2024-11-17T17:11:15.194Z
 tags: server, info, new, buffalo, máy chủ mới, hardcore, khó
 editor: markdown
 dateCreated: 2024-11-12T16:38:01.765Z
@@ -31,7 +31,7 @@ dateCreated: 2024-11-12T16:38:01.765Z
 | Máu Quái | `x2` |
 | Damage Quái | base + thêm damage từ level của người chơi. Level càng cao ăn damage càng nhiều. |
 | Chuyển server sang [server Memory](/vi/server/memory) | Free, thích lúc nào chuyển lúc đó bằng tính năng ở website. |
-| Box of Kundun (![box_kundun.png](/assets/box_kundun.png)) | Chỉ rớt khi săn [Boss Vàng](/vi/events/gold-invasion).<br>Chỉ rớt `box +1`, `box +2`.<br>Boss cấp cao số lượng rớt ra nhiều hơn.<br>Mỗi ![box_kundun.png](/assets/box_kundun.png) chỉ rớt ra random 1 món Excellent (`10%`) hoặc Zen (`90%`).<br>Cách kiếm `box +3 -> +5` => dùng tính năng [Nâng cấp Box of Kundun](/vi/craft/upgrade-box-kundun) |
+| Box of Kundun (![box_kundun.png](/assets/box_kundun.png)) | Chỉ rớt khi săn [Boss Vàng](/vi/events/invasion-of-dourados).<br>Chỉ rớt `box +1`, `box +2`.<br>Boss cấp cao số lượng rớt ra nhiều hơn.<br>Mỗi ![box_kundun.png](/assets/box_kundun.png) chỉ rớt ra random 1 món Excellent (`10%`) hoặc Zen (`90%`).<br>Cách kiếm `box +3 -> +5` => dùng tính năng [Nâng cấp Box of Kundun](/vi/craft/upgrade-box-kundun) |
 | Box GM (![](https://mu0rs.com/item_images/14/52.gif)) | Vật vật nhận được khi ủng hộ server.<br>Chỉ rớt ra Box of Kundun (random từ +1 -> +3).<br>Các loại ngọc tối đa 1 viên. |
 | Box of Luck | Random ngọc cùi, ele.<br>Chỉ rớt 1 viên / 1 box. |
 | Box ò Heaven | 10K Zen hoặc đồ thường (random +0 -> +4). |
@@ -45,7 +45,7 @@ dateCreated: 2024-11-12T16:38:01.765Z
 | Rồng đỏ | Ko |
 | Phù Thủy | Lúc `20h01` mỗi ngày (1 lần / ngày).<br>Rớt 1 viên ngọc Bless.<br>Xuất hiện 3 maps: `Noria`, `Lorencia`, `Davias`
 | Thỏ | Lúc `19h15` và `22h15` mỗi ngày (2 lần / ngày).<br>Rớt random Zen hoặc [Ngọc Thuộc Tính](/vi/craft/jewel-of-elements) |
-| [Boss Vàng](/vi/events/gold-invasion) | Mỗi loại 1 con. Rớt: Box of Kundun (![box_kundun.png](/assets/box_kundun.png)).<br>- Chỉ rớt `box +1`, `box +2`.<br>- Boss cấp cao số lượng rớt ra nhiều hơn.<br>- Mỗi ![box_kundun.png](/assets/box_kundun.png) chỉ rớt ra random 1 món Excellent (`10%`) hoặc Zen (`90%`).<br>- Cách kiếm `box +3 -> +5` => dùng tính năng [Nâng cấp Box of Kundun](/vi/craft/upgrade-box-kundun)  |
+| [Boss Vàng](/vi/events/invasion-of-dourados) | Mỗi loại 1 con. Rớt: Box of Kundun (![box_kundun.png](/assets/box_kundun.png)).<br>- Chỉ rớt `box +1`, `box +2`.<br>- Boss cấp cao số lượng rớt ra nhiều hơn.<br>- Mỗi ![box_kundun.png](/assets/box_kundun.png) chỉ rớt ra random 1 món Excellent (`10%`) hoặc Zen (`90%`).<br>- Cách kiếm `box +3 -> +5` => dùng tính năng [Nâng cấp Box of Kundun](/vi/craft/upgrade-box-kundun)  |
 | [Medusa](/vi/monsters/medusa) |  Lúc `21h00` mỗi ngày (1 lần / ngày). Rớt:<br>- Box of Kundun (![box_kundun.png](/assets/box_kundun.png)) (random `+1` đến `+5`).<br>- Ring excellent.<br>- Blue Chocolate Box (![](https://mu0rs.com/item_images/14/34.gif)).<br>- [Jewel Card](/vi/craft/jewel-card) (![](https://mu0rs.com/item_images/14/146.gif)) |
 | [Erohim](/vi/monsters/erohim) | Lúc `20h20` tại `Lorencia` (1 lần / ngày). Rớt:<br>- Box of Kundun (![box_kundun.png](/assets/box_kundun.png)) (random `+1` đến `+5`).<br>- Pen excellent.<br>- Purple Chocolate Box.<br>- [Jewel Card](/vi/craft/jewel-card) (![](https://mu0rs.com/item_images/14/146.gif)) |
 | [NightMare](/vi/monsters/night-mare) / [Dark elf](/vi/monsters/dark-elf) | Rớt:<br>- Random Ring excellent.<br>- Random Pen excellent.<br>- [Gamble Card](/vi/craft/gamble-card) (![](https://mu0rs.com/item_images/14/147.gif)) |
