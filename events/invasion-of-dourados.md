@@ -2,7 +2,7 @@
 title: Invasion of Dourados
 description: Sự kiện săn boss vàng
 published: true
-date: 2024-11-17T17:10:06.368Z
+date: 2024-11-17T17:12:11.955Z
 tags: event, golden boss, boss
 editor: markdown
 dateCreated: 2024-11-17T17:10:06.368Z
@@ -12,7 +12,7 @@ dateCreated: 2024-11-17T17:10:06.368Z
 
 | Map | Monster | Img |
 |:----|:--------|:----|
-| Lorencia |  |  ![golden-budge-dragon.jpg](/assets/golden-monters/golden-budge-dragon.jpg) |
+| Lorencia | Golden Budge Dragon |  ![golden-budge-dragon.jpg](/assets/golden-monters/golden-budge-dragon.jpg) |
 | Noria | Golden Goblin | ![golden-goblin.jpg](/assets/golden-monters/golden-goblin.jpg) |
 | Elveland | Golden Rabbit | ![golden-rabbit.jpg](/assets/golden-monters/golden-rabbit.jpg) |
 | Devias | Golden Titan | ![golden-titan.jpg](/assets/golden-monters/golden-titan.jpg) |
