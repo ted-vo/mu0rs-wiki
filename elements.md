@@ -2,7 +2,7 @@
 title: Hệ Thống Thuộc Tính
 description: Hệ thống thuộc tính là một tính năng customize có một không hai của Mu0rs.com
 published: true
-date: 2024-11-17T08:47:20.863Z
+date: 2024-11-17T11:32:00.398Z
 tags: ele, posion, lighting, fire, ice, element, jewel element, độc, sét, lửa, băng, ngọc thuộc tính
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
@@ -57,14 +57,14 @@ Tổng hợp nhanh sẽ có những opt [E1, E2](#opt-thu%E1%BB%99c-t%C3%ADnh-e1
 | Opt thuộc tinh | Loại | Min X/Y | Max X/Y |
 |:---------------|:-----:|:----|:----|
 | Add `FIRE` / `ICE` / `LIGHTING` / `POSION` element damage `x` - `y` | <span class="mdi mdi-sword"/> | - | - |
+| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` element special rate `x`% | <span class="mdi mdi-sword"/> | - | - |
 | Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` element damage `x`% | <span class="mdi mdi-sword"/> | - | - |
-| Decrease target `FIRE` / `ICE` / `LIGHTING` / `POSION` element defense `x` | <span class="mdi mdi-sword"/> | - | - |
-| Decrease target `FIRE` / `ICE` / `LIGHTING` / `POSION` element absorb `x`% | <span class="mdi mdi-sword"/> | - | - |
 | Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` element critical rate `x`% | <span class="mdi mdi-sword"/> | - | - |
 | Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` element double rate `x`% | <span class="mdi mdi-sword"/> | - | - |
 | Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` element ignore rate `x`% | <span class="mdi mdi-sword"/> | - | - |
 | Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` element effect time `x`% | <span class="mdi mdi-sword"/> | - | - |
-| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` element special rate `x`% | <span class="mdi mdi-sword"/> | - | - |
+| Decrease target `FIRE` / `ICE` / `LIGHTING` / `POSION` element defense `x` | <span class="mdi mdi-sword"/> | - | - |
+| Decrease target `FIRE` / `ICE` / `LIGHTING` / `POSION` element absorb `x`% | <span class="mdi mdi-sword"/> | - | - |
 | Add `FIRE` / `ICE` / `LIGHTING` / `POSION` defense `x` | <span class="mdi mdi-shield"/> | - | - |
 | Absorb `FIRE` / `ICE` / `LIGHTING` / `POSION` element damage `x`% | <span class="mdi mdi-shield"/> | - | - |
 | Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` element defense `x`% | <span class="mdi mdi-shield"/> | - | - |
