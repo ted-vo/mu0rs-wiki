@@ -2,24 +2,57 @@
 title: Nguyên Tố Băng
 description: 
 published: true
-date: 2024-11-09T19:24:17.449Z
+date: 2024-11-17T11:37:04.684Z
 tags: ele, ice, special
 editor: markdown
 dateCreated: 2024-11-09T18:30:18.858Z
 ---
 
-# Hiệu ứng đặt biệt
+> Chú Thích: `NTB` = Nguyên Tố Băng
 
-![ele-ice-spec.gif](/assets/elements/ele-ice-spec.gif){.align-center}
+| Hiệu ứng | Tác dụng đặc biệt | Ví dụ tham khảo |
+|:---------|:------------------|:------|
+| ![ele-ice-spec.gif](/assets/elements/ele-ice-spec.gif) | - `Đóng băng` đối phương `0.5s` sau đó `làm chậm` trong `7s`. <br>- Khi bị `đóng băng` giảm `100%` khả năng `né tránh` và `100%` khả năng `block` đòn đánh của đối phương.<br>- Sát thương bị gây khi đối phương trong trạng thái `làm chậm`, sẽ tăng thêm `50%` tỉ lệ xuất hiện sát thương hoàn hảo. | Phù hợp với các build gây sát thương liên tục thật nhanh, hoặc cần phá block ( đỡ đòn từ khiên ), phá né của đối phương. |
 
-# Op tấn công
+Điều Kiện cần để xuất hiện hiệu ứng đặc biệt `Đóng băng` là phải có cái Opt thuộc tính sau: 
+- [Add `ICE` element damage `x` (min) - `y` (max) *Khi gây sát thương sẽ có thêm `x` - `y` sát thương `NTB` lên đối phương.*](https://wiki.mu0rs.com/vi/elements#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2)
+- [Increase `ICE` special rate `x%`*Khi gây sát thương `NTB` có `x%` xuất hiện hiệu ứng đặt biệt: `Đóng băng`*](https://wiki.mu0rs.com/vi/elements#opt-%C4%91%E1%BA%B7c-bi%E1%BB%87t-e3)
+{.links-list}
 
-# Op phòng thủ
+> Nếu có nhiều hơn 1 loại Opt `Add element damage` hoặc `Increase element special rate` thì sẽ tính của Opt có giá trị cao hơn.
+{.is-info}
 
-# Tất cả Op
+# Op tấn công (E1/E2)
+
+| Opt thuộc tinh | Loại | Min x | Max y | Chi Tiết |
+|:---------------|:----:|:------|:------|:---------|
+| Add `ICE` element damage `x` - `y` | <span class="mdi mdi-sword"/> | - | - | Khi gây sát thương sẽ có thêm `x` - `y` sát thương thuộc tính `Lửa` lên đối phương.<br>Opt này là điều kiện cần để kích hoạt khả năng xuất hiện hiệu ứng đặc biệt `Đốt Cháy` của `NTB`. |
+| Increase `ICE` element special rate `x%` | <span class="mdi mdi-sword"/> | - | 15 | Khi gây sát thương `NTB` có `x%` xuất hiện hiệu ứng đặt biệt: `Đốt Cháy` |
+| Increase `ICE` element damage `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng thêm sát thương `NTB` `x%` |
+| Increase `ICE` element critical rate `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng tỉ lệ sát thương `NTB` chí mạng `x%` |
+| Increase `ICE` element double rate `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng tỉ lệ x2 sát thương `NTB` `x%` |
+| Increase `ICE` element ignore rate `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng tỉ lệ bỏ qua phòng ngự `NTB` `x%` |
+| Increase `ICE` element effect time `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng thời gian tác dụng của hiệu ứng `Đốt Cháy` `x%` |
+| Decrease target `ICE` element defense `x` | <span class="mdi mdi-sword"/> | - | - | Giảm `x` phòng thủ `NTB` |
+| Decrease target `ICE` element absorb `x%` | <span class="mdi mdi-sword"/> | - | - | Giảm `x%` hấp thụ sát thương `NTB` |
+
+# Op phòng thủ (E1/E2)
+
+| Opt thuộc tinh | Loại | Min x | Max y | Chi Tiết |
+|:---------------|:----:|:------|:------|:---------|
+| Add `ICE` defense `x` | <span class="mdi mdi-shield"/> | - | - | Thêm `x` phòng thủ `NTB` |
+| Absorb `ICE` element damage `x%` | <span class="mdi mdi-shield"/> | - | - | Hấp thụ (giảm) `x%` sát thương `NTB` |
+| Increase `ICE` element defense `x%` | <span class="mdi mdi-shield"/> | - | - | Tăng `x%` phòng thủ `NTB` |
+| Resist `ICE` element effect `x%` | <span class="mdi mdi-shield"/> | - | - | `x%` kháng hiệu ứng đặc biệt `NTB` |
+| Absorb `ICE` element damage to HP `x%`%| <span class="mdi mdi-shield"/> | - | - | Hấp thụ `x%` sát thương `NTB` sang Máu |
+| Max Resist `ICE` element `x%` | <span class="mdi mdi-shield"/> | - | - | Tăng tối đá kháng `NTB` `x%` |
+| Max Dodge `ICE` element damage `x%` | <span class="mdi mdi-shield"/> | - | - | Tăng tối đa `x%` né sát thương `NTB` |
+| Decrease `ICE` effect time `x%` | <span class="mdi mdi-shield"/> | - | - | Giảm `x%` thời gian dính hiệu ứng đặc biệt `NTB` |
+| Dodge `ICE` element damage `x%` | <span class="mdi mdi-shield"/> | - | - | `x%` né sát thương `NTB` |
 
 # Liên quan
 - [Elements](/vi/elements)
 - [Fire](/vi/elements/fire)
 - [Lighting](/vi/elements/lighting)
 - [Posion](/vi/elements/posion)
+{.links-list}
