@@ -2,7 +2,7 @@
 title: Nâng cấp box Kundun
 description: Nâng cấp box Kundun
 published: true
-date: 2024-11-12T14:56:13.638Z
+date: 2024-11-20T14:58:31.805Z
 tags: upgrade box kundun, nâng cấp box, nâng cấp box kundun
 editor: markdown
 dateCreated: 2024-11-12T08:47:01.009Z
@@ -19,4 +19,5 @@ dateCreated: 2024-11-12T08:47:01.009Z
 
 # Tỉ lệ
 
-Thành công: `100`%. 
+> Thành công: `100%`.
+{.is-success}
