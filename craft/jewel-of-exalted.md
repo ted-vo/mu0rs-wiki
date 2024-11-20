@@ -2,7 +2,7 @@
 title: Ghép Jewel of Exalted
 description: Nguyên liệu nâng cấp thuộc tính
 published: true
-date: 2024-11-12T05:28:55.276Z
+date: 2024-11-20T14:57:14.180Z
 tags: jewel, exalted
 editor: markdown
 dateCreated: 2024-11-12T04:12:50.163Z
@@ -26,5 +26,8 @@ Dùng để nâng cấp opt mới cho wings.
 
 # Tỉ lệ
 
-Thành công: `85`%.
-Thất bại: `15`%. => Xịt mất hết. 
+> Thành công: `85%`.
+{.is-success}
+
+> Thất bại: `15%`. => Xịt mất hết. 
+{.is-danger}
