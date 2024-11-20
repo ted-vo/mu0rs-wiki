@@ -2,7 +2,7 @@
 title: Ancient Card
 description: Thẻ nhân phẩm
 published: true
-date: 2024-11-12T15:24:03.166Z
+date: 2024-11-20T14:58:14.122Z
 tags: gamble, card, lucky, craft, ancient
 editor: markdown
 dateCreated: 2024-11-12T15:24:03.163Z
@@ -23,4 +23,5 @@ Random 1 món đồ thần ngẫu nhiên.
 
 # Tỉ lệ
 
-Thành công: `100`%.
+> Thành công: `100%`.
+{.is-success}
