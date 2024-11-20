@@ -2,7 +2,7 @@
 title: Jewel Card
 description: Thẻ nhân phẩm
 published: true
-date: 2024-11-12T15:22:36.687Z
+date: 2024-11-20T14:57:55.336Z
 tags: jewel, gamble, card, lucky, craft
 editor: markdown
 dateCreated: 2024-11-12T15:17:06.917Z
@@ -22,4 +22,5 @@ Dùng 10 cái để xoay ra các viên ngọc hoặc cụm ngọc ngẫu nhiên 
 
 # Tỉ lệ
 
-Thành công: `100`%.
+> Thành công: `100%`.
+{.is-success}
