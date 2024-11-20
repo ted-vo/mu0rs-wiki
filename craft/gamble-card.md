@@ -2,7 +2,7 @@
 title: Gamble Card
 description: Thẻ nhân phẩm
 published: true
-date: 2024-11-12T15:22:22.904Z
+date: 2024-11-20T14:57:35.419Z
 tags: gamble, card, craft
 editor: markdown
 dateCreated: 2024-11-12T15:13:47.290Z
@@ -24,7 +24,9 @@ Vật phẩm ngẫu nhiên bao gồm từ cùi đến cực kỳ xịn.
 
 # Tỉ lệ
 
-Thành công: `100`%.
+> Thành công: `100%`.
+{.is-success}
+
 
 > Đồ càng xịn tỷ lệ xuất hiện càng khó
 {.is-info}
