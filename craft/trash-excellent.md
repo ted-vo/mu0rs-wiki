@@ -2,7 +2,7 @@
 title: Kết hợp đồ Excellent rác thành Box of Kundun
 description: Nhà giàu
 published: true
-date: 2024-11-12T15:48:41.461Z
+date: 2024-11-20T14:51:50.933Z
 tags: craft, box of kundun, trash excellent
 editor: markdown
 dateCreated: 2024-11-12T15:48:41.461Z
@@ -23,4 +23,5 @@ Nếu thành công sẽ cho ra 1 Box of Kundun (![box_kundun.png](/assets/box_ku
 
 # Tỉ lệ
 
-Thành công: `80`% ? (Chưa biết đúng ko) 
+> Thành công: `80`% ? (Chưa biết đúng ko) 
+{.is-success}
