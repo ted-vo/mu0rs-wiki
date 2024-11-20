@@ -2,7 +2,7 @@
 title: Hệ Thống Thuộc Tính
 description: Hệ thống thuộc tính là một tính năng customize có một không hai của Mu0rs.com
 published: true
-date: 2024-11-20T15:30:48.496Z
+date: 2024-11-20T15:33:02.061Z
 tags: ele, posion, lighting, fire, ice, element, jewel element, độc, sét, lửa, băng, ngọc thuộc tính
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
@@ -96,39 +96,39 @@ Tổng hợp nhanh sẽ có những opt [E3](#opt-%C4%91%E1%BA%B7c-bi%E1%BB%87t-
 
 | Opt thuộc tinh | Loại | Min X/Y | Max X/Y | Mũ | Áo | Quần | Tay | Chân | Nhẫn | Vòng Cổ | Vũ Khí | Khiên |
 |:---------------|:-----:|:-------|:--------|:---|:---|:-----|:----|:-----|:-----|:--------|:-------|:------|
-| Add `Strength` / `Dexterity` / `Vitality` / `Energy` / `LeadherShip` / `all Stat` + `x` point | <span class="mdi mdi-shield-cross-outline"/> | - | - | | | | | | | | | | |
-| Add `SD` / `Mana` / `HP` `x` | <span class="mdi mdi-shield-cross-outline"/> | - | - | | | | | | | | | | |
-| Increase `Strength` / `Dexterity` / `Vitality` / `Energy` / `LeadherShip` / `All Stat` + `x%` | <span class="mdi mdi-shield-cross-outline"/> | - | - | | | | | | | | | | |
-| Add AG `x` | <span class="mdi mdi-shield-cross-outline"/> | - | - | | | | | | | | | | |
-| Increase `SD` / `Mana` / `HP` / `Regen SD` / `Regen Mana` / `Regen HP` `x%` | <span class="mdi mdi-shield-cross-outline"/> | - | - | | | | | | | | | | |
-| Increase AG `x`% | <span class="mdi mdi-shield-cross-outline"/> | - | - | | | | | | | | | | |
-| Increase `Defense` / ` Defense Rate PvP` `x%` | <span class="mdi mdi-shield"/> | - | - | | | | | | | | | | |
-| Increase Defense Rate `x` | <span class="mdi mdi-shield"/> | - | - | | | | | | | | | | |
-| Increase `Def` / `Def Rate` with Shield `x%` | <span class="mdi mdi-shield"/> | - | - | | | | | | | | | | |
-| Add Def with `Shield` / `Shield PvP` `x` | <span class="mdi mdi-shield"/> | - | - | | | | | | | | | | |
-| Add Def Rate with Shield `x` | <span class="mdi mdi-shield"/> | - | - | | | | | | | | | | |
-| Add `Defense` / `PvP Defense` | <span class="mdi mdi-shield"/> | - | - | | | | | | | | | | |
-| Add `Reflect` / `Resist Reflect` / `Resist Stun` / `Resist Ice` / `Resist Poison` / `Resist Sleep` `x%` | <span class="mdi mdi-shield"/> | - | - | | | | | | | | | | |
-| Add `physical` / `spell` / `curserd` / `skill` damage `x` | <span class="mdi mdi-sword"/> | - | - | | | | | | | | | | |
-| Add attack `rating` / `rating PvP` + `x` | <span class="mdi mdi-sword"/> | - | - | | | | | | | | | | |
-| Add `Critical` / `Excellent` / `Ignore` / `Double` damage Rate `x%` | <span class="mdi mdi-sword"/> | - | - | | | | | | | | | | |
-| Add `Decrease` / `Ignore Decrease` SD Rate `x%` | <span class="mdi mdi-sword"/> | - | - | | | | | | | | | | |
-| Add `Interrupt` / `Stun` / `Bleeding` Rate `x%` | <span class="mdi mdi-sword"/> | - | - | | | | | | | | | | |
-| Increase `physical` / `magical` / `cursed` damge %.2f%%%% | <span class="mdi mdi-sword"/> | - | - | | | | | | | | | | |
-| Increase attack `rating` / `rating Pvp` `x%` | <span class="mdi mdi-sword"/> | - | - | | | | | | | | | | |
-| Increase damage with `Sword(Claw)` / `Axe` / `Mace(Scepter)` / `Spear` / `Bow` / `Xbow` `x` (dmg) / `x%` | <span class="mdi mdi-sword"/> | - | - | | | | | | | | | | |
-| Increase `Spell` / `Cursed` damage with `Staff` / `Book` + `x` (dmg) / `x%` | <span class="mdi mdi-sword"/> | - | - | | | | | | | | | | |
-| Increase `Critical` / `Excellent` / `Ignore` / `Double` damage `x` (dmg) / `x%` | <span class="mdi mdi-sword"/> | - | - | | | | | | | | | | |
-| Increase `Bypass SD` Rate `x`% | <span class="mdi mdi-sword"/> | - | - | | | | | | | | | | |
-| Decrease target Defense `x` / `x`% | <span class="mdi mdi-sword"/> | - | - | | | | | | | | | | |
-| Decrease `damage Reduction` / `Shield Block` Rate `x%` | <span class="mdi mdi-sword"/> | - | - | | | | | | | | | | |
-| Reflect dmg chance stun when horse riding `x%` | <span class="mdi mdi-sword"/> | - | - | | | | | | | | | | |
-| Raven `Double` / `Ignore` damage Rate `x%` | <span class="mdi mdi-sword"/> | - | - | | | | | | | | | | |
-| Reduce `Critical` / `Excellent` / `Ignore` / `Double`  Dmg Rate `x%` | <span class="mdi mdi-sword"/> | - | - | | | | | | | | | | |
-| Reduce Dmg From `DW` / `DK` / `ELF` / `MG` / `DL` / `SM` / `RF` `x%` | <span class="mdi mdi-sword"/> | - | - | | | | | | | | | | |
-| Add Shield Block Rate `x%` | <span class="mdi mdi-sword"/> | - | - | | | | | | | | | | |
-| Add Resist Bypass SD  `x%` | <span class="mdi mdi-sword"/> | - | - | | | | | | | | | | |
-| Mana Shield `x%` | <span class="mdi mdi-sword"/> | - | - | | | | | | | | | | <span class="mdi mdi-check"/> |
+| Add `Strength` / `Dexterity` / `Vitality` / `Energy` / `LeadherShip` / `all Stat` + `x` point | <span class="mdi mdi-shield-cross-outline"/> | | | | | | | | | | | | |
+| Add `SD` / `Mana` / `HP` `x` | <span class="mdi mdi-shield-cross-outline"/> | | | | | | | | | | | | |
+| Increase `Strength` / `Dexterity` / `Vitality` / `Energy` / `LeadherShip` / `All Stat` + `x%` | <span class="mdi mdi-shield-cross-outline"/> | | | | | | | | | | | | |
+| Add AG `x` | <span class="mdi mdi-shield-cross-outline"/> | | | | | | | | | | | | |
+| Increase `SD` / `Mana` / `HP` / `Regen SD` / `Regen Mana` / `Regen HP` `x%` | <span class="mdi mdi-shield-cross-outline"/> | | | | | | | | | | | | |
+| Increase AG `x`% | <span class="mdi mdi-shield-cross-outline"/> | | | | | | | | | | | | |
+| Increase `Defense` / ` Defense Rate PvP` `x%` | <span class="mdi mdi-shield"/> | | | | | | | | | | | | |
+| Increase Defense Rate `x` | <span class="mdi mdi-shield"/> | | | | | | | | | | | | |
+| Increase `Def` / `Def Rate` with Shield `x%` | <span class="mdi mdi-shield"/> | | | | | | | | | | | | |
+| Add Def with `Shield` / `Shield PvP` `x` | <span class="mdi mdi-shield"/> | | | | | | | | | | | | |
+| Add Def Rate with Shield `x` | <span class="mdi mdi-shield"/> | | | | | | | | | | | | |
+| Add `Defense` / `PvP Defense` | <span class="mdi mdi-shield"/> | | | | | | | | | | | | |
+| Add `Reflect` / `Resist Reflect` / `Resist Stun` / `Resist Ice` / `Resist Poison` / `Resist Sleep` `x%` | <span class="mdi mdi-shield"/> | | | | | | | | | | | | |
+| Add `physical` / `spell` / `curserd` / `skill` damage `x` | <span class="mdi mdi-sword"/> | | | | | | | | | | | | |
+| Add attack `rating` / `rating PvP` + `x` | <span class="mdi mdi-sword"/> | | | | | | | | | | | | |
+| Add `Critical` / `Excellent` / `Ignore` / `Double` damage Rate `x%` | <span class="mdi mdi-sword"/> | | | | | | | | | | | | |
+| Add `Decrease` / `Ignore Decrease` SD Rate `x%` | <span class="mdi mdi-sword"/> | | | | | | | | | | | | |
+| Add `Interrupt` / `Stun` / `Bleeding` Rate `x%` | <span class="mdi mdi-sword"/> | | | | | | | | | | | | |
+| Increase `physical` / `magical` / `cursed` damge %.2f%%%% | <span class="mdi mdi-sword"/> | | | | | | | | | | | | |
+| Increase attack `rating` / `rating Pvp` `x%` | <span class="mdi mdi-sword"/> | | | | | | | | | | | | |
+| Increase damage with `Sword(Claw)` / `Axe` / `Mace(Scepter)` / `Spear` / `Bow` / `Xbow` `x` (dmg) / `x%` | <span class="mdi mdi-sword"/> | | | | | | | | | | | | |
+| Increase `Spell` / `Cursed` damage with `Staff` / `Book` + `x` (dmg) / `x%` | <span class="mdi mdi-sword"/> | | | | | | | | | | | | |
+| Increase `Critical` / `Excellent` / `Ignore` / `Double` damage `x` (dmg) / `x%` | <span class="mdi mdi-sword"/> | | | | | | | | | | | | |
+| Increase `Bypass SD` Rate `x`% | <span class="mdi mdi-sword"/> | | | | | | | | | | | | |
+| Decrease target Defense `x` / `x`% | <span class="mdi mdi-sword"/> | | | | | | | | | | | | |
+| Decrease `damage Reduction` / `Shield Block` Rate `x%` | <span class="mdi mdi-sword"/> | | | | | | | | | | | | |
+| Reflect dmg chance stun when horse riding `x%` | <span class="mdi mdi-sword"/> | | | | | | | | | | | | |
+| Raven `Double` / `Ignore` damage Rate `x%` | <span class="mdi mdi-sword"/> | | | | | | | | | | | | |
+| Reduce `Critical` / `Excellent` / `Ignore` / `Double`  Dmg Rate `x%` | <span class="mdi mdi-sword"/> | | | | | | | | | | | | |
+| Reduce Dmg From `DW` / `DK` / `ELF` / `MG` / `DL` / `SM` / `RF` `x%` | <span class="mdi mdi-sword"/> | | | | | | | | | | | | |
+| Add Shield Block Rate `x%` | <span class="mdi mdi-sword"/> | | | | | | | | | | | | <span class="mdi mdi-check"/> |
+| Add Resist Bypass SD  `x%` | <span class="mdi mdi-sword"/> | | | | | | | | | | | | <span class="mdi mdi-check"/> |
+| Mana Shield `x%` | <span class="mdi mdi-sword"/> | | | | | | | | | | | | <span class="mdi mdi-check"/> |
 
 ## Opt đặc biệt chỉ có trên Cánh (Wings)
 
