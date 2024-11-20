@@ -2,7 +2,7 @@
 title: Hệ Thống Thuộc Tính
 description: Hệ thống thuộc tính là một tính năng customize có một không hai của Mu0rs.com
 published: true
-date: 2024-11-20T15:11:58.090Z
+date: 2024-11-20T15:15:05.682Z
 tags: ele, posion, lighting, fire, ice, element, jewel element, độc, sét, lửa, băng, ngọc thuộc tính
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
@@ -52,9 +52,9 @@ Mình sẽ chia làm 2 loại: `Công` và `Thủ`
 Tổng hợp nhanh sẽ có những opt [E1, E2](#opt-thu%E1%BB%99c-t%C3%ADnh-e1e2) như sau (`/` nghĩa là hoặc): 
 
 | Opt thuộc tinh | Loại | Min X/Y | Max X/Y | Mũ | Áo | Quần | Tay | Chân | Nhẫn | Vòng Cổ | Vũ Khí | Khiên |
-|:---------------|:-----:|:-------|:--------|:---|:---|:-----|:----|:-----|:-----|:--------|:-------|:------|
-| Add `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element damage `x` - `y` | <span class="mdi mdi-sword"/> | - | - | | | | | | | | | | |
-| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element special rate `x%` | <span class="mdi mdi-sword"/> | - | - | | | | | | | | | |
+|:---------------|:----:|:-------:|:-------:|:--:|:--:|:----:|:---:|:----:|:----:|:-------:|:------:|:-----:|
+| Add `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element damage `x` - `y` | <span class="mdi mdi-sword"/> | - | - | - | - | - | - | - | - | - | <span class="mdi mdi-check"/> | - |
+| Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element special rate `x%` | <span class="mdi mdi-sword"/> | - | - | | | | | | | | <span class="mdi mdi-check"/> | |
 | Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element damage `x%` | <span class="mdi mdi-sword"/> | - | - | | | | | | | | | | |
 | Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element critical rate `x%` | <span class="mdi mdi-sword"/> | - | - | | | | | | | | | | |
 | Increase `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element double rate `x%` | <span class="mdi mdi-sword"/> | - | - | | | | | | | | | | |
