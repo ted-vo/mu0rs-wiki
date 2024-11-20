@@ -2,7 +2,7 @@
 title: Nâng cấp Opt thuộc tính cho Cánh
 description: 
 published: true
-date: 2024-11-12T05:47:56.308Z
+date: 2024-11-20T14:56:28.852Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-12T04:43:13.026Z
@@ -25,14 +25,17 @@ dateCreated: 2024-11-12T04:43:13.026Z
 
 # Tỉ lệ
 
-Thành công: `70`%
+Thành công: `70%`.
 
-Thất bại: `30`%. jNgoài ra khi thất bại có tỉ lệ:
+Thất bại: `30%`. jNgoài ra khi thất bại có tỉ lệ:
 - `90`% Wings về +0 => 0.3 * 0.9 = `27`%
 - `10`% Mất sạch => 0.3 * 0.1 = `3`%
 
 Tổng kết lại:
 
-- Thành công: `70`%
-- Wings +0: `27`%
-- Mất sạch: `3`%
+> Thành công: `70%`
+{.is-success}
+
+> Wings +0: `27%`
+> Mất sạch: `3%`
+{.is-danger}
