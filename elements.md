@@ -2,7 +2,7 @@
 title: Hệ Thống Thuộc Tính
 description: Hệ thống thuộc tính là một tính năng customize có một không hai của Mu0rs.com
 published: true
-date: 2024-11-20T15:54:30.468Z
+date: 2024-11-20T15:56:14.780Z
 tags: ele, posion, lighting, fire, ice, element, jewel element, độc, sét, lửa, băng, ngọc thuộc tính
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
@@ -25,7 +25,7 @@ dateCreated: 2024-11-07T08:25:00.416Z
 
 # Thuộc Tính
 | Element | Mô Tả | Số lượng tính năng (opt) | Hiệu ứng | Tác dụng đặc biệt | Ví dụ tham khảo |
-|:--------|:------|:------------------------|:---------|:------------------|:------|
+|:--------|:------|:-------------------------|:---------|:------------------|:----------------|
 | [Fire](/elements/fire) | Nguyên tố lửa | 0 | ![ele-fire-spec.gif](/assets/elements/ele-fire-spec.gif) | - `Đốt cháy` đối phương.<br>- Gây sát thương đốt máu liên tục. Sát thương đốt cháy dựa vào sát thương gây ra cuối cùng của đòn đánh (kỹ năng).<br>- Giảm giáp đối phương. | Phù hợp kiểu build có dame kết thúc lớn. 
 | [Ice](/elements/ice) | Nguyên tố băng | 0 | ![ele-ice-spec.gif](/assets/elements/ele-ice-spec.gif) | - `Đóng băng` đối phương `0.5s` sau đó `làm chậm` trong `7s`. <br>- Khi bị `đóng băng` giảm `100%` khả năng `né tránh` và `100%` khả năng `block` đòn đánh của đối phương.<br>- Sát thương bị gây khi đối phương trong trạng thái `làm chậm`, sẽ tăng thêm `50%` tỉ lệ xuất hiện sát thương hoàn hảo. | Phù hợp với các build gây sát thương liên tục thật nhanh, hoặc cần phá block ( đỡ đòn từ khiên ), phá né của đối phương |
 | [Lighting](/elements/lighting) | Nguyên tố sét | 0 | ![ele-lighting-spec.gif](/assets/elements/ele-lighting-spec.gif) | - `Choáng` đối phương trong `1s`.<br> - Khi bị `choáng` giảm `100%` khả năng `né tránh` và `100%` khả năng `block` đòn đánh của đối phương.<br>- Trong 5s hưởng hiệu ứng `30%` bỏ qua phòng thủ đối phương.<br>- Khi đối phương bị `crit dmg` từ nguyên tố này, sẽ bị knock back (đẩy lùi) 2-3 ô gì đó | Phù hợp với build có số hit đánh ra nhanh và nhiều |
@@ -71,6 +71,7 @@ Tổng hợp nhanh sẽ có những opt [E1, E2](#opt-thu%E1%BB%99c-t%C3%ADnh-e1
 | Max Dodge `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element damage `x%` | <span class="mdi mdi-shield"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | | | <span class="mdi mdi-check"/> |
 | Decrease `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` effect time `x%` | <span class="mdi mdi-shield"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | | | <span class="mdi mdi-check"/> |
 | Dodge `FIRE` / `ICE` / `LIGHTING` / `POSION` / `ALL` element damage `x%` | <span class="mdi mdi-shield"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | | | <span class="mdi mdi-check"/> |
+| | Loại | Min X/Y | Max X/Y | Mũ | Áo | Quần | Tay | Chân | Nhẫn | Vòng Cổ | Vũ Khí | Khiên |
 
 >Các op `ALL element` mặc định sẽ là `FIRE`.
 {.is-info}
@@ -129,7 +130,7 @@ Tổng hợp nhanh sẽ có những opt [E3](#opt-%C4%91%E1%BA%B7c-bi%E1%BB%87t-
 | Add Shield Block Rate `x%` | <span class="mdi mdi-sword"/> | | | | | | | | | | | <span class="mdi mdi-check"/> |
 | Add Resist Bypass SD  `x%` | <span class="mdi mdi-sword"/> | | | | | | | | | | | <span class="mdi mdi-check"/> |
 | Mana Shield `x%` | <span class="mdi mdi-sword"/> | | | | | | | | | | | <span class="mdi mdi-check"/> |
-| Opt thuộc tinh | Loại | Min X/Y | Max X/Y | Mũ | Áo | Quần | Tay | Chân | Nhẫn | Vòng Cổ | Vũ Khí | Khiên |
+| | Loại | Min X/Y | Max X/Y | Mũ | Áo | Quần | Tay | Chân | Nhẫn | Vòng Cổ | Vũ Khí | Khiên |
 
 ## Opt đặc biệt chỉ có trên Cánh (Wings)
 
