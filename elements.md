@@ -2,7 +2,7 @@
 title: Hệ Thống Thuộc Tính
 description: Hệ thống thuộc tính là một tính năng customize có một không hai của Mu0rs.com
 published: true
-date: 2024-11-20T15:44:17.562Z
+date: 2024-11-20T15:46:22.576Z
 tags: ele, posion, lighting, fire, ice, element, jewel element, độc, sét, lửa, băng, ngọc thuộc tính
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
@@ -129,6 +129,7 @@ Tổng hợp nhanh sẽ có những opt [E3](#opt-%C4%91%E1%BA%B7c-bi%E1%BB%87t-
 | Add Shield Block Rate `x%` | <span class="mdi mdi-sword"/> | | | | | | | | | | | <span class="mdi mdi-check"/> |
 | Add Resist Bypass SD  `x%` | <span class="mdi mdi-sword"/> | | | | | | | | | | | <span class="mdi mdi-check"/> |
 | Mana Shield `x%` | <span class="mdi mdi-sword"/> | | | | | | | | | | | <span class="mdi mdi-check"/> |
+| Opt thuộc tinh | Loại | Min X/Y | Max X/Y | Mũ | Áo | Quần | Tay | Chân | Nhẫn | Vòng Cổ | Vũ Khí | Khiên |
 
 ## Opt đặc biệt chỉ có trên Cánh (Wings)
 
