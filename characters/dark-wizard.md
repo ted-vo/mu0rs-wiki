@@ -2,17 +2,35 @@
 title: Dark Wizard
 description: The Dark Wizard is a master of the magical arts. They use their knowledge to deal powerful magical attacks on enemies with staff type weapons
 published: true
-date: 2024-11-07T07:59:55.771Z
+date: 2024-11-21T10:49:17.629Z
 tags: char, dw, wizard
 editor: markdown
 dateCreated: 2024-11-07T07:59:55.771Z
 ---
 
-# Dark Wizard
+# Thông tin cơ bản
 
-## Thông tin cơ bản
+## Strength
+| Base | Max ATK Power | Min ATK Power | ATK Success Rate | AG |
+|:-----|:--------------|:--------------|:-----------------|:---|
+| 18 | x | x | x | x |
 
-## Skill
+## Agility
+| Base | ATK Speed | ATK Success Rate | ATK Success Rate (PVP) | Def | Def Rate | Def Rate (PVP) |
+|:-----|:----------|:-----------------|:-----------------------|:----|:---------|:---------------|
+| 18 | x | x | x | x | x | x |
+
+---
+
+## Stamina
+| Base | Heath | AG |
+|:-----|:------|:---|
+| 15 | x | x |
+
+## Energy
+| Base | Skill Power | Mana | AG |
+|:-----|:------------|:-----|:---|
+| 30 | x | x | x |
 
 ## Tính năng customize
 
