@@ -2,7 +2,7 @@
 title: Nguyên Tố Lửa
 description: 
 published: true
-date: 2024-11-17T16:28:33.813Z
+date: 2024-11-21T04:01:09.567Z
 tags: ele, fire, special
 editor: markdown
 dateCreated: 2024-11-09T18:24:29.011Z
@@ -24,31 +24,31 @@ dateCreated: 2024-11-09T18:24:29.011Z
 
 # Op tấn công (E1/E2)
 
-| Opt thuộc tinh | Loại | Min x | Max y | Chi Tiết |
-|:---------------|:----:|:------|:------|:---------|
-| Add `FIRE` element damage `x` - `y` | <span class="mdi mdi-sword"/> | - | - | Khi gây sát thương sẽ có thêm `x` - `y` sát thương `NTL` lên đối phương. |
-| Increase `FIRE` element special rate `x%` | <span class="mdi mdi-sword"/> | - | - | Khi gây sát thương `NTL` có `x%` xuất hiện hiệu ứng đặt biệt: `Đốt Cháy` |
-| Increase `FIRE` element damage `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng thêm sát thương `NTL` `x%` |
-| Increase `FIRE` element critical rate `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng tỉ lệ sát thương `NTL` chí mạng `x%` |
-| Increase `FIRE` element double rate `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng tỉ lệ x2 sát thương `NTL` `x%` |
-| Increase `FIRE` element ignore rate `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng tỉ lệ bỏ qua phòng ngự `NTL` `x%` .Bao gồm:<br>- Kháng (Resist) `NTL`.<br>- Phòng thủ(Defense) `NTL`.<br>- Né tránh (Dodge) `NTL`. |
-| Increase `FIRE` element effect time `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng thời gian tác dụng của hiệu ứng `Đốt Cháy` `x%` |
-| Decrease target `FIRE` element defense `x` | <span class="mdi mdi-sword"/> | - | - | Giảm `x` phòng thủ `NTL` |
-| Decrease target `FIRE` element absorb `x%` | <span class="mdi mdi-sword"/> | - | - | Giảm `x%` hấp thụ sát thương `NTL` |
+| Opt thuộc tinh | Loại | Min x | Max y | Chi Tiết | Tay | Vòng Cổ | Vũ Khí |
+|:---------------|:----:|:------|:------|:---------|:---:|:-------:|:------:|
+| Add `FIRE` element damage `x` - `y` | <span class="mdi mdi-sword"/> | - | - | Khi gây sát thương sẽ có thêm `x` - `y` sát thương `NTL` lên đối phương. | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> |
+| Increase `FIRE` element special rate `x%` | <span class="mdi mdi-sword"/> | - | - | Khi gây sát thương `NTL` có `x%` xuất hiện hiệu ứng đặt biệt: `Đốt Cháy` | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> |
+| Increase `FIRE` element damage `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng thêm sát thương `NTL` `x%` | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> |
+| Increase `FIRE` element critical rate `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng tỉ lệ sát thương `NTL` chí mạng `x%` | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> |
+| Increase `FIRE` element double rate `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng tỉ lệ x2 sát thương `NTL` `x%` | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> |
+| Increase `FIRE` element ignore rate `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng tỉ lệ bỏ qua phòng ngự `NTL` `x%` .Bao gồm:<br>- Kháng (Resist) `NTL`.<br>- Phòng thủ(Defense) `NTL`.<br>- Né tránh (Dodge) `NTL`. | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> |
+| Increase `FIRE` element effect time `x%` | <span class="mdi mdi-sword"/> | - | - | Tăng thời gian tác dụng của hiệu ứng `Đốt Cháy` `x%` | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> |
+| Decrease target `FIRE` element defense `x` | <span class="mdi mdi-sword"/> | - | - | Giảm `x` phòng thủ `NTL` | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> |
+| Decrease target `FIRE` element absorb `x%` | <span class="mdi mdi-sword"/> | - | - | Giảm `x%` hấp thụ sát thương `NTL` | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> |
 
 # Op phòng thủ (E1/E2)
 
-| Opt thuộc tinh | Loại | Min x | Max y | Chi Tiết |
-|:---------------|:----:|:------|:------|:---------|
-| Add `FIRE` defense `x` | <span class="mdi mdi-shield"/> | - | - | Thêm `x` phòng thủ `NTL` |
-| Absorb `FIRE` element damage `x%` | <span class="mdi mdi-shield"/> | - | - | Hấp thụ (giảm) `x%` sát thương `NTL` |
-| Increase `FIRE` element defense `x%` | <span class="mdi mdi-shield"/> | - | - | Tăng `x%` phòng thủ `NTL` |
-| Resist `FIRE` element effect `x%` | <span class="mdi mdi-shield"/> | - | - | `x%` kháng hiệu ứng đặc biệt `NTL` |
-| Absorb `FIRE` element damage to HP `x%`%| <span class="mdi mdi-shield"/> | - | - | Hấp thụ `x%` sát thương `NTL` sang Máu |
-| Max Resist `FIRE` element `x%` | <span class="mdi mdi-shield"/> | - | - | Tăng tối đá kháng `NTL` `x%` |
-| Max Dodge `FIRE` element damage `x%` | <span class="mdi mdi-shield"/> | - | - | Tăng tối đa `x%` né sát thương `NTL` |
-| Decrease `FIRE` effect time `x%` | <span class="mdi mdi-shield"/> | - | - | Giảm `x%` thời gian dính hiệu ứng đặc biệt `NTL` |
-| Dodge `FIRE` element damage `x%` | <span class="mdi mdi-shield"/> | - | - | `x%` né sát thương `NTL` |
+| Opt thuộc tinh | Loại | Min x | Max y | Chi Tiết | Mũ | Áo | Quần | Chân | Nhẫn | Khiên |
+|:---------------|:----:|:------|:------|:---------|:--:|:--:|:----:|:----:|:----:|:-----:|
+| Add `FIRE` defense `x` | <span class="mdi mdi-shield"/> | - | - | Thêm `x` phòng thủ `NTL` | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> |
+| Absorb `FIRE` element damage `x%` | <span class="mdi mdi-shield"/> | - | - | Hấp thụ (giảm) `x%` sát thương `NTL` | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> |
+| Increase `FIRE` element defense `x%` | <span class="mdi mdi-shield"/> | - | - | Tăng `x%` phòng thủ `NTL` | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> |
+| Resist `FIRE` element effect `x%` | <span class="mdi mdi-shield"/> | - | - | `x%` kháng hiệu ứng đặc biệt `NTL` | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> |
+| Absorb `FIRE` element damage to HP `x%`%| <span class="mdi mdi-shield"/> | - | - | Hấp thụ `x%` sát thương `NTL` sang Máu | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> |
+| Max Resist `FIRE` element `x%` | <span class="mdi mdi-shield"/> | - | - | Tăng tối đá kháng `NTL` `x%` | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> |
+| Max Dodge `FIRE` element damage `x%` | <span class="mdi mdi-shield"/> | - | - | Tăng tối đa `x%` né sát thương `NTL` | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> |
+| Decrease `FIRE` effect time `x%` | <span class="mdi mdi-shield"/> | - | - | Giảm `x%` thời gian dính hiệu ứng đặc biệt `NTL` | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> |
+| Dodge `FIRE` element damage `x%` | <span class="mdi mdi-shield"/> | - | - | `x%` né sát thương `NTL` | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> |
 
 # Liên quan
 - [Elements](/vi/elements)
