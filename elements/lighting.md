@@ -2,8 +2,8 @@
 title: Nguyên Tố Sét
 description: 
 published: true
-date: 2024-11-21T04:04:44.830Z
-tags: ele, lighting
+date: 2024-11-21T04:06:11.961Z
+tags: ele, lighting, sét, nguyên tố sét, choáng, knock back, đẩy lùi, bỏ qua phòng ngự
 editor: markdown
 dateCreated: 2024-11-09T18:27:32.779Z
 ---
