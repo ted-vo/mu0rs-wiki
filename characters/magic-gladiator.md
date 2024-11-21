@@ -2,17 +2,35 @@
 title: Magic Gladiator
 description: These warriors combine spell and sword, bringing forth powerfull skills like Fire Slash, Power Slash, and Flame Strike! Their arsenal includes abilities of both the Dark Knight and the Dark Wizard classes
 published: true
-date: 2024-11-07T08:11:54.288Z
+date: 2024-11-21T10:51:31.597Z
 tags: char, wizard, physical
 editor: markdown
 dateCreated: 2024-11-07T08:11:54.288Z
 ---
 
-# Magic Gladiator
+# Thông tin cơ bản
 
-## Thông tin cơ bản
+## Strength
+| Base | Max ATK Power | Min ATK Power | ATK Success Rate | AG |
+|:-----|:--------------|:--------------|:-----------------|:---|
+| 26 | x | x | x | x |
 
-## Skill
+## Agility
+| Base | ATK Speed | ATK Success Rate | ATK Success Rate (PVP) | Def | Def Rate | Def Rate (PVP) |
+|:-----|:----------|:-----------------|:-----------------------|:----|:---------|:---------------|
+| 26 | x | x | x | x | x | x |
+
+---
+
+## Stamina
+| Base | Heath | AG |
+|:-----|:------|:---|
+| 26 | x | x |
+
+## Energy
+| Base | Skill Power | Skill Damage | Mana | AG |
+|:-----|:------------|:-------------|:---|:---|
+| 26 | x | x | x |
 
 ## Tính năng customize
 
