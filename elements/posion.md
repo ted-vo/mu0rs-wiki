@@ -2,7 +2,7 @@
 title: Nguyên Tố Độc
 description: 
 published: true
-date: 2024-11-21T03:58:38.656Z
+date: 2024-11-21T03:59:32.065Z
 tags: ele, posion, special
 editor: markdown
 dateCreated: 2024-11-09T18:39:09.408Z
@@ -39,7 +39,7 @@ Hai điều kiện để xuất hiện hiệu ứng đặc biệt `Dính độc`
 # Op phòng thủ (E1/E2)
 
 | Opt thuộc tinh | Loại | Min x | Max y | Chi Tiết | Mũ | Áo | Quần | Chân | Nhẫn | Khiên |
-|:---------------|:----:|:------|:------|:---------|
+|:---------------|:----:|:------|:------|:---------|:--:|:--:|:----:|:----:|:----:|:-----:|
 | Add `POSION` defense `x` | <span class="mdi mdi-shield"/> | - | - | Thêm `x` phòng thủ `NTĐ` | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> |
 | Absorb `POSION` element damage `x%` | <span class="mdi mdi-shield"/> | - | - | Hấp thụ (giảm) `x%` sát thương `NTĐ` | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> |
 | Increase `POSION` element defense `x%` | <span class="mdi mdi-shield"/> | - | - | Tăng `x%` phòng thủ `NTĐ` | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> | <span class="mdi mdi-check"/> |
