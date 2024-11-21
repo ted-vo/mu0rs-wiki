@@ -2,7 +2,7 @@
 title: Dark Wizard
 description: The Dark Wizard is a master of the magical arts. They use their knowledge to deal powerful magical attacks on enemies with staff type weapons
 published: true
-date: 2024-11-21T10:49:17.629Z
+date: 2024-11-21T10:50:17.178Z
 tags: char, dw, wizard
 editor: markdown
 dateCreated: 2024-11-07T07:59:55.771Z
@@ -28,7 +28,7 @@ dateCreated: 2024-11-07T07:59:55.771Z
 | 15 | x | x |
 
 ## Energy
-| Base | Skill Power | Mana | AG |
+| Base | Wizard Dmd  | Mana | AG |
 |:-----|:------------|:-----|:---|
 | 30 | x | x | x |
 
