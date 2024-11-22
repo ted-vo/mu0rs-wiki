@@ -2,7 +2,7 @@
 title: Máy Chủ Buffalo
 description: Hoài niệm Mu Online. Máy chủ cày cuốc siêu khó mới !!!
 published: true
-date: 2024-11-22T07:57:48.599Z
+date: 2024-11-22T08:00:33.494Z
 tags: server, info, new, buffalo, máy chủ mới, hardcore, khó
 editor: markdown
 dateCreated: 2024-11-12T16:38:01.765Z
@@ -26,6 +26,7 @@ dateCreated: 2024-11-12T16:38:01.765Z
 | Ngọc / Sách Skill | Không bán => Tự nhặt |
 | Nhiệm vụ nhân vật | Q1 (Level 170) và Q2 (Level 220) hệ thống tự động làm.<br>Q3 (400) => Tự làm |
 | Max Level | `500` |
+| Max Master Level | `250` |
 | Master Point | `200` |
 | [Skill Tree](/vi/skill-tree) | Có |
 | Giao dịch | Có |
