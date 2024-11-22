@@ -2,13 +2,13 @@
 title: Trang Chủ
 description: Game chỉ là ảo - Nhậu chung mới hay ^^!
 published: true
-date: 2024-11-15T11:19:58.962Z
+date: 2024-11-22T08:08:59.757Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-12T16:41:40.358Z
 ---
 
-> Game chỉ là ảo - Nhậu chung mới hay ^^!
+> Game chỉ là ảo - Nhậu chung mới hay ^^!. Bài [gốc](https://mu0rs.com/mu-non-reset)
 
 Chắc hẳn không một người chơi game online nào thời 8x,9x thậm chí là 7x hay 6x lại không biết đến MU Online, Nó đã từng làm mưa làm gió 1 thời gian rất dài ở trong nước và cả nước ngoài. Trong thời kỳ hoàng kim của mình thì MU Online đã gần như chiếm thế độc tôn trong thị trường game online đó và bạn có thể tìm thấy MU Online ở bất kì phòng game nào.
 
