@@ -2,7 +2,7 @@
 title: Máy Chủ Buffalo
 description: Hoài niệm Mu Online. Máy chủ cày cuốc siêu khó mới !!!
 published: true
-date: 2024-11-22T05:06:37.270Z
+date: 2024-11-22T06:07:36.652Z
 tags: server, info, new, buffalo, máy chủ mới, hardcore, khó
 editor: markdown
 dateCreated: 2024-11-12T16:38:01.765Z
@@ -43,7 +43,7 @@ dateCreated: 2024-11-12T16:38:01.765Z
 |:------|:---------|
 | Binh đoàn Xương | Ko |
 | Rồng đỏ | Ko |
-| Phù Thủy | Lúc `20h01` mỗi ngày (1 lần / ngày).<br>Rớt 1 viên ngọc Bless.<br>Xuất hiện 3 maps: `Noria`, `Lorencia`, `Davias`
+| Phù Thủy | Lúc `20h01` mỗi ngày (1 lần / ngày).<br>Rớt 1 viên ngọc Bless.<br>Có tỷ lệ thấp ra cụm 10 viên.<br>Xuất hiện 3 maps: `Noria`, `Lorencia`, `Davias`
 | Thỏ | Lúc `19h15` và `22h15` mỗi ngày (2 lần / ngày).<br>Rớt random Zen hoặc [Ngọc Thuộc Tính](/vi/craft/jewel-of-elements) |
 | [Boss Vàng](/vi/events/invasion-of-dourados) | Mỗi loại 1 con. Rớt: Box of Kundun (![box_kundun.png](/assets/box_kundun.png)).<br>- Chỉ rớt `box +1`, `box +2`.<br>- Boss cấp cao số lượng rớt ra nhiều hơn.<br>- Mỗi ![box_kundun.png](/assets/box_kundun.png) chỉ rớt ra random 1 món Excellent (`10%`) hoặc Zen (`90%`).<br>- Cách kiếm `box +3 -> +5` => dùng tính năng [Nâng cấp Box of Kundun](/vi/craft/upgrade-box-kundun)  |
 | [Medusa](/vi/monsters/medusa) |  Lúc `21h00` mỗi ngày (1 lần / ngày). Rớt:<br>- Box of Kundun (![box_kundun.png](/assets/box_kundun.png)) (random `+1` đến `+5`).<br>- Ring excellent.<br>- Blue Chocolate Box (![](https://mu0rs.com/item_images/14/34.gif)).<br>- [Jewel Card](/vi/craft/jewel-card) (![](https://mu0rs.com/item_images/14/146.gif)) |
