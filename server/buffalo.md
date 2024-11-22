@@ -2,7 +2,7 @@
 title: Máy Chủ Buffalo
 description: Hoài niệm Mu Online. Máy chủ cày cuốc siêu khó mới !!!
 published: true
-date: 2024-11-17T17:24:42.638Z
+date: 2024-11-22T05:06:37.270Z
 tags: server, info, new, buffalo, máy chủ mới, hardcore, khó
 editor: markdown
 dateCreated: 2024-11-12T16:38:01.765Z
@@ -15,7 +15,7 @@ dateCreated: 2024-11-12T16:38:01.765Z
 # Thông tin chung
 | Chủ Đề | Nội Dung |
 |:-------|:---------|
-| Ngày Open | `22/11/2024` |
+| Ngày Open | `19h 22/11/2024` |
 | Phiên bản | `v6.3` Custom |
 | Exp  | `x10`: 1 < Level < 220<br>`x1`: Level > 220 |
 | Drop | `x1` |
