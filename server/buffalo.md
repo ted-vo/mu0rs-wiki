@@ -2,7 +2,7 @@
 title: Máy Chủ Buffalo
 description: Hoài niệm Mu Online. Máy chủ cày cuốc siêu khó mới !!!
 published: true
-date: 2024-11-22T07:37:34.175Z
+date: 2024-11-22T07:56:54.991Z
 tags: server, info, new, buffalo, máy chủ mới, hardcore, khó
 editor: markdown
 dateCreated: 2024-11-12T16:38:01.765Z
@@ -28,6 +28,7 @@ dateCreated: 2024-11-12T16:38:01.765Z
 | [Skill Tree](/vi/skill-tree) | Có |
 | Giao dịch | Có |
 | Party | Không |
+| Buff cho người khác | Không
 | [Hệ thống AFK](/vi/commands/afk) | Chỉ có `/afk` |
 | Máu Quái | `x2` |
 | Damage Quái | base + thêm damage từ level của người chơi. Level càng cao ăn damage càng nhiều. |
