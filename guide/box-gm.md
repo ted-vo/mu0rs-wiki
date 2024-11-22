@@ -2,7 +2,7 @@
 title: Box GM
 description: Box chi ân các bạn đã ủng hộ máy chủ ^^
 published: true
-date: 2024-11-22T06:25:47.000Z
+date: 2024-11-22T06:30:27.400Z
 tags: gift, gm box, box gm, donate
 editor: markdown
 dateCreated: 2024-11-22T06:25:47.000Z
@@ -15,11 +15,13 @@ dateCreated: 2024-11-22T06:25:47.000Z
 Box mặc định sẽ nằm ở trên hệ thống. Bạn cần thao tác để đưa nó vào Game.
 
 ## Bước 1:
-Đăng nhập và chọn tài khoản
->  Chú ý tránh nhầm lẫn. Check kỹ tài khoản thuộc máy chủ bạn muốn rút box vào.
+Đăng nhập và chọn tài khoản.
+> Chú ý tránh nhầm lẫn. Check kỹ tài khoản thuộc máy chủ bạn muốn rút box vào.
 {.is-info}
 
 ![guide_box_gm_1.png](/assets/guide/guide_box_gm_1.png)
+
+> Các dropdown này nó hơi sida. Bạn xóa hết trong ô thì nó sẽ hiện tất cả các tài khoản hiện có của bạn.
 
 ## Bước 2:
 Vào mục `Game` -> `ExtWarehouse`. Bạn sẽ thấy 1 ô hiển thị số GM box bạn đang có.
