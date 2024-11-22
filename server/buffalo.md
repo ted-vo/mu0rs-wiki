@@ -2,13 +2,15 @@
 title: Máy Chủ Buffalo
 description: Hoài niệm Mu Online. Máy chủ cày cuốc siêu khó mới !!!
 published: true
-date: 2024-11-22T07:56:54.991Z
+date: 2024-11-22T07:57:48.599Z
 tags: server, info, new, buffalo, máy chủ mới, hardcore, khó
 editor: markdown
 dateCreated: 2024-11-12T16:38:01.765Z
 ---
 
-> Tặng Mu0rs [Ly Cà Phê](https://mu0rs.com/ung-ho-mu-ko-reset)
+- [Tặng Mu0rs Ly Cà Phê](https://mu0rs.com/ung-ho-mu-ko-reset)
+- [Thông báo gốc](https://mu0rs.com/tin-tuc-mu-ko-reset/344/server-low-rate-buffalo)
+{.links-list}
 
 <div align="center"/>
 
