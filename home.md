@@ -2,11 +2,14 @@
 title: Trang Chủ
 description: Game chỉ là ảo - Nhậu chung mới hay ^^!
 published: true
-date: 2024-11-22T08:08:59.757Z
+date: 2024-11-22T08:11:16.436Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-12T16:41:40.358Z
 ---
+
+> Máy chủ mới [Buffalo](/vi/server/buffalo). Open 19h 22/11/2024
+{.is-info}
 
 > Game chỉ là ảo - Nhậu chung mới hay ^^!. Bài [gốc](https://mu0rs.com/mu-non-reset)
 
