@@ -2,7 +2,7 @@
 title: Sự kiện mưa quà
 description: Khi diễn ra event hãy move về Lorencia
 published: true
-date: 2024-11-23T08:54:32.756Z
+date: 2024-11-23T08:54:58.396Z
 tags: event, gift, drop
 editor: markdown
 dateCreated: 2024-11-23T08:51:23.962Z
