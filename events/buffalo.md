@@ -2,7 +2,7 @@
 title: Danh sách sự kiện
 description: Sự kiện của máy chủ Buffalo
 published: true
-date: 2024-11-23T08:52:58.490Z
+date: 2024-11-23T08:56:11.606Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-23T05:06:43.102Z
@@ -10,7 +10,7 @@ dateCreated: 2024-11-23T05:06:43.102Z
 
 > [Tặng Mu0rs Ly Cà Phê](https://mu0rs.com/ung-ho-mu-ko-reset)
 
-- [Thông tin máy chủ Buffalo](https://wiki.mu0rs.com/e/vi/server/buffalo)
+- [Thông tin máy chủ Buffalo](https://wiki.mu0rs.com/vi/server/buffalo)
 {.links-list}
 
 <div align="center"/>
