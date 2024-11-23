@@ -2,7 +2,7 @@
 title: Boom
 description: Sự kiện kiểm tra nhân phẩm
 published: true
-date: 2024-11-23T08:51:43.844Z
+date: 2024-11-23T08:55:37.383Z
 tags: event, boom
 editor: markdown
 dateCreated: 2024-11-17T17:13:43.002Z
@@ -27,3 +27,9 @@ Khi anh em giết nhện:
 
 > Bên cạnh đó nếu xui thì bạn quay vào ô mất lượt chim cút về Loren. Nhớ đổi nhân vật để về trạng thái bình thường
 {.is-danger}
+
+---
+- [Thông tin sự kiện máy chủ Buffalo](/vi/events/buffalo)
+- [Thông tin sự kiện máy chủ Memory](/vi/events/memory)
+- [Thông tin sự kiện máy chủ HardCore](/vi/events/hardcore)
+{.links-list}
