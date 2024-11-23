@@ -2,13 +2,13 @@
 title: Boom
 description: Sự kiện kiểm tra nhân phẩm
 published: true
-date: 2024-11-23T07:56:50.202Z
+date: 2024-11-23T08:51:43.844Z
 tags: event, boom
 editor: markdown
 dateCreated: 2024-11-17T17:13:43.002Z
 ---
 
-> Lưu ý: tùy vào máy chủ các bạn chơi sẽ có drop khác nhau. Muốn biết drop gì hãy đọc thông tin chi tiết của máy chủ bạn đang chơi.
+> Lưu ý: tùy vào máy chủ các bạn chơi sẽ có drop và thời gian diễn ra khác nhau. Muốn biết diễn ra khi nào và drop gì hãy đọc thông tin chi tiết của máy chủ bạn đang chơi.
 {.is-info}
 
 Event nhân phẩm
