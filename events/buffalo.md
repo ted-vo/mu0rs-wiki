@@ -2,11 +2,21 @@
 title: Danh sách sự kiện
 description: Sự kiện của máy chủ Buffalo
 published: true
-date: 2024-11-23T05:51:37.099Z
+date: 2024-11-23T06:04:51.127Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-23T05:06:43.102Z
 ---
+
+| Event | Thời Gian | Mô Tả |
+|:------|:----------|:------|
+| Blood Castle | 2 tiếng /lần vào giờ chẵn phút 30 | BC 1-7: Chỉ có exp.<br>BC 8: rớt [Ngọc ThuộcTính](/vi/craft/jewel-of-elements). |
+| Devil Square | 2 tiếng / lần vào giờ lẻ | DS 1-6: chỉ có exp.<br>DS 7: rớt [Ngọc ThuộcTính](/vi/craft/jewel-of-elements). |
+| Chaos Castle | 2 tiếng / lần vào giờ chẵn | CC 1-6: chỉ rớt ngọc hoặc card.<br>CC 7: rớt ngọc, card, đồ thần. |
+| White Wizard | 1 lần 1 ngày lúc `20h01p` |  Rớt 1 viên ngọc Bless.<br>Có tỷ lệ thấp ra cụm 10 viên.<br>Xuất hiện 3 maps: `Noria`, `Lorencia`, `Davias` |
+
+
+
 
 # Tuần Hoàn
 - [Blood Castle *2 tiếng/lần vào giờ chẵn phút 30*](/vi/events/blood-castle)
