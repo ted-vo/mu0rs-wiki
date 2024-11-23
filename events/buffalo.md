@@ -2,14 +2,14 @@
 title: Danh sách sự kiện
 description: Sự kiện của máy chủ Buffalo
 published: true
-date: 2024-11-23T05:06:43.102Z
+date: 2024-11-23T05:07:32.729Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-23T05:06:43.102Z
 ---
 
 # Tuần Hoàn
-- [Blood Castle *2 tiếng / lần vào giờ chẵn phút 30*](/vi/events/blood-castle)
+- [Blood Castle **2 tiếng / lần vào giờ chẵn phút 30**](/vi/events/blood-castle)
 - [Devil Square *2 tiếng / lần vào giờ lẻ*](/v1/events/devil-square)
 - [Chaos Castle *2 tiếng / lần vào giờ chẵn*](/vi/events/chaos-castle)
 - [White Wizard *1 lần 1 ngày lúc 20h01p tại 3 map: Lorencia, Noria, Davias*](/vi/white-wizard)
