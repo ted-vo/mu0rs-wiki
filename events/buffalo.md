@@ -2,11 +2,18 @@
 title: Danh sách sự kiện
 description: Sự kiện của máy chủ Buffalo
 published: true
-date: 2024-11-23T06:49:03.039Z
+date: 2024-11-23T06:56:37.523Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-23T05:06:43.102Z
 ---
+
+> [Tặng Mu0rs Ly Cà Phê](https://mu0rs.com/ung-ho-mu-ko-reset)
+
+- [Thông tin máy chủ Buffalo](https://wiki.mu0rs.com/e/vi/server/buffalo)
+{.links-list}
+
+<div align="center"/>
 
 | Event | Thời Gian | Mô Tả |
 |:------|:----------|:------|
@@ -27,13 +34,3 @@ dateCreated: 2024-11-23T05:06:43.102Z
 | Hide and Seek with Kundun 1 | không có | |
 | Hide and Seek with Kundun 2 | không có | |
 | Gift Drop | `12h45` và `19h45` mỗi ngày | |
-
-
-
-
-
-
-
-
-
-
