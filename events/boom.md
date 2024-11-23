@@ -2,7 +2,7 @@
 title: Boom
 description: Sự kiện kiểm tra nhân phẩm
 published: true
-date: 2024-11-23T07:23:48.416Z
+date: 2024-11-23T07:27:14.469Z
 tags: event, boom
 editor: markdown
 dateCreated: 2024-11-17T17:13:43.002Z
@@ -19,8 +19,11 @@ Tại đây lúc `21h30` sẽ xuất hiện 1 đám yêu quái nhền nhê
 
 Khi anh em giết nhện:
 
-> Nếu hên sẽ có xác xuất rớt vật phẩm / zen / ngọc / bla bla. Tùy vào máy chủ các bạn chơi sẽ có drop khác nhau. Muốn biết drop gì hãy đọc thông tin chi tiết của máy chủ bạn đang chơi.
+> Nếu hên sẽ có xác xuất rớt vật phẩm / zen / ngọc / bla bla. 
 {.is-success}
 
 > Bên cạnh đó nếu xui thì bạn quay vào ô mất lượt chim cút về Loren.
 {.is-danger}
+
+> Lưu ý: tùy vào máy chủ các bạn chơi sẽ có drop khác nhau. Muốn biết drop gì hãy đọc thông tin chi tiết của máy chủ bạn đang chơi.
+{.is-info}
