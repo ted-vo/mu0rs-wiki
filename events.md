@@ -2,7 +2,7 @@
 title: Sự Kiện
 description: 
 published: true
-date: 2024-11-23T03:59:14.022Z
+date: 2024-11-23T04:54:07.628Z
 tags: event, gift, reward
 editor: markdown
 dateCreated: 2024-11-12T15:03:17.753Z
@@ -26,7 +26,7 @@ dateCreated: 2024-11-12T15:03:17.753Z
 - [King Rooster *Monday, 20h15m*]()
 - [King of Kings *Sunday, 20h15m*]()
 - [Survival]()
-- [Boom]()
+- [Boom | 21h30 Mỗi ngày]()
 - [VANERT vs DUPRIAN]()
 - [Hide and Seek with Kundun 1]()
 - [Hide and Seek with Kundun 2]()
