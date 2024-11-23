@@ -2,11 +2,14 @@
 title: Boom
 description: Sự kiện kiểm tra nhân phẩm
 published: true
-date: 2024-11-23T07:55:46.707Z
+date: 2024-11-23T07:56:50.202Z
 tags: event, boom
 editor: markdown
 dateCreated: 2024-11-17T17:13:43.002Z
 ---
+
+> Lưu ý: tùy vào máy chủ các bạn chơi sẽ có drop khác nhau. Muốn biết drop gì hãy đọc thông tin chi tiết của máy chủ bạn đang chơi.
+{.is-info}
 
 Event nhân phẩm
 
@@ -24,6 +27,3 @@ Khi anh em giết nhện:
 
 > Bên cạnh đó nếu xui thì bạn quay vào ô mất lượt chim cút về Loren. Nhớ đổi nhân vật để về trạng thái bình thường
 {.is-danger}
-
-> Lưu ý: tùy vào máy chủ các bạn chơi sẽ có drop khác nhau. Muốn biết drop gì hãy đọc thông tin chi tiết của máy chủ bạn đang chơi.
-{.is-info}
