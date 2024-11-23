@@ -2,7 +2,7 @@
 title: Boom
 description: Sự kiện kiểm tra nhân phẩm
 published: true
-date: 2024-11-23T07:27:14.469Z
+date: 2024-11-23T07:51:57.627Z
 tags: event, boom
 editor: markdown
 dateCreated: 2024-11-17T17:13:43.002Z
@@ -10,7 +10,7 @@ dateCreated: 2024-11-17T17:13:43.002Z
 
 Event nhân phẩm
 
-Anh em train đến `21h25` hãy buôn chuột rời ghế. Đi rửa tay (nhớ dùng xà bông) và chuẩn bị 1 tâm hồn đẹp.
+Anh em train đến `21h25` hoặc sau khi tham gia event [Sinh Tồn](/vi/events/survival) lúc `21h10` thì sau đó hãy buôn chuột rời ghế. Đi rửa tay (nhớ dùng xà bông) và chuẩn bị cho mình 1 tâm hồn đẹp.
 
 Sau đó bấm M => kéo xuống dưới cùng move vào map `Sinh Ton`.
 ![guide_move_sinh_ton.png](/assets/guide/guide_move_sinh_ton.png)
