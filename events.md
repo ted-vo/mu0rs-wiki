@@ -2,14 +2,14 @@
 title: Sự Kiện
 description: 
 published: true
-date: 2024-11-17T17:37:38.718Z
+date: 2024-11-23T03:59:14.022Z
 tags: event, gift, reward
 editor: markdown
 dateCreated: 2024-11-12T15:03:17.753Z
 ---
 
 # Đặc biệt
-- n/a
+- n/a ted edit
 # Tuần Hoàn
 - [Blood Castle *2 tiếng / lần vào giờ chẵn phút 30*](/vi/events/blood-castle)
 - [Devil Square *2 tiếng / lần vào giờ lẻ*](/v1/events/devil-square)
