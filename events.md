@@ -1,15 +1,14 @@
 ---
 title: Sự Kiện
-description: 
+description: Tùy vào tính chất của từng loại máy chủ sẽ có các thông sô khác nhau. Anh em chơi máy chủ nào thì vào coi của máy chủ đó.
 published: true
-date: 2024-11-23T08:01:32.825Z
+date: 2024-11-23T08:02:15.915Z
 tags: event, gift, reward
 editor: markdown
 dateCreated: 2024-11-12T15:03:17.753Z
 ---
 
-Tùy vào tính chất của từng loại máy chủ sẽ có các thông sô khác nhau.
-Anh em chơi máy chủ nào thì vào coi của máy chủ đó.
+# Chọn máy chủ bạn đang chơi
 
 - [Server Buffalo](/vi/events/buffalo)
 {.links-list}
