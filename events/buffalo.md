@@ -2,7 +2,7 @@
 title: Danh sách sự kiện
 description: Sự kiện của máy chủ Buffalo
 published: true
-date: 2024-11-23T08:56:11.606Z
+date: 2024-11-23T08:56:33.875Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-23T05:06:43.102Z
@@ -33,4 +33,4 @@ dateCreated: 2024-11-23T05:06:43.102Z
 | VANERT vs DUPRIAN | không có | |
 | Hide and Seek with Kundun 1 | không có | |
 | Hide and Seek with Kundun 2 | không có | |
-| [Gift Drop](/vi/event/gift-drop) | 1 lần / ngày Lúc `19h45` mỗi ngày | Random quà ngọc |
+| [Gift Drop](/vi/events/gift-drop) | 1 lần / ngày Lúc `19h45` mỗi ngày | Random quà ngọc |
