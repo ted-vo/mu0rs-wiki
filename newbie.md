@@ -2,7 +2,7 @@
 title: Hướng dẫn nhập môn Mu0rs
 description: Tất tật hướng dẫn dành cho newbie
 published: true
-date: 2024-11-24T10:07:36.194Z
+date: 2024-11-24T10:08:47.647Z
 tags: newbie, hướng dẫn, nhập môn
 editor: markdown
 dateCreated: 2024-11-24T09:59:45.998Z
@@ -59,7 +59,6 @@ Tạo xong là chiến game được rồi.
 Các bạn cần xóa hết thì nó mới hiện tất danh sách tài khoản cho các bạn.
 ![guide_newbie_8.png](/assets/guide/guide_newbie_8.png)
 
-___
-
-- [Tặng Mu0rs Ly Cà Phê *Bạn sẽ nhận được WCoin khi ủng hộ máy chủ*](https://mu0rs.com/ung-ho-mu-ko-reset)
+# Cách có WCoin
+- [Tặng Mu0rs Ly Cà Phê *Bạn sẽ nhận được WCoin khi ủng hộ máy chủ.*](https://mu0rs.com/ung-ho-mu-ko-reset)
 {.links-list}
