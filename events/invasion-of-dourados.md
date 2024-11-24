@@ -2,7 +2,7 @@
 title: Invasion of Dourados
 description: Sự kiện săn boss vàng
 published: true
-date: 2024-11-24T13:01:32.785Z
+date: 2024-11-24T13:01:57.135Z
 tags: event, golden boss, boss
 editor: markdown
 dateCreated: 2024-11-17T17:10:06.368Z
@@ -26,8 +26,8 @@ dateCreated: 2024-11-17T17:10:06.368Z
 | Aida | Golden Stone Golem | ![golden-stone-golem.jpg](/assets/golden-monters/golden-stone-golem.jpg)|
 | Icarus | Golden Mega Crust | ![golden-mega-crust.jpg](/assets/golden-monters/golden-mega-crust.jpg) |
 | Kanturu Ruins | Golden Satyros | ![golden-satyros.jpg](/assets/golden-monters/golden-satyros.jpg) |
-| Karutan 2 | Great Golden Dragon | ![great-golden-dragon.jpg](/assets/golden-monters/great-golden-dragon.jpg) |
 | Kanturu Relics | Golden Twin Tail | ![golden-twin-tail.jpg](/assets/golden-monters/golden-twin-tail.jpg) |
 | Swamp of Peace | Golden Napin | |
+| Karutan 2 | Great Golden Dragon | ![great-golden-dragon.jpg](/assets/golden-monters/great-golden-dragon.jpg) |
 | Raklion | Great Golden Dragon | ![great-golden-dragon.jpg](/assets/golden-monters/great-golden-dragon.jpg) |
 | Raklion | Golden Iron Knight | ![golden-iron-knight.jpg](/assets/golden-monters/golden-iron-knight.jpg) |
