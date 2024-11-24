@@ -2,7 +2,7 @@
 title: Hướng dẫn nhập môn Mu0rs
 description: Tất tật hướng dẫn dành cho newbie
 published: true
-date: 2024-11-24T10:04:55.452Z
+date: 2024-11-24T10:07:36.194Z
 tags: newbie, hướng dẫn, nhập môn
 editor: markdown
 dateCreated: 2024-11-24T09:59:45.998Z
@@ -13,7 +13,7 @@ dateCreated: 2024-11-24T09:59:45.998Z
 ## Bước 1: Đăng nhập GMail và Login Mu0rs với GMail
 
 Truy cập: https://mu0rs.com/login
-![newbie_1.png](/assets/guide/guide_newbie_1.png)
+![newbie_1.png](/assets/guide/guide_newbie_0.png)
 
 Chọn `Đăng Nhập bằng G+` aka `GMail`
 Tại đây, chọn email đã từng đăng nhập vào GMail có sẵn hoặc chọn đăng nhập 1 email khác tùy bạn.
