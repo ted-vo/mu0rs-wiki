@@ -2,7 +2,7 @@
 title: Hướng dẫn nhập môn Mu0rs
 description: Tất tật hướng dẫn dành cho newbie
 published: true
-date: 2024-11-24T09:59:45.998Z
+date: 2024-11-24T10:04:55.452Z
 tags: newbie, hướng dẫn, nhập môn
 editor: markdown
 dateCreated: 2024-11-24T09:59:45.998Z
@@ -23,7 +23,7 @@ Nếu chưa đăng nhập thì tiến hành đăng nhập GMail của bạ
 ![newbie_3.png](/assets/guide/guide_newbie_3.png)
 ![newbie_4.png](/assets/guide/guide_newbie_4.png)
 
-## Bước 2:
+## Bước 2: Tạo tài khoản định danh trên website
 
 Sau khi Login thành công.
 
@@ -35,7 +35,7 @@ Sau khi Login thành công.
 
 ![newbie_5.png](/assets/guide/guide_newbie_5.png)
 
-## Bước 3:
+## Bước 3: Tạo tài khoản game
 
 Lúc này bạn mới chỉ có `tài khoản định danh` trên `hệ thống website` chứ chưa có `tài khoản game`.
 
@@ -52,6 +52,12 @@ Tạo xong là chiến game được rồi.
 
 > Chúc các bạn chơi game vui vẻ!!!
 {.is-info}
+
+# Lưu ý
+
+Ở mục chọn tài khoản. Cái ô này nó hơi sida tím, các bạn thông cảm.
+Các bạn cần xóa hết thì nó mới hiện tất danh sách tài khoản cho các bạn.
+![guide_newbie_8.png](/assets/guide/guide_newbie_8.png)
 
 ___
 
