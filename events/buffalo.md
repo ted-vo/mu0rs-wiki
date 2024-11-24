@@ -2,7 +2,7 @@
 title: Danh sách sự kiện
 description: Sự kiện của máy chủ Buffalo
 published: true
-date: 2024-11-24T12:59:01.964Z
+date: 2024-11-24T13:51:20.415Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-23T05:06:43.102Z
@@ -29,7 +29,7 @@ ___
 | Rabbits | Lúc `19h15` và `22h15` mỗi ngày (2 lần / ngày) | - Map Rakion<br>- 10 em thỏ 1 đợt.<br>- Rớt random Zen hoặc [Ngọc Thuộc Tính](/vi/craft/jewel-of-elements) |
 | Medusa | Lúc `21h00` mỗi ngày (1 lần / ngày). | - 1 bé 1 đợt Rớt:<br>- Box of Kundun (![box_kundun.png](/assets/box_kundun.png)) (random `+1` đến `+5`).<br>- Ring excellent.<br>- Blue Chocolate Box (![](https://mu0rs.com/item_images/14/34.gif)).<br>- [Jewel Card](/vi/craft/jewel-card) (![](https://mu0rs.com/item_images/14/146.gif)) |
 | [Erohim](/vi/monsters/erohim) | Lúc `20h20` tại `Lorencia` (1 lần / ngày) | Rớt:<br>- Box of KundunXX (![box_kundun.png](/assets/box_kundun.png)) (random `+1` đến `+5`).<br>- Pen excellent.<br>- Pink Chocolate Box (![](https://mu0rs.com/item_images/14/32.gif)).<br>- [Jewel Card](/vi/craft/jewel-card) (![](https://mu0rs.com/item_images/14/146.gif)) |
-| King of Kings | Chủ Nhật hàng tuần, `20h15m` | |
+| King of Kings | Chủ Nhật hàng tuần, `20h15m` | - Không giới hạn cấp độ.<br>- Phần thưởng box ele. Số lượng ko biết :D |
 | [Survival](/vi/events/survival) | Mỗi ngày lúc `21h10` | Các loại box ele |
 | [Boom](/vi/events/boom) | Lúc `21h30` | Mỗi ngày | |
 | VANERT vs DUPRIAN | không có | |
