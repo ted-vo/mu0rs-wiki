@@ -2,7 +2,7 @@
 title: Thông tin máy chủ
 description: 
 published: true
-date: 2024-11-22T05:59:02.602Z
+date: 2024-11-24T10:09:51.324Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-07T05:13:20.517Z
@@ -23,3 +23,8 @@ dateCreated: 2024-11-07T05:13:20.517Z
 
 > Thay mặt toàn thể BQT chúc anh em vui chơi giải trí & nhớ giữ gìn sức khỏe.
 {.is-info}
+
+___
+
+- [Hướng dẫn tân thủ](https://wiki.mu0rs.com/vi/newbie)
+{.links-list}
