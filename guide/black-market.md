@@ -2,7 +2,7 @@
 title: Hướng dẫn tính năng Chợ Đen
 description: Đây là 1 tính năng hỗ trợ anh em trao đổi vật phẩm bằng WCoin
 published: true
-date: 2024-11-24T11:05:24.266Z
+date: 2024-11-24T11:06:50.984Z
 tags: guide, black market, chợ đen
 editor: markdown
 dateCreated: 2024-11-24T10:52:55.048Z
@@ -19,6 +19,8 @@ Sau khi bạn login vào trang quản lí quản khoản tại https://mu0rs.c
 > Lưu ý: bạn cần xóa hết thông tin trong cái ô chọn tài khoản thì mới hiển thị hết được danh sách tài khoản. @@
 
 ## Để bán 1 vật phẩm
+
+> Lưu ý: Có phí treo nhé anh em. Bao nhiêu thì mình ko nhớ :D
 
 - Bước 1: Đâu tiên vứt món dồ đó vào thung đồ chung
 - Bước 2: Ra website chọn vào ô `Put on Black Market`. Tiếng việt là `Treo lên chợ đen`. Khi đó bên cạch sẽ hiển thị các vật phẩm có trong rương đồ của bạn. Nhập giá vật phẩm cần bán => Bấm nút `Put on back market`. Tiếng việt là `Treo lên chợ đen`
