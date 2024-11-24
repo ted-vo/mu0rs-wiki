@@ -2,7 +2,7 @@
 title: Lệnh hỗ trợ AFK
 description: 
 published: true
-date: 2024-11-12T08:00:23.585Z
+date: 2024-11-24T12:55:48.302Z
 tags: cmd, command, afk
 editor: markdown
 dateCreated: 2024-11-12T08:00:23.579Z
@@ -22,6 +22,10 @@ dateCreated: 2024-11-12T08:00:23.579Z
 /afk1
 ```
 
+```
+/afk2
+```
+
 # Yêu cầu
 
 | Lệnh | Phí | Mô Tả |
@@ -29,6 +33,7 @@ dateCreated: 2024-11-12T08:00:23.579Z
 | `afk` | Có | -  15p / 1 coin. |
 | `afk0` | Không | - Không gây sát thương.<br>- Không drop<br>- Phù hợp cho các char buff. |
 | `afk1` | Có | - 15p / 2 wcoins<br>- x2 drop. |
+| `afk2` | Có | - 15p / 2 wcoins<br>- Tính năng này tất cả đều giống `/afk`, chỉ khác 1 chổ duy nhất là sẽ ko tự động mua máu và mana khi nhân vật hết bình máu, hết bình mana, khiến các bạn bị hết zen.<br>- Chủ yếu phục vụ sv Buffalo. Nhưng các bạn ở sv khác vẫn sử dụng bình thường khi ko có nhu cầu tự động mua máu, mana nhé |
 
 # Cách sử dụng
 
