@@ -2,7 +2,7 @@
 title: Lệnh mua HP/MANA/SD
 description: 
 published: true
-date: 2024-11-12T17:10:03.501Z
+date: 2024-11-25T02:03:08.904Z
 tags: cmd, command, hp, mana, auto buy, sd
 editor: markdown
 dateCreated: 2024-11-12T06:37:01.222Z
@@ -12,7 +12,7 @@ dateCreated: 2024-11-12T06:37:01.222Z
 
 ## HP
 ```
-/mhp x
+/mhp x y(có hoặc ko)
 ```
 
 ## Mana
@@ -42,6 +42,10 @@ Ví dụ:
 Mua 10 bình máu lớn
 ```
 /mhp 10
+```
+Mua 10 bình máu nhỏ
+```
+/mhp 10 1
 ```
 
 Mua 10 bình mana lớn
