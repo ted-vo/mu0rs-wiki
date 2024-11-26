@@ -2,7 +2,7 @@
 title: Thông tin máy chủ
 description: 
 published: true
-date: 2024-11-26T02:09:13.177Z
+date: 2024-11-26T02:09:50.284Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-07T05:13:20.517Z
@@ -26,5 +26,5 @@ dateCreated: 2024-11-07T05:13:20.517Z
 
 ___
 
-- [Hướng dẫn tân thủ](https://wiki.mu0rs.com/vi/newbie)
+- [Hướng dẫn tân thủ](https://wiki.mu0rs.com/vi/guide/newbie)
 {.links-list}
