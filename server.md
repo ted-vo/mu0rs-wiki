@@ -2,7 +2,7 @@
 title: Thông tin máy chủ
 description: 
 published: true
-date: 2024-11-24T13:09:34.957Z
+date: 2024-11-26T02:09:13.177Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-07T05:13:20.517Z
@@ -19,7 +19,7 @@ dateCreated: 2024-11-07T05:13:20.517Z
 
 [![](https://custom-icon-badges.demolab.com/badge/Chiến_Ngay-Tải_Game-green.svg?logo=download)](https://drive.google.com/drive/folders/13z3-HCiic7ukbfJdUlQoxB8DFiMD6-jR)
 
-[![](https://custom-icon-badges.demolab.com/badge/Discord-Join-green.svg?logo=discord)](https://discord.gg/WCMbJC9cXS) [![](https://custom-icon-badges.demolab.com/badge/Fanpage-Follow-green.svg?logo=facebook)](https://www.facebook.com/gaming/Mu0rs) [![](https://custom-icon-badges.demolab.com/badge/Mu0rs_All_Server-Join-green.svg?logo=zalo)](https://zalo.me/g/uyifvr644) [![](https://custom-icon-badges.demolab.com/badge/Server_Buffalo_Server-Join-green.svg?logo=zalo)](https://zalo.me/g/hktibl404)
+[![](https://custom-icon-badges.demolab.com/badge/Discord-Join-green.svg?logo=discord)](https://discord.gg/WCMbJC9cXS) [![](https://custom-icon-badges.demolab.com/badge/Fanpage-Follow-green.svg?logo=facebook)](https://www.facebook.com/gaming/Mu0rs) [![](https://custom-icon-badges.demolab.com/badge/Mu0rs_All_Server-Join-green.svg?logo=zalo)](https://zalo.me/g/hktibl404) [![](https://custom-icon-badges.demolab.com/badge/Server_Buffalo_Server-Join-green.svg?logo=zalo)](https://zalo.me/g/uyifvr644)
 
 > Thay mặt toàn thể BQT chúc anh em vui chơi giải trí & nhớ giữ gìn sức khỏe.
 {.is-info}
