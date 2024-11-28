@@ -2,7 +2,7 @@
 title: Invasion of Dourados
 description: Sự kiện săn boss vàng
 published: true
-date: 2024-11-24T13:01:57.135Z
+date: 2024-11-28T07:16:35.930Z
 tags: event, golden boss, boss
 editor: markdown
 dateCreated: 2024-11-17T17:10:06.368Z
@@ -17,7 +17,7 @@ dateCreated: 2024-11-17T17:10:06.368Z
 | Elveland | Golden Rabbit | ![golden-rabbit.jpg](/assets/golden-monters/golden-rabbit.jpg) |
 | Devias | Golden Titan | ![golden-titan.jpg](/assets/golden-monters/golden-titan.jpg) |
 | Dungeo | Golden Dark Knight | ![golden-dark-knight.jpg](/assets/golden-monters/golden-dark-knight.jpg) |
-| Lorencia, Noria, Devias, or Lost Tower | golden-derkon | ![golden-derkon.png](/assets/golden-monters/golden-derkon.png) |
+| Lorencia, Noria, Devias, or Elveland | golden-derkon | ![golden-derkon.png](/assets/golden-monters/golden-derkon.png) |
 | Atlans | Golden Vepar | ![golden-vepar.jpg](/assets/golden-monters/golden-vepar.jpg) |
 | Atlans | Golden Lizard King | ![golden-lizard-king.jpg](/assets/golden-monters/golden-lizard-king.jpg) |
 | Lost Tower | Golden Devil | ![golden-devil.jpg](/assets/golden-monters/golden-devil.jpg) |
