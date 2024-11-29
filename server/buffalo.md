@@ -2,7 +2,7 @@
 title: Máy Chủ Buffalo
 description: Hoài niệm Mu Online. Máy chủ cày cuốc siêu khó mới !!!
 published: true
-date: 2024-11-23T06:57:50.557Z
+date: 2024-11-29T12:50:16.265Z
 tags: server, info, new, buffalo, máy chủ mới, hardcore, khó
 editor: markdown
 dateCreated: 2024-11-12T16:38:01.765Z
@@ -57,7 +57,7 @@ dateCreated: 2024-11-12T16:38:01.765Z
 | [Kundun](/vi/monsters/kundun) | Chỉ có ở `Kalima 7`. `Vé Kalima 7` chỉ bán ở `x-shop` hoặc lên `Rakion` săn. Rớt:<br>- Đồ thần.<br>- [Ancient Card](/vi/craft/ancient-card).<br>- [Mãnh vũ khí 380](/vi/craft/380-weapon-fragment) |
 | CTC | Ko |
 | [Blood Castle](/vi/events/blood-castle) | BC 1-7: Chỉ có exp.<br>BC 8: rớt [Ngọc Thuộc Tính](/vi/craft/jewel-of-elements). |
-| [Devil Square](/vi/events/devil-square) | DS 1-6: chỉ có exp.<br>DS 7: rớt [Ngọc Thuộc Tính](/vi/craft/jewel-of-elements). |
+| [Devil Square](/vi/events/devil-square) | DS 1-3: chỉ có exp.<br>DS 4+: rớt [Ngọc Thuộc Tính](/vi/craft/jewel-of-elements). |
 | [Chaos Castle](/vi/events/chaos-castle) | CC 1-6: chỉ rớt ngọc hoặc card.<br>CC 7: rớt ngọc, card, đồ thần. |
 | [Happy Hour](/vi/events/happy-hour) | Từ `21h00` đến `22h00` mỗi ngày. Chỉ tăng exp. |
 | [Boom](/vi/events/boom) | Rớt Ngọc (`5%`) và Zen (`95%`) |
