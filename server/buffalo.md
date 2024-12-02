@@ -2,7 +2,7 @@
 title: Máy Chủ Buffalo
 description: Hoài niệm Mu Online. Máy chủ cày cuốc siêu khó mới !!!
 published: true
-date: 2024-11-29T12:50:16.265Z
+date: 2024-12-02T05:45:48.889Z
 tags: server, info, new, buffalo, máy chủ mới, hardcore, khó
 editor: markdown
 dateCreated: 2024-11-12T16:38:01.765Z
@@ -39,7 +39,7 @@ dateCreated: 2024-11-12T16:38:01.765Z
 | Box of Kundun (![box_kundun.png](/assets/box_kundun.png)) | Chỉ rớt khi săn [Boss Vàng](/vi/events/invasion-of-dourados).<br>Chỉ rớt `box +1`, `box +2`.<br>Boss cấp cao số lượng rớt ra nhiều hơn.<br>Mỗi ![box_kundun.png](/assets/box_kundun.png) chỉ rớt ra random 1 món Excellent (`10%`) hoặc Zen (`90%`).<br>Cách kiếm `box +3 -> +5` => dùng tính năng [Nâng cấp Box of Kundun](/vi/craft/upgrade-box-kundun) |
 | Box GM (![](https://mu0rs.com/item_images/14/52.gif)) | Vật vật nhận được khi ủng hộ server.<br>Chỉ rớt ra Box of Kundun (random từ +1 -> +3).<br>Các loại ngọc tối đa 1 viên. |
 | Box of Luck | Random ngọc cùi, ele.<br>Chỉ rớt 1 viên / 1 box. |
-| Box ò Heaven | 10K Zen hoặc đồ thường (random +0 -> +4). |
+| Box of Heaven | 10K Zen hoặc đồ thường (random +0 -> +4). |
 | Các loại [Card Nhân Phẩm](https://wiki.mu0rs.com/vi/craft#xoay-th%E1%BA%BB-nh%C3%A2n-ph%E1%BA%A9m) | Giảm tỷ lệ drop cũng như tỷ lệ xoay ra đồ ngon |
 | Blue / Pink / Red Chocolate Box | Chỉ rớt khi săn các Boss |
 
