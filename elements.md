@@ -2,7 +2,7 @@
 title: Hệ Thống Thuộc Tính
 description: Hệ thống thuộc tính là một tính năng customize có một không hai của Mu0rs.com
 published: true
-date: 2024-12-03T10:52:38.025Z
+date: 2024-12-03T11:07:02.009Z
 tags: ele, posion, lighting, fire, ice, element, jewel element, độc, sét, lửa, băng, ngọc thuộc tính
 editor: markdown
 dateCreated: 2024-11-07T08:25:00.416Z
@@ -193,6 +193,31 @@ Tổng hợp nhanh sẽ có những opt như sau (`/` nghĩa là hoặc):
 | Berserker giam tru HP,DEF,AG va tang DMG `x%`               |        <span class="mdi mdi-sword"/>         |
 | Drain Life hut SD `x%` cua so mau hut dc                    |        <span class="mdi mdi-sword"/>         |
 | Gigantic Storm gay stun va xuat hien ign dmg theo ENE / `x` |        <span class="mdi mdi-sword"/>         |
+
+## Cách xem giá trị của Opt Thuộc tính
+
+Để món đồ muốn kiểm tra giá trị ở góc trên bên trái của thùng đồ cá nhân.
+![guide_showele_1.png](/assets/guide/guide_showele_1.png)
+Gõ lệnh
+
+```
+/showele
+```
+
+Trên góc trái màn hình. Thông tin hệ thống sẽ hiển thị thứ tự ID (mã) và VAL (giá trị) của opt ele tương ứng của món đồ.
+![guide_showele_1.png](/assets/guide/guide_showele_2.png)
+
+Ngoài ra, giá trị của chúng còn phụ thuộc vào lvl của món đồ, đồ có cộng càng cao, sẽ được + thêm theo công thức:
+
+```
+GiaTri = GiaTri + (GiaTri *0.02*(lvl của item))
+```
+
+Và nếu item của bạn là vũ khí 2 tay thì giá trị sẽ được bonus thêm theo công thức:
+
+```
+GiaTri = GiaTri x 1.8
+```
 
 # Liên quan
 
