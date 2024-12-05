@@ -2,7 +2,7 @@
 title: Hướng dẫn
 description: Hãy đọc các bài hướng dẫn trước khi bạn hỏi bất cứ vấn đề nào nhé!
 published: true
-date: 2024-12-05T07:53:40.061Z
+date: 2024-12-05T07:59:46.597Z
 tags: guide, newbie, hướng dẫn, người chơi mới, tìm hiểu
 editor: markdown
 dateCreated: 2024-11-12T06:01:23.151Z
