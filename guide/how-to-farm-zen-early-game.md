@@ -2,7 +2,7 @@
 title: Hướng dẫn các kiếm ZEN cho người mới
 description: Hướng dẫn này dành riêng cho máy chủ Buffalo
 published: true
-date: 2024-12-05T08:37:21.316Z
+date: 2024-12-05T08:40:17.623Z
 tags: guide, buffalo, zen, kiếm zen
 editor: markdown
 dateCreated: 2024-12-05T08:02:48.033Z
@@ -59,3 +59,8 @@ Nếu bạn là người mạnh về tài chính và không có thời 
 Hãy tham gia cộng đồng các `Mu0rs` để tìm người bán zen cho bạn nhé!
 
 [![](https://custom-icon-badges.demolab.com/badge/Discord-Join-green.svg?logo=discord)](https://discord.gg/WCMbJC9cXS) [![](https://custom-icon-badges.demolab.com/badge/Fanpage-Follow-green.svg?logo=facebook)](https://www.facebook.com/gaming/Mu0rs) [![](https://custom-icon-badges.demolab.com/badge/Server_Buffalo_Server-Join-green.svg?logo=zalo)](https://zalo.me/g/uyifvr644)
+
+---
+# Liên quan
+- [Danh sách các bài hướng dẫn](/vi/guide)
+{.links-list}
