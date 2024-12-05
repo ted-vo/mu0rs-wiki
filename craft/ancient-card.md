@@ -2,8 +2,8 @@
 title: Ancient Card
 description: Thẻ nhân phẩm
 published: true
-date: 2024-11-20T14:58:14.122Z
-tags: gamble, card, lucky, craft, ancient
+date: 2024-12-05T03:21:17.142Z
+tags: gamble, card, lucky, craft, ancient, đồ thần, chế tạo, gobin chaos
 editor: markdown
 dateCreated: 2024-11-12T15:24:03.163Z
 ---
