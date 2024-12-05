@@ -1,9 +1,9 @@
 ---
 title: Hướng dẫn
-description: Tổng hợp các bài hướng dẫn
+description: Hãy đọc các bài hướng dẫn trước khi bạn hỏi bất cứ vấn đề nào nhé!
 published: true
-date: 2024-12-05T06:48:33.960Z
-tags: guide
+date: 2024-12-05T06:50:57.884Z
+tags: guide, newbie, hướng dẫn, người chơi mới, tìm hiểu
 editor: markdown
 dateCreated: 2024-11-12T06:01:23.151Z
 ---
