@@ -2,7 +2,7 @@
 title: Hướng dẫn các kiếm ZEN cho người mới
 description: Hướng dẫn này dành riêng cho máy chủ Buffalo
 published: true
-date: 2024-12-05T08:35:01.371Z
+date: 2024-12-05T08:37:21.316Z
 tags: guide, buffalo, zen, kiếm zen
 editor: markdown
 dateCreated: 2024-12-05T08:02:48.033Z
@@ -33,9 +33,10 @@ Hãy auto lụm tất cả có thể. Và để ý về bán ve chai mỗi khi r
 
 ## Miễn phí
 
-- `12h25` và `20h25` hằng ngày là khung giờ để săn boss vàng. Box sẽ có tới `95%` rơi Zen. Chi tiết tại [Boss vàng](/vi/events/invasion-of-dourados)
-- `21h30` hằng ngày hãy tham gia sự kiện BOOM. Giết nhện né BOOM hoặc chỉ cần đi dạo space để KS zen của người khác :D. Chi tiết tại [Boom Event](/vi/events/boom)
+- `12h25` và `20h25` hằng ngày là khung giờ để săn boss vàng. Box sẽ có tới `95%` rơi Zen. Chi tiết tại [Boss vàng](/vi/events/invasion-of-dourados).
+- `21h30` hằng ngày hãy tham gia sự kiện BOOM. Giết nhện né BOOM hoặc chỉ cần đi dạo space để KS zen của người khác :D. Chi tiết tại [Boom Event](/vi/events/boom).
 - `22h15` chơi trốn tìm với Kundun. Phần thưởng có `95%` zen và `5%` đồ excelent. Một phần thưởng dành cho 1 nhân vật. Hãy nhanh tay nhặt zen của mình sau đó hãy đi ks người khác nhé. (ăn chửi ko chịu trách nhiệm :D).
+- Ngoài ra bạn có thể đi săn ( `afk` ) ở những Map có rớt những vật phẩm mà người khác cần để bán kiếm zen nhé. Trước khi đi săn bạn có thể xem các tra cứu thông tin quái và vật phẩm tại đây [Hướng dẫn ra cứu thông tin quát vật và vật phẩm](/vi/guide/how-to-research-monsters-items).
 
 ## Mất phí và phải cày cuốc
 Tại sao mất phí? Vì ở máy chủ hiện tại `Chaos` rất hiếm nên chỉ có cách mua vé `Devil Square` (DV) shop.
