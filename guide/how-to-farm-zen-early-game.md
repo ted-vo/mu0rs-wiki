@@ -2,13 +2,13 @@
 title: Hướng dẫn các kiếm ZEN cho người mới
 description: Hướng dẫn này dành riêng cho máy chủ Buffalo
 published: true
-date: 2024-12-05T08:19:53.245Z
+date: 2024-12-05T08:31:48.247Z
 tags: guide, buffalo, zen, kiếm zen
 editor: markdown
 dateCreated: 2024-12-05T08:02:48.033Z
 ---
 
-> Chỉ dành riêng chi máy chủ Buffalo
+> Chỉ dành riêng chi máy chủ [Buffalo](/vi/server/buffalo)
 {.in-info}
 
 # Vỡ lòng
@@ -31,6 +31,24 @@ Hãy auto lụm tất cả có thể. Và để ý về bán ve chai mỗi khi r
 
 # Tham gia sự kiện
 
-- `12h25` và `20h25` hằng ngày là khung giờ để săn boss vàng. Box sẽ có tới 95% rơi Zen. Chi tiết tại [Boss vàng](/vi/events/invasion-of-dourados)
-- `21h30` hằng ngày hãy tham gia sự kiện BOOM. Giết nhện né BOOM hoặc chỉ cần đi dạo space để KS zen của người khác :D. Chi tiết tại [Boom Event](/vi/events/boom)
+## Miễn phí
 
+- `12h25` và `20h25` hằng ngày là khung giờ để săn boss vàng. Box sẽ có tới `95%` rơi Zen. Chi tiết tại [Boss vàng](/vi/events/invasion-of-dourados)
+- `21h30` hằng ngày hãy tham gia sự kiện BOOM. Giết nhện né BOOM hoặc chỉ cần đi dạo space để KS zen của người khác :D. Chi tiết tại [Boom Event](/vi/events/boom)
+- `22h15` chơi trốn tìm với Kundun. Phần thưởng có `95%` zen và `5%` đồ excelent. Một phần thưởng dành cho 1 nhân vật. Hãy nhanh tay nhặt zen của mình sau đó hãy đi ks người khác nhé. (ăn chửi ko chịu trách nhiệm :D).
+
+## Mất phí
+
+Tại sao mất phí? Vì ở máy chủ hiện tại `Chaos` rất hiếm nên chỉ có cách mua vé `Devil Square` (DV) shop.
+
+Ở mốc `Devil Squre 1`.
+- Tốn `100wc` cho 1 vé hoặc mua `10 vé` tốn `900wc` => vị chi 1 vé chỉ còn `90wc`.
+- Sau khi sống xót thành công nhận thưởng `500k` zen 1 nhân vật.
+
+Nếu bạn lập nhiều nhân vật cùng đi thì số zen kiếm được 1 chuyến sẽ nhân với `500k` :D.
+
+Ví dụ:
+
+Mình đi 4 acc DV1. Tốn `360wc` (mình mua vé 10) nhận đc mỗi nhân vật `500k` => 500K x 4 = `2m` zen.
+
+Quá ổn áp đúng không nào. ^^
