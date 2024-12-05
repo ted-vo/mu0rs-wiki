@@ -2,7 +2,7 @@
 title: Hướng dẫn
 description: Tổng hợp các bài hướng dẫn
 published: true
-date: 2024-12-05T06:41:46.963Z
+date: 2024-12-05T06:45:13.297Z
 tags: guide
 editor: markdown
 dateCreated: 2024-11-12T06:01:23.151Z
@@ -21,5 +21,8 @@ dateCreated: 2024-11-12T06:01:23.151Z
 - [Hướng dẫn gõ Tiếng Việt trong game](/vi/guide/go-tieng-viet)
 - [Hướng dẫn sử dụng lệnh mua Máu / Mana *updating...*](/vi/guide/how-to-use-auto-buy-potion)
 - [Hướng dẫn sử dụng lệnh afk *updating...*](/vi/guide/how-to-use-afk)
+- [Hướng dẫn kiếm ZEN đầu game *updating...*](/vi/guide/how-to-farm-zen-early-game)
+- [Hướng dẫn kiếm đồ +4 + op dầu game *updating...*](/vi/guide/how-to-find-item-4-op)
 - [Hướng dẫn sử các bãi train quái *updating...*](/vi/guide/how-to-find-spot-to-train)
+- [Hướng dẫn chỉnh auto combo MG | DW | SUM *updating...*](/vi/guide/how-to-setting-auto-combo)
 {.links-list}
