@@ -2,8 +2,8 @@
 title: Hướng dẫn các kiếm ZEN cho người mới
 description: Hướng dẫn này dành riêng cho máy chủ Buffalo
 published: true
-date: 2024-12-05T08:40:59.466Z
-tags: guide, buffalo, zen, kiếm zen
+date: 2024-12-05T08:44:34.345Z
+tags: guide, buffalo, hướng dẫn, zen, kiếm zen
 editor: markdown
 dateCreated: 2024-12-05T08:02:48.033Z
 ---
