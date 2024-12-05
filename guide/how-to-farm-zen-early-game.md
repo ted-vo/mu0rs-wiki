@@ -2,7 +2,7 @@
 title: Hướng dẫn các kiếm ZEN cho người mới
 description: Hướng dẫn này dành riêng cho máy chủ Buffalo
 published: true
-date: 2024-12-05T08:40:17.623Z
+date: 2024-12-05T08:40:59.466Z
 tags: guide, buffalo, zen, kiếm zen
 editor: markdown
 dateCreated: 2024-12-05T08:02:48.033Z
@@ -15,7 +15,7 @@ dateCreated: 2024-12-05T08:02:48.033Z
 
 Hãy tạo cho mình vài nhân vật MG và phi shop 2 món trên tay.
 
-Lúc này bạn có `38 zen`. Đủ để move lên nơi tấp nập người qua lại như `Elvland` để có để xin xỏ ít zen đi mua cặp trùy ở Lorencia hoặc cung ghẻ ở Noria.
+Lúc này bạn có `38 zen`. Đủ để move lên nơi tấp nập người qua lại như `Elveland` để có để xin xỏ ít zen đi mua cặp trùy ở Lorencia hoặc cung ghẻ ở Noria.
 
 Vậy là đủ đồ chơi cho vỡ lòng rồi.
 
