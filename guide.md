@@ -2,7 +2,7 @@
 title: Hướng dẫn
 description: Hãy đọc các bài hướng dẫn trước khi bạn hỏi bất cứ vấn đề nào nhé!
 published: true
-date: 2024-12-05T08:49:45.384Z
+date: 2024-12-05T09:08:46.148Z
 tags: guide, newbie, hướng dẫn, người chơi mới, tìm hiểu
 editor: markdown
 dateCreated: 2024-11-12T06:01:23.151Z
@@ -20,7 +20,6 @@ dateCreated: 2024-11-12T06:01:23.151Z
 {.links-list}
 
 # Trong Game
-## Hỗ trợ
 - [Hướng dẫn gõ Tiếng Việt trong game](/vi/guide/go-tieng-viet)
 - [Hướng dẫn sử dụng lệnh mua Máu / Mana](/vi/guide/how-to-use-auto-buy-potion)
 - [Hướng dẫn sử dụng lệnh afk](/vi/commands/afk)
