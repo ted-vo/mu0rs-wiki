@@ -2,14 +2,14 @@
 title: Hướng dẫn chuyển WCoin vào game
 description: Sau khi có WCoin bây giờ chúng ta đến bước chuyển WCoin vào game để sử dụng cho nhân vật
 published: true
-date: 2024-12-05T07:21:25.749Z
+date: 2024-12-05T07:23:24.500Z
 tags: guide, chuyển wc, chuyển wc vào game, wcoin
 editor: markdown
 dateCreated: 2024-12-05T07:21:25.749Z
 ---
 
 Sau khi bạn đã có WCoin trong tài khoản.
-Vào trang quản lý
+Vào trang quản lý: https://mu0rs.com/mu-non-reset
 Sau đó nhìn bên trái cột `Menu` -> chọn `Game` -> chọn `Chuyển coin vào game`
 
 Ở đây, bạn sẽ chú ý bên phải chổ `Chọn tài khoản`.
