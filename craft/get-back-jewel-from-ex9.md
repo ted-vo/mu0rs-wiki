@@ -2,8 +2,8 @@
 title: Tách ngọc từ đồ Excellent +9
 description: Ăn mày quá khứ
 published: true
-date: 2024-11-12T17:05:13.176Z
-tags: craft, get back jewel
+date: 2024-12-05T05:08:27.350Z
+tags: craft, get back jewel, tách ngọc, +9
 editor: markdown
 dateCreated: 2024-11-12T15:41:20.060Z
 ---
