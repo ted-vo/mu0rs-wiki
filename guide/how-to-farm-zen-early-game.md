@@ -2,7 +2,7 @@
 title: Hướng dẫn các kiếm ZEN cho người mới
 description: Hướng dẫn này dành riêng cho máy chủ Buffalo
 published: true
-date: 2024-12-05T08:31:48.247Z
+date: 2024-12-05T08:35:01.371Z
 tags: guide, buffalo, zen, kiếm zen
 editor: markdown
 dateCreated: 2024-12-05T08:02:48.033Z
@@ -37,8 +37,7 @@ Hãy auto lụm tất cả có thể. Và để ý về bán ve chai mỗi khi r
 - `21h30` hằng ngày hãy tham gia sự kiện BOOM. Giết nhện né BOOM hoặc chỉ cần đi dạo space để KS zen của người khác :D. Chi tiết tại [Boom Event](/vi/events/boom)
 - `22h15` chơi trốn tìm với Kundun. Phần thưởng có `95%` zen và `5%` đồ excelent. Một phần thưởng dành cho 1 nhân vật. Hãy nhanh tay nhặt zen của mình sau đó hãy đi ks người khác nhé. (ăn chửi ko chịu trách nhiệm :D).
 
-## Mất phí
-
+## Mất phí và phải cày cuốc
 Tại sao mất phí? Vì ở máy chủ hiện tại `Chaos` rất hiếm nên chỉ có cách mua vé `Devil Square` (DV) shop.
 
 Ở mốc `Devil Squre 1`.
@@ -52,3 +51,10 @@ Ví dụ:
 Mình đi 4 acc DV1. Tốn `360wc` (mình mua vé 10) nhận đc mỗi nhân vật `500k` => 500K x 4 = `2m` zen.
 
 Quá ổn áp đúng không nào. ^^
+
+## Mất phi và không cần cày cuốc
+Nếu bạn là người mạnh về tài chính và không có thời gian cày cuốc thì cứ bỏ tiền ra mua của dân cày :D Giá cả thỏa thuận hehe.
+
+Hãy tham gia cộng đồng các `Mu0rs` để tìm người bán zen cho bạn nhé!
+
+[![](https://custom-icon-badges.demolab.com/badge/Discord-Join-green.svg?logo=discord)](https://discord.gg/WCMbJC9cXS) [![](https://custom-icon-badges.demolab.com/badge/Fanpage-Follow-green.svg?logo=facebook)](https://www.facebook.com/gaming/Mu0rs) [![](https://custom-icon-badges.demolab.com/badge/Server_Buffalo_Server-Join-green.svg?logo=zalo)](https://zalo.me/g/uyifvr644)
