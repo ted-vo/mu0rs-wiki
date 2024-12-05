@@ -1,8 +1,8 @@
 ---
 title: Lệnh hỗ trợ AFK
-description: 
+description: Tính năng treo máy online trên máy chủ
 published: true
-date: 2024-12-01T10:01:45.114Z
+date: 2024-12-05T09:14:31.803Z
 tags: cmd, command, afk
 editor: markdown
 dateCreated: 2024-11-12T08:00:23.579Z
