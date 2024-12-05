@@ -2,7 +2,7 @@
 title: Hướng dẫn
 description: Tổng hợp các bài hướng dẫn
 published: true
-date: 2024-12-05T06:45:28.135Z
+date: 2024-12-05T06:48:33.960Z
 tags: guide
 editor: markdown
 dateCreated: 2024-11-12T06:01:23.151Z
@@ -12,9 +12,11 @@ dateCreated: 2024-11-12T06:01:23.151Z
 
 ## Tài Khoản - Tính Năng Website
 - [Hướng dẫn tân thủ](/vi/guide/newbie)
-- [Hướng dận nhận Box GM vào game](/vi/guide/box-gm)
 - [Hướng dẫn tra cứu thông tin quát vật và vật phẩm rớt](/vi/guide/how-to-research-monsters-items)
 - [Hướng dẫn về tính năng Chợ Đen (Black Market)](/vi/guide/black-market)
+- [Hướng dẫn nạp WCoin bằng cách ủng hộ cho máy chủ *updating...*](/vi/guide/how-to-donate)
+- [Hướng dận nhận Box GM vào game](/vi/guide/box-gm)
+- [Hướng dẫn về tính năng chuyển coin vào Game *updating...*](/vi/guide/trainsfer-coin-to-game)
 {.links-list}
 
 # Trong Game
