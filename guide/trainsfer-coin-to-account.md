@@ -2,13 +2,13 @@
 title: Hướng dẫn chuyển wcoin cho người khác
 description: 
 published: true
-date: 2024-12-06T07:47:46.058Z
+date: 2024-12-06T07:48:31.705Z
 tags: guide, chuyển wc, hướng dẫn, chuyển wc cho người khác
 editor: markdown
 dateCreated: 2024-12-06T07:27:02.802Z
 ---
 
-Truy cập trang quản lý: 
+Truy cập trang quản lý: https://mu0rs.com/mu-non-reset
 
 Bên trái có mục chữ màu vàng với nội dung:
 
