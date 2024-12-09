@@ -2,8 +2,8 @@
 title: Danh sách sự kiện
 description: Sự kiện của máy chủ Buffalo
 published: true
-date: 2024-12-09T07:12:32.286Z
-tags: 
+date: 2024-12-09T07:13:17.541Z
+tags: server, buffalo, thông tin máy chủ, event buffalo, buffalo event
 editor: markdown
 dateCreated: 2024-11-23T05:06:43.102Z
 ---
