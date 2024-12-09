@@ -2,7 +2,7 @@
 title: Máy Chủ Buffalo
 description: Hoài niệm Mu Online. Máy chủ cày cuốc siêu khó mới !!!
 published: true
-date: 2024-12-02T05:45:48.889Z
+date: 2024-12-09T14:53:08.248Z
 tags: server, info, new, buffalo, máy chủ mới, hardcore, khó
 editor: markdown
 dateCreated: 2024-11-12T16:38:01.765Z
@@ -13,6 +13,10 @@ dateCreated: 2024-11-12T16:38:01.765Z
 {.links-list}
 
 <div align="center"/>
+
+Update:
+
+> 09/12/2024: Cre và các loại ngọc có rớt khi train nha anh em. Quái từ 100 trở lên rớt. Tỉ lệ rất thấp.
 
 # Thông tin chung
 | Chủ Đề | Nội Dung |
