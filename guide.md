@@ -2,7 +2,7 @@
 title: Hướng dẫn
 description: Hãy đọc các bài hướng dẫn trước khi bạn hỏi bất cứ vấn đề nào nhé!
 published: true
-date: 2024-12-06T07:48:05.223Z
+date: 2024-12-10T09:56:31.089Z
 tags: guide, newbie, hướng dẫn, người chơi mới, tìm hiểu
 editor: markdown
 dateCreated: 2024-11-12T06:01:23.151Z
@@ -26,6 +26,7 @@ dateCreated: 2024-11-12T06:01:23.151Z
 - [Hướng dẫn sử dụng lệnh afk](/vi/commands/afk)
 - [Hướng dẫn kiếm ZEN *Máy chủ Buffalo*](/vi/guide/how-to-farm-zen-early-game)
 - [Hướng dẫn kiếm đồ +4/ luck / op đầu game](/vi/guide/how-to-find-item-4-op)
+- [Hướng dẫn sử kiểm tra thông số vật phẩm](/vi/guide/how-to-check-info-item)
 - [Hướng dẫn sử các bãi train quái *updating...*](/vi/guide/how-to-find-spot-to-train)
 - [Hướng dẫn chỉnh auto combo MG | DW | SUM *updating...*](/vi/guide/how-to-setting-auto-combo)
 {.links-list}
