@@ -2,7 +2,7 @@
 title: Trang Bị
 description: Tổng hợp tất cả trang bị có ở Mu0rs
 published: true
-date: 2024-12-04T10:12:50.198Z
+date: 2024-12-10T18:02:57.740Z
 tags: items
 editor: markdown
 dateCreated: 2024-11-07T08:23:13.273Z
@@ -14,4 +14,5 @@ dateCreated: 2024-11-07T08:23:13.273Z
 - [Quần](https://wiki.mu0rs.com/t/pants)
 - [Giày](https://wiki.mu0rs.com/t/boots)
 - [Bao Tay](https://wiki.mu0rs.com/t/gloves)
+- [Kiếm](https://wiki.mu0rs.com/t/sword)
 {.links-list}
