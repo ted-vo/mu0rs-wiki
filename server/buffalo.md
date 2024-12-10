@@ -2,7 +2,7 @@
 title: Máy Chủ Buffalo
 description: Hoài niệm Mu Online. Máy chủ cày cuốc siêu khó mới !!!
 published: true
-date: 2024-12-09T14:53:08.248Z
+date: 2024-12-10T16:04:14.390Z
 tags: server, info, new, buffalo, máy chủ mới, hardcore, khó
 editor: markdown
 dateCreated: 2024-11-12T16:38:01.765Z
@@ -64,7 +64,7 @@ Update:
 | [Devil Square](/vi/events/devil-square) | DS 1-3: chỉ có exp.<br>DS 4+: rớt [Ngọc Thuộc Tính](/vi/craft/jewel-of-elements). |
 | [Chaos Castle](/vi/events/chaos-castle) | CC 1-6: chỉ rớt ngọc hoặc card.<br>CC 7: rớt ngọc, card, đồ thần. |
 | [Happy Hour](/vi/events/happy-hour) | Từ `21h00` đến `22h00` mỗi ngày. Chỉ tăng exp. |
-| [Boom](/vi/events/boom) | Rớt Ngọc (`5%`) và Zen (`95%`) |
+| [Boom](/vi/events/boom) | Rớt Ngọc, Card (`5%`) và Zen (`95%`) |
 | [Event Gà](/vi/events/chicken) | Ko |
 | [Event King](/vi/events/king) | Random 1-10 viên ngọc các loại |
 | [Sinh Tồn](/vi/events/survival) | Các loại box [Ngọc Thuộc Tính](/vi/craft/jewel-of-elements) |
