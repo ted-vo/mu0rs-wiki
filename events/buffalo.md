@@ -2,7 +2,7 @@
 title: Danh sách sự kiện
 description: Sự kiện của máy chủ Buffalo
 published: true
-date: 2024-12-09T14:54:21.073Z
+date: 2024-12-10T14:53:15.441Z
 tags: server, buffalo, thông tin máy chủ, event buffalo, buffalo event
 editor: markdown
 dateCreated: 2024-11-23T05:06:43.102Z
@@ -34,7 +34,7 @@ Update
 | [Erohim](/vi/monsters/erohim) | Lúc `20h20` tại `Lorencia` (1 lần / ngày) | Rớt:<br>- Box of KundunXX (![box_kundun.png](/assets/box_kundun.png)) (random `+1` đến `+5`).<br>- Pen excellent.<br>- Pink Chocolate Box (![](https://mu0rs.com/item_images/14/32.gif)).<br>- [Jewel Card](/vi/craft/jewel-card) (![](https://mu0rs.com/item_images/14/146.gif)) |
 | King of Kings | Chủ Nhật hàng tuần, `20h15m` | - Master 1+<br>- Phần thưởng box ele: 2 box |
 | [Survival](/vi/events/survival) | Mỗi ngày lúc `21h10` | Các loại box ele |
-| [Boom](/vi/events/boom) | Lúc `21h30` | - Mỗi ngày.<br>- Phần thưởng: zen, ngọc ele | |
+| [Boom](/vi/events/boom) | Lúc `21h30` | - Mỗi ngày.<br>- Phần thưởng: zen, ngọc ele,acient card | |
 | VANERT vs DUPRIAN | không có | |
 | [Hide and Seek with Kundun](/vi/events/hide-and-seek-with-kundun) | Lúc `22h15` mỗi ngày | Drop như box 1 |
 | [Gift Drop](/vi/events/gift-drop) | 1 lần / ngày Lúc `19h45` mỗi ngày | Random quà ngọc |
