@@ -2,8 +2,8 @@
 title: Rìu Nhẹ
 description: 
 published: true
-date: 2024-12-10T18:01:28.335Z
-tags: short sword, rìu nhẹ
+date: 2024-12-10T18:03:12.365Z
+tags: short sword, rìu nhẹ, sword
 editor: markdown
 dateCreated: 2024-12-10T18:01:28.335Z
 ---
